@@ -1,0 +1,9 @@
+aiohttp
+asyncio
+beautifulsoup4
+numpy
+pandas
+Pillow
+requests
+scikit-learn
+webcolors
