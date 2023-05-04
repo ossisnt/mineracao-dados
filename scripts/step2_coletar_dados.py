@@ -1,9 +1,11 @@
-import os
+import asyncio
 import csv
 import json
+import os
+
 import aiohttp
-import asyncio
 from bs4 import BeautifulSoup
+
 
 def get_most_recent_value(data):
     for item in data:
@@ -29,9 +31,27 @@ async def get_religion_from_wikipedia(session, country_name):
             if header and "religion" in header.get_text(strip=True).lower():
                 cell = row.find("td")
                 if cell:
-                    religions = "|".join([religion.get_text(strip=True).replace(",", "-") for religion in cell.find_all("a")])
+                    religions = "|".join(
+                        [
+                            religion.get_text(strip=True).replace(",", "-")
+                            for religion in cell.find_all("a")
+                        ]
+                    )
                     return religions
     return "N/A"
+
+
+def get_quadrant_by_coordinates(latitude, longitude):
+    if latitude > 0 and longitude > 0:
+        return "NE"
+    elif latitude > 0 and longitude < 0:
+        return "NW"
+    elif latitude < 0 and longitude > 0:
+        return "SE"
+    elif latitude < 0 and longitude < 0:
+        return "SW"
+    else:
+        return "Equator or Greenwich"
 
 
 async def main():
@@ -48,13 +68,23 @@ async def main():
             alpha_code = country.get("cca2").lower()
             country_name = country.get("name", {}).get("common", "N/A")
             country_name = country_name.replace(",", " -")
-            print(f"Processing {country_name}")
-            population = country.get("population", "N/A")
+            zone = get_quadrant_by_coordinates(
+                country.get("latlng")[0], country.get("latlng")[1]
+            )
             languages = "|".join(list(country.get("languages", {}).values())) or "N/A"
-            currency = "|".join([curr.get("name", "") for curr in country.get("currencies", {}).values()]) or "N/A"
+            currency = (
+                "|".join(
+                    [
+                        curr.get("name", "")
+                        for curr in country.get("currencies", {}).values()
+                    ]
+                )
+                or "N/A"
+            )
             region = country.get("region", "N/A")
             subregion = country.get("subregion", "N/A")
 
+            print(f"Processing {country_name}")
             religion = await get_religion_from_wikipedia(session, country_name)
 
             country_code = country.get("cca3")
@@ -62,8 +92,12 @@ async def main():
             fertility_rate_code = "SP.DYN.TFRT.IN"
 
             if country_code != "N/A":
-                life_expectancy_url = worldbank_url.format(country_code, life_expectancy_code)
-                fertility_rate_url = worldbank_url.format(country_code, fertility_rate_code)
+                life_expectancy_url = worldbank_url.format(
+                    country_code, life_expectancy_code
+                )
+                fertility_rate_url = worldbank_url.format(
+                    country_code, fertility_rate_code
+                )
 
                 life_expectancy_content, fertility_rate_content = await asyncio.gather(
                     fetch(session, life_expectancy_url),
@@ -73,16 +107,47 @@ async def main():
                 life_expectancy_data = json.loads(life_expectancy_content)
                 fertility_rate_data = json.loads(fertility_rate_content)
 
-                life_expectancy = get_most_recent_value(life_expectancy_data[1]) if len(life_expectancy_data) > 1 and life_expectancy_data[1] else "N/A"
-                life_expectancy = round(float(life_expectancy), 2) if life_expectancy != "N/A" else "N/A"
+                life_expectancy = (
+                    get_most_recent_value(life_expectancy_data[1])
+                    if len(life_expectancy_data) > 1 and life_expectancy_data[1]
+                    else "N/A"
+                )
+                life_expectancy = (
+                    # round(float(life_expectancy), 2)
+                    int(life_expectancy)
+                    if life_expectancy != "N/A"
+                    else 0
+                )
 
-                fertility_rate = get_most_recent_value(fertility_rate_data[1]) if len(fertility_rate_data) > 1 and fertility_rate_data[1] else "N/A"
-                fertility_rate = round(float(fertility_rate), 3) if fertility_rate != "N/A" else "N/A"
+                fertility_rate = (
+                    get_most_recent_value(fertility_rate_data[1])
+                    if len(fertility_rate_data) > 1 and fertility_rate_data[1]
+                    else "N/A"
+                )
+                fertility_rate = (
+                    # round(float(fertility_rate), 3)
+                    int(fertility_rate)
+                    if fertility_rate != "N/A"
+                    else 0
+                )
             else:
-                life_expectancy = "N/A"
-                fertility_rate = "N/A"
+                life_expectancy = 0
+                fertility_rate = 0
 
-            country_data.append([alpha_code, country_name, population, languages, religion, currency, region, subregion, life_expectancy, fertility_rate])
+            country_data.append(
+                [
+                    alpha_code,
+                    country_name,
+                    zone,
+                    languages,
+                    religion,
+                    currency,
+                    region,
+                    subregion,
+                    life_expectancy,
+                    fertility_rate,
+                ]
+            )
 
     # Save data to a CSV file
     current_dir = os.getcwd()
@@ -90,7 +155,20 @@ async def main():
 
     with open(data_path, "w", newline="", encoding="utf-8-sig") as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(["Alpha Code", "Country", "Population", "Languages", "Religion", "Currency", "Region", "Subregion", "Life Expectancy", "Fertility Rate"])
+        writer.writerow(
+            [
+                "Alpha Code",
+                "Country or Territory",
+                "Zone",
+                "Languages",
+                "Religion",
+                "Currency",
+                "Region",
+                "Subregion",
+                "Life Expectancy",
+                "Fertility Rate",
+            ]
+        )
         writer.writerows(country_data)
 
 
