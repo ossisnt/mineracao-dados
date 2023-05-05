@@ -1,251 +1,251 @@
 ﻿country_or_territory,zone,region,subregion,life_expectancy,fertility_rate,currency,languages,religion,num_colors,predominant_color_name,secondary_color,color_names
-Afghanistan,NE,Asia,Southern Asia,62,4,Afghan afghani,Dari|Pashto|Turkmen,Islam,4,forestgreen,black,black|firebrick|forestgreen|white
+Afghanistan,NE,Asia,Southern Asia,60,4,Afghan afghani,Dari|Pashto|Turkmen,Islam,4,forestgreen,black,black|firebrick|forestgreen|white
 Aland Islands,NE,Europe,Northern Europe,0,0,Euro,Swedish,N/A,3,teal,gold,teal|gold|crimson
-Albania,NE,Europe,Southeast Europe,76,1,Albanian lek,Albanian,Islam|Christianity,2,red,black,red|black
-Algeria,NE,Africa,Northern Africa,74,2,Algerian dinar,Arabic,Sunni Islam|Christians|Jews,2,white,darkgreen,darkgreen|white
+Albania,NE,Europe,Southeast Europe,75,1,Albanian lek,Albanian,Islam|Christianity,2,red,black,red|black
+Algeria,NE,Africa,Northern Africa,75,2,Algerian dinar,Arabic,Sunni Islam|Christians|Jews,2,white,darkgreen,darkgreen|white
 American Samoa,SW,Oceania,Polynesia,0,0,United States dollar,English|Samoan,Christian,3,navy,white,navy|white|firebrick
 Andorra,NE,Europe,Southern Europe,0,1,Euro,Catalan,Christianity|Catholic Church,3,darkblue,crimson,gold|darkblue|crimson
-Angola,SE,Africa,Middle Africa,62,5,Angolan kwanza,Portuguese,Christianity|Roman Catholic|Protestant|Christian|Traditional faiths|Islam,2,crimson,black,black|crimson
+Angola,SE,Africa,Middle Africa,60,5,Angolan kwanza,Portuguese,Christianity|Roman Catholic|Protestant|Christian|Traditional faiths|Islam,2,crimson,black,black|crimson
 Anguilla,NW,Americas,Caribbean,0,0,Eastern Caribbean dollar,English,N/A,3,midnightblue,white,midnightblue|white|crimson
 Antarctica,Equator or Greenwich,Antarctic,N/A,0,0,N/A,N/A,N/A,2,royalblue,white,royalblue|white
-Antigua and Barbuda,NW,Americas,Caribbean,78,1,Eastern Caribbean dollar,English,Christianity|Protestantism|Christian|Rastafari|Baha faith,4,crimson,black,darkcyan|crimson|black|white
+Antigua and Barbuda,NW,Americas,Caribbean,80,1,Eastern Caribbean dollar,English,Christianity|Protestantism|Christian|Rastafari|Baha faith,4,crimson,black,darkcyan|crimson|black|white
 Argentina,SW,Americas,South America,75,1,Argentine peso,Guarani|Spanish,Christianity|Roman Catholic|Christian,2,cornflowerblue,white,white|cornflowerblue
-Armenia,NE,Asia,Western Asia,72,1,Armenian dram,Armenian,Christianity|Armenian Apostolic Church,3,orange,darkblue,orange|darkblue|red
+Armenia,NE,Asia,Western Asia,70,1,Armenian dram,Armenian,Christianity|Armenian Apostolic Church,3,orange,darkblue,orange|darkblue|red
 Aruba,NW,Americas,Caribbean,75,1,Aruban florin,Dutch|Papiamento,N/A,2,royalblue,gold,royalblue|gold
-Australia,SE,Oceania,Australia and New Zealand,83,1,Australian dollar,English,Christianity|Islam|Hinduism|Buddhism,3,midnightblue,white,midnightblue|white|crimson
-Austria,NE,Europe,Central Europe,81,1,Euro,German,Christianity|Catholicism|Orthodoxy|Christian|Islam,2,crimson,white,crimson|white
-Azerbaijan,NE,Asia,Western Asia,66,1,Azerbaijani manat,Azerbaijani|Russian,Islam|Shia Islam|Sunni Islam|Christianity,3,darkturquoise,forestgreen,crimson|darkturquoise|forestgreen
-Bahamas,NE,Americas,Caribbean,72,1,Bahamian dollar|United States dollar,English,Christianity|Protestantism|Christian|folk religions,3,teal,black,teal|gold|black
-Bahrain,NE,Asia,Western Asia,79,1,Bahraini dinar,Arabic,Islam|Shia Islam|Sunni Islam|Christianity|Hinduism,2,crimson,white,white|crimson
-Bangladesh,NE,Asia,Southern Asia,71,2,Bangladeshi taka,Bengali,Islam|Hinduism|Buddhism|Christianity,2,darkslategray,crimson,darkslategray|crimson
-Barbados,NW,Americas,Caribbean,77,1,Barbadian dollar,English,Christianity,2,midnightblue,gold,midnightblue|gold
-Belarus,NE,Europe,Eastern Europe,74,1,Belarusian ruble,Belarusian|Russian,Christianity|Eastern Orthodoxy|Christian,2,firebrick,forestgreen,firebrick|forestgreen
+Australia,SE,Oceania,Australia and New Zealand,85,1,Australian dollar,English,Christianity|Islam|Hinduism|Buddhism,3,midnightblue,white,midnightblue|white|crimson
+Austria,NE,Europe,Central Europe,80,1,Euro,German,Christianity|Catholicism|Orthodoxy|Christian|Islam,2,crimson,white,crimson|white
+Azerbaijan,NE,Asia,Western Asia,65,1,Azerbaijani manat,Azerbaijani|Russian,Islam|Shia Islam|Sunni Islam|Christianity,3,darkturquoise,forestgreen,crimson|darkturquoise|forestgreen
+Bahamas,NE,Americas,Caribbean,70,1,Bahamian dollar|United States dollar,English,Christianity|Protestantism|Christian|folk religions,3,teal,black,teal|gold|black
+Bahrain,NE,Asia,Western Asia,80,1,Bahraini dinar,Arabic,Islam|Shia Islam|Sunni Islam|Christianity|Hinduism,2,crimson,white,white|crimson
+Bangladesh,NE,Asia,Southern Asia,70,2,Bangladeshi taka,Bengali,Islam|Hinduism|Buddhism|Christianity,2,darkslategray,crimson,darkslategray|crimson
+Barbados,NW,Americas,Caribbean,75,1,Barbadian dollar,English,Christianity,2,midnightblue,gold,midnightblue|gold
+Belarus,NE,Europe,Eastern Europe,75,1,Belarusian ruble,Belarusian|Russian,Christianity|Eastern Orthodoxy|Christian,2,firebrick,forestgreen,firebrick|forestgreen
 Belgium,NE,Europe,Western Europe,80,1,Euro,German|French|Dutch,Christianity|Roman Catholic|Christian|Islam,3,crimson,gold,gold|black|crimson
-Belize,NW,Americas,Central America,72,1,Belize dollar,Belizean Creole|English|Spanish,Christianity|Folk religions,3,darkblue,crimson,darkblue|snow|crimson
+Belize,NW,Americas,Central America,70,1,Belize dollar,Belizean Creole|English|Spanish,Christianity|Folk religions,3,darkblue,crimson,darkblue|snow|crimson
 Benin,NE,Africa,Western Africa,60,5,West African CFA franc,French,Christianity|Islam|Traditional faiths,3,seagreen,gold,seagreen|gold|crimson
-Bermuda,NW,Americas,North America,82,1,Bermudian dollar,English,N/A,3,crimson,white,white|crimson|midnightblue
-Bhutan,NE,Asia,Southern Asia,71,1,Bhutanese ngultrum|Indian rupee,Dzongkha,Buddhism|Hinduism|Bon|Christianity,3,gold,orangered,gold|orangered|white
-Bolivia,SW,Americas,South America,64,2,Bolivian boliviano,Aymara|Guarani|Quechua|Spanish,Christianity|Catholicism|Protestantism|Christian,3,forestgreen,gold,forestgreen|gold|firebrick
-Bosnia and Herzegovina,NE,Europe,Southeast Europe,76,1,Bosnia and Herzegovina convertible mark,Bosnian|Croatian|Serbian,Islam|Christianity|Serbian Orthodox Church|Roman Catholicism,2,darkblue,gold,darkblue|gold
+Bermuda,NW,Americas,North America,80,1,Bermudian dollar,English,N/A,3,crimson,white,white|crimson|midnightblue
+Bhutan,NE,Asia,Southern Asia,70,1,Bhutanese ngultrum|Indian rupee,Dzongkha,Buddhism|Hinduism|Bon|Christianity,3,gold,orangered,gold|orangered|white
+Bolivia,SW,Americas,South America,65,2,Bolivian boliviano,Aymara|Guarani|Quechua|Spanish,Christianity|Catholicism|Protestantism|Christian,3,forestgreen,gold,forestgreen|gold|firebrick
+Bosnia and Herzegovina,NE,Europe,Southeast Europe,75,1,Bosnia and Herzegovina convertible mark,Bosnian|Croatian|Serbian,Islam|Christianity|Serbian Orthodox Church|Roman Catholicism,2,darkblue,gold,darkblue|gold
 Botswana,SE,Africa,Southern Africa,65,2,Botswana pula,English|Tswana,Christianity|Protestantism|Christian|Badimo,3,cornflowerblue,black,black|cornflowerblue|white
 Bouvet Island,NE,Antarctic,N/A,0,0,N/A,Norwegian,N/A,3,crimson,midnightblue,crimson|midnightblue|white
-Brazil,SW,Americas,South America,74,1,Brazilian real,Portuguese,Christianity|Catholicism|Protestantism|Christian|Spiritism,3,forestgreen,gold,forestgreen|gold|midnightblue
+Brazil,SW,Americas,South America,75,1,Brazilian real,Portuguese,Christianity|Catholicism|Protestantism|Christian|Spiritism,3,forestgreen,gold,forestgreen|gold|midnightblue
 British Indian Ocean Territory,SE,Africa,Eastern Africa,0,0,United States dollar,English,N/A,3,white,midnightblue,midnightblue|white|crimson
 British Virgin Islands,NW,Americas,Caribbean,75,0,United States dollar,English,N/A,3,midnightblue,white,white|midnightblue|crimson
-Brunei,NE,Asia,South-Eastern Asia,74,1,Brunei dollar|Singapore dollar,Malay,Sunni Islam|Christianity|Buddhism|Indigenous beliefs,3,gold,white,gold|white|black
-Bulgaria,NE,Europe,Southeast Europe,73,1,Bulgarian lev,Bulgarian,Christianity|Bulgarian Orthodoxy|Christian|Islam,3,teal,white,teal|white|firebrick
-Burkina Faso,NW,Africa,Western Africa,59,4,West African CFA franc,French,Islam|Christianity|Traditional faiths,2,seagreen,crimson,seagreen|crimson
-Burundi,SE,Africa,Eastern Africa,61,5,Burundian franc,French|Kirundi,Christianity|Roman Catholic|Protestant|Christian|Traditional faiths|Islam,3,white,limegreen,crimson|white|limegreen
+Brunei,NE,Asia,South-Eastern Asia,75,1,Brunei dollar|Singapore dollar,Malay,Sunni Islam|Christianity|Buddhism|Indigenous beliefs,3,gold,white,gold|white|black
+Bulgaria,NE,Europe,Southeast Europe,75,1,Bulgarian lev,Bulgarian,Christianity|Bulgarian Orthodoxy|Christian|Islam,3,teal,white,teal|white|firebrick
+Burkina Faso,NW,Africa,Western Africa,60,4,West African CFA franc,French,Islam|Christianity|Traditional faiths,2,seagreen,crimson,seagreen|crimson
+Burundi,SE,Africa,Eastern Africa,60,5,Burundian franc,French|Kirundi,Christianity|Roman Catholic|Protestant|Christian|Traditional faiths|Islam,3,white,limegreen,crimson|white|limegreen
 Cambodia,NE,Asia,South-Eastern Asia,70,2,Cambodian riel|United States dollar,Khmer,Buddhism|Islam|Christianity,3,darkblue,crimson,white|darkblue|crimson
 Cameroon,NE,Africa,Middle Africa,60,4,Central African CFA franc,English|French,Christianity|Islam|Traditional faiths,3,gold,teal,crimson|teal|gold
-Canada,NW,Americas,North America,81,1,Canadian dollar,English|French,N/A,2,red,white,white|red
-Cape Verde,NE,Africa,Western Africa,74,1,Cape Verdean escudo,Portuguese,Christianity|Catholicism|Christian,3,midnightblue,white,white|midnightblue|crimson
+Canada,NW,Americas,North America,80,1,Canadian dollar,English|French,N/A,2,red,white,white|red
+Cape Verde,NE,Africa,Western Africa,75,1,Cape Verdean escudo,Portuguese,Christianity|Catholicism|Christian,3,midnightblue,white,white|midnightblue|crimson
 Caribbean Netherlands,NW,Americas,Caribbean,0,0,United States dollar,English|Dutch|Papiamento,N/A,3,midnightblue,white,midnightblue|white|gold
-Cayman Islands,NE,Americas,Caribbean,82,0,Cayman Islands dollar,English,Christianity|Hinduism|Islam|Rastafari|Judaism,3,midnightblue,white,white|midnightblue|crimson
-Central African Republic,NE,Africa,Middle Africa,54,5,Central African CFA franc,French|Sango,Christianity|Islam|Traditional faiths,5,gold,forestgreen,midnightblue|white|gold|crimson|forestgreen
-Chad,NE,Africa,Middle Africa,52,6,Central African CFA franc,Arabic|French,Islam|Christianity|Animism,3,midnightblue,crimson,midnightblue|crimson|gold
-Chile,SW,Americas,South America,79,1,Chilean peso,Spanish,Christianity|Catholicism|Christian,3,firebrick,white,firebrick|white|darkblue
-China,NE,Asia,Eastern Asia,78,1,Chinese yuan,Chinese,folk|Buddhism|Christianity|Islam,1,orangered,orangered,orangered
+Cayman Islands,NE,Americas,Caribbean,80,0,Cayman Islands dollar,English,Christianity|Hinduism|Islam|Rastafari|Judaism,3,midnightblue,white,white|midnightblue|crimson
+Central African Republic,NE,Africa,Middle Africa,55,5,Central African CFA franc,French|Sango,Christianity|Islam|Traditional faiths,5,gold,forestgreen,midnightblue|white|gold|crimson|forestgreen
+Chad,NE,Africa,Middle Africa,50,6,Central African CFA franc,Arabic|French,Islam|Christianity|Animism,3,midnightblue,crimson,midnightblue|crimson|gold
+Chile,SW,Americas,South America,80,1,Chilean peso,Spanish,Christianity|Catholicism|Christian,3,firebrick,white,firebrick|white|darkblue
+China,NE,Asia,Eastern Asia,80,1,Chinese yuan,Chinese,folk|Buddhism|Christianity|Islam,1,orangered,orangered,orangered
 Christmas Island,SE,Oceania,Australia and New Zealand,0,0,Australian dollar,English,N/A,3,mediumblue,seagreen,mediumblue|seagreen|sandybrown
 Cocos (Keeling) Islands,NE,Oceania,Australia and New Zealand,0,0,Australian dollar,English,N/A,2,green,gold,gold|green
-Colombia,NW,Americas,South America,74,1,Colombian peso,Spanish,Christianity|Roman Catholic|Christian,3,gold,midnightblue,gold|midnightblue|crimson
-Comoros,SE,Africa,Eastern Africa,64,4,Comorian franc,Arabic|French|Comorian,Sunni Islam|Christianity,5,steelblue,gold,white|forestgreen|crimson|gold|steelblue
+Colombia,NW,Americas,South America,75,1,Colombian peso,Spanish,Christianity|Roman Catholic|Christian,3,gold,midnightblue,gold|midnightblue|crimson
+Comoros,SE,Africa,Eastern Africa,65,4,Comorian franc,Arabic|French|Comorian,Sunni Islam|Christianity,5,steelblue,gold,white|forestgreen|crimson|gold|steelblue
 Cook Islands,SW,Oceania,Polynesia,0,0,Cook Islands dollar|New Zealand dollar,English|Cook Islands Maori,N/A,3,midnightblue,white,midnightblue|white|crimson
-Costa Rica,NW,Americas,Central America,79,1,Costa Rican colon,Spanish,Christianity|Roman Catholic|Protestant|Christian,3,white,midnightblue,crimson|white|midnightblue
-Croatia,NE,Europe,Southeast Europe,77,1,Euro,Croatian,Christianity|Catholicism|Orthodoxy|Christian,3,red,darkblue,red|white|darkblue
-Cuba,NW,Americas,Caribbean,77,1,Cuban convertible peso|Cuban peso,Spanish,Christianity|Folk religions,3,darkblue,white,white|darkblue|crimson
-Curacao,NW,Americas,Caribbean,78,1,Netherlands Antillean guilder,English|Dutch|Papiamento,Christianity|Roman Catholic|Pentecostal|Protestant|Seventh-day Adventist|Evangelical|Jehovah Witnesses|Christian|Hinduism|Islam|Judaism,2,midnightblue,gold,midnightblue|gold
-Cyprus,NE,Europe,Southern Europe,81,1,Euro,Greek|Turkish,Christianity|Islam,2,white,darkgoldenrod,white|darkgoldenrod
-Czechia,NE,Europe,Central Europe,78,1,Czech koruna,Czech|Slovak,Christianity|Catholicism|Christian,3,crimson,white,white|crimson|midnightblue
-DR Congo,Equator or Greenwich,Africa,Middle Africa,59,6,Congolese franc,French|Kikongo|Lingala|Tshiluba|Swahili,Christianity|Catholicism|Protestantism|Traditional faiths|Islam,3,dodgerblue,crimson,dodgerblue|crimson|gold
-Denmark,NE,Europe,Northern Europe,81,1,Danish krone,Danish,Christianity|Church of Denmark|Christian|Islam,2,crimson,white,crimson|white
-Djibouti,NE,Africa,Eastern Africa,62,2,Djiboutian franc,Arabic|French,Islam|Christianity,3,cornflowerblue,forestgreen,forestgreen|cornflowerblue|white
-Dominica,NW,Americas,Caribbean,76,1,Eastern Caribbean dollar,English,Christianity|Folk religions,5,forestgreen,gold,black|gold|forestgreen|white|crimson
-Dominican Republic,NW,Americas,Caribbean,72,2,Dominican peso,Spanish,Christianity|Roman Catholic|Protestant|Christian,3,crimson,midnightblue,white|midnightblue|crimson
-Ecuador,SW,Americas,South America,72,2,United States dollar,Spanish,Christianity|Roman Catholic|Protestant|Christian,3,gold,crimson,teal|gold|crimson
+Costa Rica,NW,Americas,Central America,80,1,Costa Rican colon,Spanish,Christianity|Roman Catholic|Protestant|Christian,3,white,midnightblue,crimson|white|midnightblue
+Croatia,NE,Europe,Southeast Europe,75,1,Euro,Croatian,Christianity|Catholicism|Orthodoxy|Christian,3,red,darkblue,red|white|darkblue
+Cuba,NW,Americas,Caribbean,75,1,Cuban convertible peso|Cuban peso,Spanish,Christianity|Folk religions,3,darkblue,white,white|darkblue|crimson
+Curacao,NW,Americas,Caribbean,80,1,Netherlands Antillean guilder,English|Dutch|Papiamento,Christianity|Roman Catholic|Pentecostal|Protestant|Seventh-day Adventist|Evangelical|Jehovah Witnesses|Christian|Hinduism|Islam|Judaism,2,midnightblue,gold,midnightblue|gold
+Cyprus,NE,Europe,Southern Europe,80,1,Euro,Greek|Turkish,Christianity|Islam,2,white,darkgoldenrod,white|darkgoldenrod
+Czechia,NE,Europe,Central Europe,80,1,Czech koruna,Czech|Slovak,Christianity|Catholicism|Christian,3,crimson,white,white|crimson|midnightblue
+DR Congo,Equator or Greenwich,Africa,Middle Africa,60,6,Congolese franc,French|Kikongo|Lingala|Tshiluba|Swahili,Christianity|Catholicism|Protestantism|Traditional faiths|Islam,3,dodgerblue,crimson,dodgerblue|crimson|gold
+Denmark,NE,Europe,Northern Europe,80,1,Danish krone,Danish,Christianity|Church of Denmark|Christian|Islam,2,crimson,white,crimson|white
+Djibouti,NE,Africa,Eastern Africa,60,2,Djiboutian franc,Arabic|French,Islam|Christianity,3,cornflowerblue,forestgreen,forestgreen|cornflowerblue|white
+Dominica,NW,Americas,Caribbean,75,1,Eastern Caribbean dollar,English,Christianity|Folk religions,5,forestgreen,gold,black|gold|forestgreen|white|crimson
+Dominican Republic,NW,Americas,Caribbean,70,2,Dominican peso,Spanish,Christianity|Roman Catholic|Protestant|Christian,3,crimson,midnightblue,white|midnightblue|crimson
+Ecuador,SW,Americas,South America,70,2,United States dollar,Spanish,Christianity|Roman Catholic|Protestant|Christian,3,gold,crimson,teal|gold|crimson
 Egypt,NE,Africa,Northern Africa,70,2,Egyptian pound,Arabic,Religion in Egypt,3,black,crimson,black|white|crimson
-El Salvador,NW,Americas,Central America,71,1,United States dollar,Spanish,Christianity|Roman Catholic|Protestant|Christian,2,teal,white,teal|white
+El Salvador,NW,Americas,Central America,70,1,United States dollar,Spanish,Christianity|Roman Catholic|Protestant|Christian,2,teal,white,teal|white
 Equatorial Guinea,NE,Africa,Middle Africa,60,4,Central African CFA franc,French|Portuguese|Spanish,Christianity|Islam|Traditional faiths,4,crimson,forestgreen,crimson|white|forestgreen|dodgerblue
-Eritrea,NE,Africa,Eastern Africa,67,3,Eritrean nakfa,Arabic|English|Tigrinya,religion in Eritrea,4,crimson,forestgreen,crimson|forestgreen|royalblue|gold
-Estonia,NE,Europe,Northern Europe,78,1,Euro,Estonian,Christianity,3,white,black,white|black|dodgerblue
-Eswatini,SE,Africa,Southern Africa,59,2,Swazi lilangeni|South African rand,English|Swazi,Christianity|Protestantism|Christian|Traditional faiths,5,steelblue,firebrick,steelblue|firebrick|gold|white|black
+Eritrea,NE,Africa,Eastern Africa,65,3,Eritrean nakfa,Arabic|English|Tigrinya,religion in Eritrea,4,crimson,forestgreen,crimson|forestgreen|royalblue|gold
+Estonia,NE,Europe,Northern Europe,80,1,Euro,Estonian,Christianity,3,white,black,white|black|dodgerblue
+Eswatini,SE,Africa,Southern Africa,60,2,Swazi lilangeni|South African rand,English|Swazi,Christianity|Protestantism|Christian|Traditional faiths,5,steelblue,firebrick,steelblue|firebrick|gold|white|black
 Ethiopia,NE,Africa,Eastern Africa,65,4,Ethiopian birr,Amharic,Christianity|Ethiopian Orthodoxy|Pnty|Christian|Islam|Traditional faiths,4,forestgreen,crimson,forestgreen|crimson|gold|darkslateblue
 Falkland Islands,SW,Americas,South America,0,0,Falkland Islands pound,English,N/A,3,midnightblue,white,white|midnightblue|crimson
-Faroe Islands,NW,Europe,Northern Europe,83,2,Danish krone|Faroese krona,Danish|Faroese,Christianity|Church of the Faroe Islands,3,white,crimson,white|crimson|darkcyan
-Fiji,NE,Oceania,Melanesia,67,2,Fijian dollar,English|Fijian|Fiji Hindi,Christianity|Methodism|Christian|Hinduism|Islam,4,cornflowerblue,crimson,cornflowerblue|crimson|midnightblue|white
-Finland,NE,Europe,Northern Europe,82,1,Euro,Finnish|Swedish,Christianity|Lutheranism|Orthodoxy|Christian,2,white,midnightblue,white|midnightblue
-France,NE,Europe,Western Europe,82,1,Euro,French,Christianity|Roman Catholicism|Protestantism|Islam|Buddhism|Judaism,3,crimson,white,crimson|white|darkblue
+Faroe Islands,NW,Europe,Northern Europe,85,2,Danish krone|Faroese krona,Danish|Faroese,Christianity|Church of the Faroe Islands,3,white,crimson,white|crimson|darkcyan
+Fiji,NE,Oceania,Melanesia,65,2,Fijian dollar,English|Fijian|Fiji Hindi,Christianity|Methodism|Christian|Hinduism|Islam,4,cornflowerblue,crimson,cornflowerblue|crimson|midnightblue|white
+Finland,NE,Europe,Northern Europe,80,1,Euro,Finnish|Swedish,Christianity|Lutheranism|Orthodoxy|Christian,2,white,midnightblue,white|midnightblue
+France,NE,Europe,Western Europe,80,1,Euro,French,Christianity|Roman Catholicism|Protestantism|Islam|Buddhism|Judaism,3,crimson,white,crimson|white|darkblue
 French Guiana,NW,Americas,South America,0,0,Euro,French,N/A,2,forestgreen,gold,forestgreen|gold
-French Polynesia,NE,Oceania,Polynesia,82,1,CFP franc,French,N/A,2,crimson,white,crimson|white
+French Polynesia,NE,Oceania,Polynesia,80,1,CFP franc,French,N/A,2,crimson,white,crimson|white
 French Southern and Antarctic Lands,SE,Antarctic,N/A,0,0,Euro,French,N/A,2,darkblue,white,darkblue|white
-Gabon,SE,Africa,Middle Africa,66,3,Central African CFA franc,French,Christianity|Islam|Bwiti|Traditional faiths,3,gold,teal,gold|teal|steelblue
-Gambia,NW,Africa,Western Africa,62,4,dalasi,English,Islam|Christianity,4,darkolivegreen,crimson,darkblue|darkolivegreen|white|crimson
-Georgia,NE,Asia,Western Asia,72,1,lari,Georgian,N/A,2,white,red,red|white
+Gabon,SE,Africa,Middle Africa,65,3,Central African CFA franc,French,Christianity|Islam|Bwiti|Traditional faiths,3,gold,teal,gold|teal|steelblue
+Gambia,NW,Africa,Western Africa,60,4,dalasi,English,Islam|Christianity,4,darkolivegreen,crimson,darkblue|darkolivegreen|white|crimson
+Georgia,NE,Asia,Western Asia,70,1,lari,Georgian,N/A,2,white,red,red|white
 Germany,NE,Europe,Western Europe,80,1,Euro,German,N/A,3,red,black,red|black|gold
-Ghana,NW,Africa,Western Africa,64,3,Ghanaian cedi,English,Christianity|Protestantism|Christian|Islam|Traditional faiths,3,crimson,forestgreen,forestgreen|crimson|gold
-Gibraltar,NW,Europe,Southern Europe,82,1,Gibraltar pound,English,N/A,2,white,red,red|white
-Greece,NE,Europe,Southern Europe,81,1,Euro,Greek,Greek Orthodoxy|Christian|Islam,2,darkcyan,white,darkcyan|white
-Greenland,NW,Americas,North America,71,2,krone,Greenlandic,Christianity|Church of Greenland,2,crimson,white,crimson|white
-Grenada,NW,Americas,Caribbean,74,2,Eastern Caribbean dollar,English,Christianity|Roman Catholic|Protestant|Christian|Rastafari|Hinduism,3,crimson,gold,crimson|teal|gold
+Ghana,NW,Africa,Western Africa,65,3,Ghanaian cedi,English,Christianity|Protestantism|Christian|Islam|Traditional faiths,3,crimson,forestgreen,forestgreen|crimson|gold
+Gibraltar,NW,Europe,Southern Europe,80,1,Gibraltar pound,English,N/A,2,white,red,red|white
+Greece,NE,Europe,Southern Europe,80,1,Euro,Greek,Greek Orthodoxy|Christian|Islam,2,darkcyan,white,darkcyan|white
+Greenland,NW,Americas,North America,70,2,krone,Greenlandic,Christianity|Church of Greenland,2,crimson,white,crimson|white
+Grenada,NW,Americas,Caribbean,75,2,Eastern Caribbean dollar,English,Christianity|Roman Catholic|Protestant|Christian|Rastafari|Hinduism,3,crimson,gold,crimson|teal|gold
 Guadeloupe,NW,Americas,Caribbean,0,0,Euro,French,N/A,3,black,darkblue,black|gold|darkblue
-Guam,NE,Oceania,Micronesia,76,2,United States dollar,Chamorro|English|Spanish,Christianity|Buddhism,2,midnightblue,crimson,midnightblue|crimson
-Guatemala,NW,Americas,Central America,71,2,Guatemalan quetzal,Spanish,Christianity|Roman Catholic|Protestant|Christian,2,steelblue,white,white|steelblue
+Guam,NE,Oceania,Micronesia,75,2,United States dollar,Chamorro|English|Spanish,Christianity|Buddhism,2,midnightblue,crimson,midnightblue|crimson
+Guatemala,NW,Americas,Central America,70,2,Guatemalan quetzal,Spanish,Christianity|Roman Catholic|Protestant|Christian,2,steelblue,white,white|steelblue
 Guernsey,NW,Europe,Northern Europe,0,0,British pound|Guernsey pound,English|French|Guernesiais,N/A,3,white,crimson,white|crimson|gold
-Guinea,NW,Africa,Western Africa,59,4,Guinean franc,French,Islam|Christianity|Folk religions,3,crimson,teal,teal|crimson|gold
-Guinea-Bissau,NW,Africa,Western Africa,59,4,West African CFA franc,Portuguese|Upper Guinea Creole,Islam|Traditional faiths|Christianity,3,seagreen,gold,seagreen|gold|crimson
-Guyana,NW,Americas,South America,68,2,Guyanese dollar,English,Christianity|Hinduism|Islam,4,seagreen,crimson,crimson|seagreen|gold|white
-Haiti,NW,Americas,Caribbean,64,2,Haitian gourde,French|Haitian Creole,Christianity|Folk religions,2,darkblue,crimson,darkblue|crimson
+Guinea,NW,Africa,Western Africa,60,4,Guinean franc,French,Islam|Christianity|Folk religions,3,crimson,teal,teal|crimson|gold
+Guinea-Bissau,NW,Africa,Western Africa,60,4,West African CFA franc,Portuguese|Upper Guinea Creole,Islam|Traditional faiths|Christianity,3,seagreen,gold,seagreen|gold|crimson
+Guyana,NW,Americas,South America,70,2,Guyanese dollar,English,Christianity|Hinduism|Islam,4,seagreen,crimson,crimson|seagreen|gold|white
+Haiti,NW,Americas,Caribbean,65,2,Haitian gourde,French|Haitian Creole,Christianity|Folk religions,2,darkblue,crimson,darkblue|crimson
 Heard Island and McDonald Islands,NE,Antarctic,N/A,0,0,N/A,English,N/A,3,darkblue,white,darkblue|white|red
-Honduras,NW,Americas,Central America,71,2,Honduran lempira,Spanish,Christianity|Catholicism|Protestantism,2,dodgerblue,white,dodgerblue|white
+Honduras,NW,Americas,Central America,70,2,Honduran lempira,Spanish,Christianity|Catholicism|Protestantism,2,dodgerblue,white,dodgerblue|white
 Hong Kong,NE,Asia,Eastern Asia,85,0,Hong Kong dollar,English|Chinese,N/A,2,orangered,white,orangered|white
 Hungary,NE,Europe,Central Europe,75,1,Hungarian forint,Hungarian,Christianity|Catholicism|Protestantism|Christian,3,darkolivegreen,white,darkolivegreen|white|crimson
-Iceland,NW,Europe,Northern Europe,83,1,Icelandic krona,Icelandic,Christianity|Church of Iceland|Christian|Asatruarfelagi,3,teal,crimson,teal|white|crimson
+Iceland,NW,Europe,Northern Europe,85,1,Icelandic krona,Icelandic,Christianity|Church of Iceland|Christian|Asatruarfelagi,3,teal,crimson,teal|white|crimson
 India,NE,Asia,Southern Asia,70,2,Indian rupee,English|Hindi|Tamil,Hinduism|Islam|Christianity|Sikhism|Buddhism|Jainism|unaffiliated,3,green,coral,green|coral|white
-Indonesia,SE,Asia,South-Eastern Asia,68,2,Indonesian rupiah,Indonesian,Islam|Christianity|Hinduism|Buddhism|Folk|Confucianism,2,white,red,white|red
-Iran,NE,Asia,Southern Asia,74,1,Iranian rial,Persian (Farsi),Shia Islam,3,white,red,white|red|seagreen
-Iraq,NE,Asia,Western Asia,69,3,Iraqi dinar,Arabic|Aramaic|Sorani,Islam|Christianity|Mandaeism|Yazidism|Judaism|Yarsanism|Zoroastrianism|Irreligion,3,black,crimson,black|white|crimson
-Ireland,NW,Europe,Northern Europe,82,1,Euro,English|Irish,N/A,3,seagreen,coral,seagreen|white|coral
+Indonesia,SE,Asia,South-Eastern Asia,70,2,Indonesian rupiah,Indonesian,Islam|Christianity|Hinduism|Buddhism|Folk|Confucianism,2,white,red,white|red
+Iran,NE,Asia,Southern Asia,75,1,Iranian rial,Persian (Farsi),Shia Islam,3,white,red,white|red|seagreen
+Iraq,NE,Asia,Western Asia,70,3,Iraqi dinar,Arabic|Aramaic|Sorani,Islam|Christianity|Mandaeism|Yazidism|Judaism|Yarsanism|Zoroastrianism|Irreligion,3,black,crimson,black|white|crimson
+Ireland,NW,Europe,Northern Europe,80,1,Euro,English|Irish,N/A,3,seagreen,coral,seagreen|white|coral
 Isle of Man,NW,Europe,Northern Europe,80,1,British pound|Manx pound,English|Manx,Christianity|Islam|Buddhism|Hinduism|Judaism,1,crimson,crimson,crimson
-Israel,NE,Asia,Western Asia,82,2,Israeli new shekel,Arabic|Hebrew,Judaism|Islam|Christianity|Druze,2,white,mediumblue,white|mediumblue
-Italy,NE,Europe,Southern Europe,82,1,Euro,Italian,Christianity|Islam,3,seagreen,crimson,seagreen|white|crimson
-Ivory Coast,NW,Africa,Western Africa,59,4,West African CFA franc,French,N/A,3,teal,darkorange,white|teal|darkorange
-Jamaica,NW,Americas,Caribbean,71,1,Jamaican dollar,English|Jamaican Patois,Christianity|Protestantism|Christian|Rastafarianism,3,gold,forestgreen,gold|forestgreen|black
-Japan,NE,Asia,Eastern Asia,84,1,Japanese yen,Japanese,N/A,2,white,firebrick,firebrick|white
+Israel,NE,Asia,Western Asia,80,2,Israeli new shekel,Arabic|Hebrew,Judaism|Islam|Christianity|Druze,2,white,mediumblue,white|mediumblue
+Italy,NE,Europe,Southern Europe,80,1,Euro,Italian,Christianity|Islam,3,seagreen,crimson,seagreen|white|crimson
+Ivory Coast,NW,Africa,Western Africa,60,4,West African CFA franc,French,N/A,3,teal,darkorange,white|teal|darkorange
+Jamaica,NW,Americas,Caribbean,70,1,Jamaican dollar,English|Jamaican Patois,Christianity|Protestantism|Christian|Rastafarianism,3,gold,forestgreen,gold|forestgreen|black
+Japan,NE,Asia,Eastern Asia,85,1,Japanese yen,Japanese,N/A,2,white,firebrick,firebrick|white
 Jersey,NW,Europe,Northern Europe,0,0,British pound|Jersey pound,English|French|Jerriais,Anglican|Catholic|Christian,2,white,crimson,white|crimson
 Jordan,NE,Asia,Western Asia,75,2,Jordanian dinar,Arabic,Sunni Islam|Christianity|Druze|Bahai,4,black,forestgreen,black|white|crimson|forestgreen
-Kazakhstan,NE,Asia,Central Asia,71,3,Kazakhstani tenge,Kazakh|Russian,Islam|Christianity|Atheism,2,darkturquoise,gold,darkturquoise|gold
-Kenya,NE,Africa,Eastern Africa,62,3,Kenyan shilling,English|Swahili,Christianity|Protestantism|Catholicism|Christian|Islam|Traditional faiths,4,black,darkred,darkred|black|white|darkgreen
-Kiribati,NE,Oceania,Micronesia,67,3,Australian dollar|Kiribati dollar,English|Gilbertese,Christianity|Roman Catholic|Uniting Church|Christian|Bahai Faith,4,firebrick,white,firebrick|white|midnightblue|gold
+Kazakhstan,NE,Asia,Central Asia,70,3,Kazakhstani tenge,Kazakh|Russian,Islam|Christianity|Atheism,2,darkturquoise,gold,darkturquoise|gold
+Kenya,NE,Africa,Eastern Africa,60,3,Kenyan shilling,English|Swahili,Christianity|Protestantism|Catholicism|Christian|Islam|Traditional faiths,4,black,darkred,darkred|black|white|darkgreen
+Kiribati,NE,Oceania,Micronesia,65,3,Australian dollar|Kiribati dollar,English|Gilbertese,Christianity|Roman Catholic|Uniting Church|Christian|Bahai Faith,4,firebrick,white,firebrick|white|midnightblue|gold
 Kosovo,NE,Europe,Southeast Europe,0,0,Euro,Albanian|Serbian,Islam|Christianity,2,darkslateblue,peru,darkslateblue|peru
-Kuwait,NE,Asia,Western Asia,76,2,Kuwaiti dinar,Arabic,Islam|Christianity,4,forestgreen,crimson,black|white|crimson|forestgreen
-Kyrgyzstan,NE,Asia,Central Asia,71,3,Kyrgyzstani som,Kyrgyz|Russian,Islam|Christianity,2,red,yellow,red|yellow
-Laos,NE,Asia,South-Eastern Asia,68,2,Lao kip,Lao,Buddhism|Tai folk religion|Christianity,3,crimson,midnightblue,white|crimson|midnightblue
+Kuwait,NE,Asia,Western Asia,75,2,Kuwaiti dinar,Arabic,Islam|Christianity,4,forestgreen,crimson,black|white|crimson|forestgreen
+Kyrgyzstan,NE,Asia,Central Asia,70,3,Kyrgyzstani som,Kyrgyz|Russian,Islam|Christianity,2,red,yellow,red|yellow
+Laos,NE,Asia,South-Eastern Asia,70,2,Lao kip,Lao,Buddhism|Tai folk religion|Christianity,3,crimson,midnightblue,white|crimson|midnightblue
 Latvia,NE,Europe,Northern Europe,75,1,Euro,Latvian,Christianity|Lutheranism|Catholicism|Orthodoxy|Christian,2,brown,white,brown|white
-Lebanon,NE,Asia,Western Asia,77,2,Lebanese pound,Arabic|French,Islam|Sunni|Shi|Alawite|Ismaili|Christianity|Maronite Catholic|Greek Orthodox|Melkite Catholic|Armenian|Orthodox|Catholic|Minorities|Protestant|Druzism|Druze,3,crimson,white,crimson|white|seagreen
-Lesotho,SE,Africa,Southern Africa,54,3,Lesotho loti|South African rand,English|Sotho,Protestant Christianity|Roman Catholic,3,white,darkblue,darkblue|white|forestgreen
+Lebanon,NE,Asia,Western Asia,75,2,Lebanese pound,Arabic|French,Islam|Sunni|Shi|Alawite|Ismaili|Christianity|Maronite Catholic|Greek Orthodox|Melkite Catholic|Armenian|Orthodox|Catholic|Minorities|Protestant|Druzism|Druze,3,crimson,white,crimson|white|seagreen
+Lesotho,SE,Africa,Southern Africa,55,3,Lesotho loti|South African rand,English|Sotho,Protestant Christianity|Roman Catholic,3,white,darkblue,darkblue|white|forestgreen
 Liberia,NW,Africa,Western Africa,60,4,Liberian dollar,English,Christianity|Islam,3,firebrick,white,firebrick|white|midnightblue
-Libya,NE,Africa,Northern Africa,72,2,Libyan dinar,Arabic,Islam,3,black,seagreen,seagreen|black|red
-Liechtenstein,NE,Europe,Western Europe,81,1,Swiss franc,German,Christianity|Catholicism|Christian|Islam,2,crimson,midnightblue,crimson|midnightblue
-Lithuania,NE,Europe,Northern Europe,74,1,Euro,Lithuanian,Christianity|Catholicism|Christian,3,firebrick,darkslategray,firebrick|darkslategray|orange
-Luxembourg,NE,Europe,Western Europe,81,1,Euro,German|French|Luxembourgish,Christianity|Catholicism|Christian,3,white,crimson,white|crimson|deepskyblue
+Libya,NE,Africa,Northern Africa,70,2,Libyan dinar,Arabic,Islam,3,black,seagreen,seagreen|black|red
+Liechtenstein,NE,Europe,Western Europe,80,1,Swiss franc,German,Christianity|Catholicism|Christian|Islam,2,crimson,midnightblue,crimson|midnightblue
+Lithuania,NE,Europe,Northern Europe,75,1,Euro,Lithuanian,Christianity|Catholicism|Christian,3,firebrick,darkslategray,firebrick|darkslategray|orange
+Luxembourg,NE,Europe,Western Europe,80,1,Euro,German|French|Luxembourgish,Christianity|Catholicism|Christian,3,white,crimson,white|crimson|deepskyblue
 Macau,NE,Asia,Eastern Asia,85,1,Macanese pataca,Portuguese|Chinese,N/A,2,teal,white,teal|white
 Madagascar,SE,Africa,Eastern Africa,65,3,Malagasy ariary,French|Malagasy,Christianity|Protestantism|Catholicism|Christian|Traditional faiths|Islam,3,white,forestgreen,forestgreen|white|tomato
-Malawi,SE,Africa,Eastern Africa,63,3,Malawian kwacha,English|Chewa,Christianity|Protestantism|Catholicism|Christian|Islam|Traditional faiths,3,crimson,forestgreen,forestgreen|crimson|black
+Malawi,SE,Africa,Eastern Africa,65,3,Malawian kwacha,English|Chewa,Christianity|Protestantism|Catholicism|Christian|Islam|Traditional faiths,3,crimson,forestgreen,forestgreen|crimson|black
 Malaysia,NE,Asia,South-Eastern Asia,75,1,Malaysian ringgit,English|Malay,Sunni Islam|Buddhism|Christianity|Hinduism,3,white,red,red|white|navy
-Maldives,NE,Asia,Southern Asia,79,1,Maldivian rufiyaa,Maldivian,Sunni Islam,2,crimson,forestgreen,crimson|forestgreen
-Mali,NW,Africa,Western Africa,58,6,West African CFA franc,French,Islam,3,gold,limegreen,gold|limegreen|crimson
-Malta,NE,Europe,Southern Europe,82,1,Euro,English|Maltese,Christianity|Catholicism|Christian|Islam|Hinduism,2,crimson,white,white|crimson
+Maldives,NE,Asia,Southern Asia,80,1,Maldivian rufiyaa,Maldivian,Sunni Islam,2,crimson,forestgreen,crimson|forestgreen
+Mali,NW,Africa,Western Africa,60,6,West African CFA franc,French,Islam,3,gold,limegreen,gold|limegreen|crimson
+Malta,NE,Europe,Southern Europe,80,1,Euro,English|Maltese,Christianity|Catholicism|Christian|Islam|Hinduism,2,crimson,white,white|crimson
 Marshall Islands,NE,Oceania,Micronesia,65,4,United States dollar,English|Marshallese,Christianity|Protestantism|Catholicism|Christian,3,midnightblue,white,midnightblue|white|chocolate
 Martinique,NW,Americas,Caribbean,0,0,Euro,French,Christianity|Roman Catholicism|Protestantism|Bahai|Islam|Hinduism,2,darkslateblue,white,white|darkslateblue
-Mauritania,NW,Africa,Western Africa,64,4,Mauritanian ouguiya,Arabic,Sunni Islam,2,darkgreen,crimson,darkgreen|crimson
-Mauritius,SE,Africa,Eastern Africa,74,1,Mauritian rupee,English|French|Mauritian Creole,Hinduism|Christianity|Islam,4,midnightblue,crimson,midnightblue|crimson|gold|seagreen
+Mauritania,NW,Africa,Western Africa,65,4,Mauritanian ouguiya,Arabic,Sunni Islam,2,darkgreen,crimson,darkgreen|crimson
+Mauritius,SE,Africa,Eastern Africa,75,1,Mauritian rupee,English|French|Mauritian Creole,Hinduism|Christianity|Islam,4,midnightblue,crimson,midnightblue|crimson|gold|seagreen
 Mayotte,SE,Africa,Eastern Africa,0,0,Euro,French,N/A,3,white,gainsboro,white|firebrick|gainsboro
 Mexico,NW,Americas,North America,70,1,Mexican peso,Spanish,Christianity|Catholicism|Protestantism,3,darkslategray,crimson,darkslategray|white|crimson
 Micronesia,NE,Oceania,Micronesia,70,2,United States dollar,English,N/A,1,cornflowerblue,cornflowerblue,cornflowerblue
 Moldova,NE,Europe,Eastern Europe,70,1,Moldovan leu,Romanian,Christianity|Eastern Orthodoxy|Christian| religions,3,crimson,teal,gold|teal|crimson
 Monaco,NE,Europe,Western Europe,0,0,Euro,French,Christianity|Roman Catholic|Christian|Judaism,2,crimson,white,crimson|white
-Mongolia,NE,Asia,Eastern Asia,72,2,Mongolian togrog,Mongolian,Buddhism|Islam|Shamanism|Christianity,3,crimson,darkcyan,darkcyan|crimson|gold
+Mongolia,NE,Asia,Eastern Asia,70,2,Mongolian togrog,Mongolian,Buddhism|Islam|Shamanism|Christianity,3,crimson,darkcyan,darkcyan|crimson|gold
 Montenegro,NE,Europe,Southeast Europe,75,1,Euro,Montenegrin,Christianity|Eastern Orthodoxy|Christian|Islam,2,firebrick,goldenrod,firebrick|goldenrod
 Montserrat,NW,Americas,Caribbean,0,0,Eastern Caribbean dollar,English,N/A,3,midnightblue,snow,midnightblue|snow|crimson
-Morocco,NW,Africa,Northern Africa,73,2,Moroccan dirham,Arabic|Berber,Islam|Sunni|Shia|Agnostics|Bahais|Christians|Jews,1,firebrick,firebrick,firebrick
-Mozambique,SE,Africa,Eastern Africa,61,4,Mozambican metical,Portuguese,Christianity|Traditional faiths|Islam,4,gold,teal,crimson|black|gold|teal
-Myanmar,NE,Asia,South-Eastern Asia,66,2,Burmese kyat,Burmese,Buddhism|Christianity|Islam,4,gold,crimson,limegreen|gold|crimson|white
-Namibia,SE,Africa,Southern Africa,62,3,Namibian dollar|South African rand,Afrikaans|German|English|Herero|Khoekhoe|Kwangali|Lozi|Ndonga|Tswana,Christianity|Lutheranism|Catholicism|Anglicanism|Christian|Traditional faiths,4,forestgreen,midnightblue,midnightblue|crimson|white|forestgreen
+Morocco,NW,Africa,Northern Africa,75,2,Moroccan dirham,Arabic|Berber,Islam|Sunni|Shia|Agnostics|Bahais|Christians|Jews,1,firebrick,firebrick,firebrick
+Mozambique,SE,Africa,Eastern Africa,60,4,Mozambican metical,Portuguese,Christianity|Traditional faiths|Islam,4,gold,teal,crimson|black|gold|teal
+Myanmar,NE,Asia,South-Eastern Asia,65,2,Burmese kyat,Burmese,Buddhism|Christianity|Islam,4,gold,crimson,limegreen|gold|crimson|white
+Namibia,SE,Africa,Southern Africa,60,3,Namibian dollar|South African rand,Afrikaans|German|English|Herero|Khoekhoe|Kwangali|Lozi|Ndonga|Tswana,Christianity|Lutheranism|Catholicism|Anglicanism|Christian|Traditional faiths,4,forestgreen,midnightblue,midnightblue|crimson|white|forestgreen
 Nauru,SE,Oceania,Micronesia,0,0,Australian dollar,English|Nauru,N/A,2,midnightblue,gold,midnightblue|gold
-Nepal,NE,Asia,Southern Asia,69,2,Nepalese rupee,Nepali,Hinduism|Buddhism|Islam|Kirant|Christianity|Prakriti,3,white,crimson,white|crimson|midnightblue
-Netherlands,NE,Europe,Western Europe,81,1,Euro,Dutch,Christianity|Catholicism|Protestantism|Christian|Islam|Hinduism,3,darkslateblue,firebrick,white|darkslateblue|firebrick
+Nepal,NE,Asia,Southern Asia,70,2,Nepalese rupee,Nepali,Hinduism|Buddhism|Islam|Kirant|Christianity|Prakriti,3,white,crimson,white|crimson|midnightblue
+Netherlands,NE,Europe,Western Europe,80,1,Euro,Dutch,Christianity|Catholicism|Protestantism|Christian|Islam|Hinduism,3,darkslateblue,firebrick,white|darkslateblue|firebrick
 New Caledonia,SE,Oceania,Melanesia,80,2,CFP franc,French,N/A,4,forestgreen,mediumblue,gold|forestgreen|tomato|mediumblue
-New Zealand,SE,Oceania,Australia and New Zealand,82,1,New Zealand dollar,English|Maori|New Zealand Sign Language,Christianity|Hinduism|Islam|Buddhism,3,midnightblue,crimson,white|midnightblue|crimson
-Nicaragua,NW,Americas,Central America,71,2,Nicaraguan cordoba,Spanish,Christianity|Roman Catholic|Protestant|Christian,2,darkcyan,white,darkcyan|white
-Niger,NE,Africa,Western Africa,61,6,West African CFA franc,French,Islam|Christianity|Animism|Irreligion,3,orangered,forestgreen,forestgreen|white|orangered
-Nigeria,NE,Africa,Western Africa,52,5,Nigerian naira,English,N/A,2,seagreen,white,seagreen|white
+New Zealand,SE,Oceania,Australia and New Zealand,80,1,New Zealand dollar,English|Maori|New Zealand Sign Language,Christianity|Hinduism|Islam|Buddhism,3,midnightblue,crimson,white|midnightblue|crimson
+Nicaragua,NW,Americas,Central America,70,2,Nicaraguan cordoba,Spanish,Christianity|Roman Catholic|Protestant|Christian,2,darkcyan,white,darkcyan|white
+Niger,NE,Africa,Western Africa,60,6,West African CFA franc,French,Islam|Christianity|Animism|Irreligion,3,orangered,forestgreen,forestgreen|white|orangered
+Nigeria,NE,Africa,Western Africa,50,5,Nigerian naira,English,N/A,2,seagreen,white,seagreen|white
 Niue,SW,Oceania,Polynesia,0,0,New Zealand dollar,English|Niuean,Christianity,4,gold,white,gold|midnightblue|white|crimson
 Norfolk Island,SE,Oceania,Australia and New Zealand,0,0,Australian dollar,English|Norfuk,Christianity|Irreligion,2,forestgreen,white,forestgreen|white
-North Korea,NE,Asia,Eastern Asia,73,1,North Korean won,Korean,Shamanism|Chondoism|Buddhism|Christianity,3,crimson,teal,crimson|teal|white
+North Korea,NE,Asia,Eastern Asia,75,1,North Korean won,Korean,Shamanism|Chondoism|Buddhism|Christianity,3,crimson,teal,crimson|teal|white
 North Macedonia,NE,Europe,Southeast Europe,75,1,denar,Macedonian,Christianity|Eastern Orthodoxy|Christian|Islam,2,crimson,gold,crimson|gold
 Northern Mariana Islands,NE,Oceania,Micronesia,0,0,United States dollar,Carolinian|Chamorro|English,Christianity|Buddhism|Islam,2,darkcyan,white,darkcyan|white
-Norway,NE,Europe,Northern Europe,83,1,Norwegian krone,Norwegian Nynorsk|Norwegian Bokmal|Sami,Christianity|Church of Norway|Christian|Islam,3,crimson,midnightblue,crimson|white|midnightblue
-Oman,NE,Asia,Western Asia,74,2,Omani rial,Arabic,Islam|Ibadi|Sunni|Shia|Hinduism|Christianity,3,crimson,white,crimson|white|green
-Pakistan,NE,Asia,Southern Asia,66,3,Pakistani rupee,English|Urdu,Islam|Hinduism|Christianity,2,darkgreen,white,darkgreen|white
-Palau,NE,Oceania,Micronesia,69,2,United States dollar,English|Palauan,Christianity|Modekngei|Islam,2,dodgerblue,yellow,dodgerblue|yellow
-Palestine,NE,Asia,Western Asia,74,3,Egyptian pound|Israeli new shekel|Jordanian dinar,Arabic,N/A,4,black,forestgreen,forestgreen|white|crimson|black
-Panama,NW,Americas,Central America,76,2,Panamanian balboa|United States dollar,Spanish,Christianity|Roman Catholic|Protestant|Christian,3,white,midnightblue,white|crimson|midnightblue
+Norway,NE,Europe,Northern Europe,85,1,Norwegian krone,Norwegian Nynorsk|Norwegian Bokmal|Sami,Christianity|Church of Norway|Christian|Islam,3,crimson,midnightblue,crimson|white|midnightblue
+Oman,NE,Asia,Western Asia,75,2,Omani rial,Arabic,Islam|Ibadi|Sunni|Shia|Hinduism|Christianity,3,crimson,white,crimson|white|green
+Pakistan,NE,Asia,Southern Asia,65,3,Pakistani rupee,English|Urdu,Islam|Hinduism|Christianity,2,darkgreen,white,darkgreen|white
+Palau,NE,Oceania,Micronesia,70,2,United States dollar,English|Palauan,Christianity|Modekngei|Islam,2,dodgerblue,yellow,dodgerblue|yellow
+Palestine,NE,Asia,Western Asia,75,3,Egyptian pound|Israeli new shekel|Jordanian dinar,Arabic,N/A,4,black,forestgreen,forestgreen|white|crimson|black
+Panama,NW,Americas,Central America,75,2,Panamanian balboa|United States dollar,Spanish,Christianity|Roman Catholic|Protestant|Christian,3,white,midnightblue,white|crimson|midnightblue
 Papua New Guinea,SE,Oceania,Melanesia,65,3,Papua New Guinean kina,English|Hiri Motu|Tok Pisin,Christianity|Protestantism|Catholicism|Christian,2,black,crimson,black|crimson
-Paraguay,SW,Americas,South America,73,2,Paraguayan guarani,Guarani|Spanish,Christianity|Roman Catholic|Christian,3,firebrick,darkblue,firebrick|white|darkblue
-Peru,SW,Americas,South America,73,2,Peruvian sol,Aymara|Quechua|Spanish,Christianity|Catholicism|Christian,2,crimson,white,crimson|white
-Philippines,NE,Asia,South-Eastern Asia,72,2,Philippine peso,English|Filipino,Christianity|Catholicism| Christian|Islam,3,darkblue,crimson,white|crimson|darkblue
+Paraguay,SW,Americas,South America,75,2,Paraguayan guarani,Guarani|Spanish,Christianity|Roman Catholic|Christian,3,firebrick,darkblue,firebrick|white|darkblue
+Peru,SW,Americas,South America,75,2,Peruvian sol,Aymara|Quechua|Spanish,Christianity|Catholicism|Christian,2,crimson,white,crimson|white
+Philippines,NE,Asia,South-Eastern Asia,70,2,Philippine peso,English|Filipino,Christianity|Catholicism| Christian|Islam,3,darkblue,crimson,white|crimson|darkblue
 Pitcairn Islands,SW,Oceania,Polynesia,0,0,New Zealand dollar,English,N/A,3,midnightblue,crimson,midnightblue|white|crimson
-Poland,NE,Europe,Central Europe,76,1,Polish zoty,Polish,Christianity|Catholicism|Christian,2,crimson,white,crimson|white
+Poland,NE,Europe,Central Europe,75,1,Polish zoty,Polish,Christianity|Catholicism|Christian,2,crimson,white,crimson|white
 Portugal,NW,Europe,Southern Europe,80,1,Euro,Portuguese,Christianity|Catholicism|Christian,2,red,darkgreen,darkgreen|red
-Puerto Rico,NW,Americas,Caribbean,78,0,United States dollar,English|Spanish,N/A,3,red,white,red|white|royalblue
-Qatar,NE,Asia,Western Asia,79,1,Qatari riyal,Arabic,Islam|Hinduism|Christianity|Buddhism,2,brown,white,brown|white
-Republic of the Congo,SE,Africa,Middle Africa,63,4,Central African CFA franc,French|Kikongo|Lingala,Christianity|Traditional faiths|Islam,3,crimson,forestgreen,sandybrown|forestgreen|crimson
+Puerto Rico,NW,Americas,Caribbean,80,0,United States dollar,English|Spanish,N/A,3,red,white,red|white|royalblue
+Qatar,NE,Asia,Western Asia,80,1,Qatari riyal,Arabic,Islam|Hinduism|Christianity|Buddhism,2,brown,white,brown|white
+Republic of the Congo,SE,Africa,Middle Africa,65,4,Central African CFA franc,French|Kikongo|Lingala,Christianity|Traditional faiths|Islam,3,crimson,forestgreen,sandybrown|forestgreen|crimson
 Reunion,SE,Africa,Eastern Africa,0,0,Euro,French,N/A,3,royalblue,red,royalblue|red|yellow
-Romania,NE,Europe,Southeast Europe,74,1,Romanian leu,Romanian,Christianity|Romanian Orthodoxy|Protestantism|Catholicism|Christian,3,midnightblue,crimson,midnightblue|crimson|gold
-Russia,NE,Europe,Eastern Europe,71,1,Russian ruble,Russian,Christianity|Russian Orthodoxy|Christian|Islam|Buddhism,3,white,darkblue,white|darkblue|firebrick
-Rwanda,SE,Africa,Eastern Africa,66,3,Rwandan franc,English|French|Kinyarwanda,Christianity|Islam,3,deepskyblue,darkslategray,darkslategray|gold|deepskyblue
+Romania,NE,Europe,Southeast Europe,75,1,Romanian leu,Romanian,Christianity|Romanian Orthodoxy|Protestantism|Catholicism|Christian,3,midnightblue,crimson,midnightblue|crimson|gold
+Russia,NE,Europe,Eastern Europe,70,1,Russian ruble,Russian,Christianity|Russian Orthodoxy|Christian|Islam|Buddhism,3,white,darkblue,white|darkblue|firebrick
+Rwanda,SE,Africa,Eastern Africa,65,3,Rwandan franc,English|French|Kinyarwanda,Christianity|Islam,3,deepskyblue,darkslategray,darkslategray|gold|deepskyblue
 Saint Barthelemy,NW,Americas,Caribbean,0,0,Euro,French,N/A,2,white,goldenrod,white|goldenrod
 Saint Helena - Ascension and Tristan da Cunha,SW,Africa,Western Africa,0,0,Pound sterling|Saint Helena pound,English,N/A,3,midnightblue,crimson,midnightblue|white|crimson
-Saint Kitts and Nevis,NW,Americas,Caribbean,71,2,Eastern Caribbean dollar,English,Christianity|Protestantism|Christian|Hinduism,4,black,seagreen,black|crimson|seagreen|gold
-Saint Lucia,NW,Americas,Caribbean,73,1,Eastern Caribbean dollar,English,Christianity|Rastafari,2,lightskyblue,gold,lightskyblue|gold
+Saint Kitts and Nevis,NW,Americas,Caribbean,70,2,Eastern Caribbean dollar,English,Christianity|Protestantism|Christian|Hinduism,4,black,seagreen,black|crimson|seagreen|gold
+Saint Lucia,NW,Americas,Caribbean,75,1,Eastern Caribbean dollar,English,Christianity|Rastafari,2,lightskyblue,gold,lightskyblue|gold
 Saint Martin,NE,Americas,Caribbean,80,2,Euro,French,N/A,3,crimson,white,white|crimson|darkblue
 Saint Pierre and Miquelon,NW,Americas,North America,0,0,Euro,French,N/A,5,lightseagreen,gold,lightseagreen|white|red|black|gold
-Saint Vincent and the Grenadines,NW,Americas,Caribbean,72,1,Eastern Caribbean dollar,English,Christianity|Protestantism|Christian|Hinduism|Rastafari|Baha faith|Islam,3,gold,forestgreen,midnightblue|gold|forestgreen
-Samoa,SW,Oceania,Polynesia,72,3,Samoan tala,English|Samoan,Christianity|Calvinism|Catholicism|Mormonism|Methodism|Christian,2,crimson,midnightblue,crimson|midnightblue
+Saint Vincent and the Grenadines,NW,Americas,Caribbean,70,1,Eastern Caribbean dollar,English,Christianity|Protestantism|Christian|Hinduism|Rastafari|Baha faith|Islam,3,gold,forestgreen,midnightblue|gold|forestgreen
+Samoa,SW,Oceania,Polynesia,70,3,Samoan tala,English|Samoan,Christianity|Calvinism|Catholicism|Mormonism|Methodism|Christian,2,crimson,midnightblue,crimson|midnightblue
 San Marino,NE,Europe,Southern Europe,0,1,Euro,Italian,Christianity|Catholicism,2,white,cornflowerblue,white|cornflowerblue
-Sao Tome and Principe,NE,Africa,Middle Africa,67,3,Sao Tome and Principe dobra,Portuguese,Christianity|Catholic Church|Folk religions,3,forestgreen,gold,forestgreen|gold|crimson
-Saudi Arabia,NE,Asia,Western Asia,76,2,Saudi riyal,Arabic,Islam|Sunni|Shia|Christianity|Hinduism|Unaffiliated|Buddhism,2,forestgreen,white,forestgreen|white
-Senegal,NW,Africa,Western Africa,68,4,West African CFA franc,French,Islam|Christianity,3,forestgreen,crimson,forestgreen|crimson|yellow
-Serbia,NE,Europe,Southeast Europe,74,1,Serbian dinar,Serbian,Christianity|Eastern Orthodoxy|Catholicism|Protestantism|Islam|Kosovo,3,white,firebrick,firebrick|white|midnightblue
-Seychelles,SE,Africa,Eastern Africa,77,2,Seychellois rupee,Seychellois Creole|English|French,Christianity|Catholicism|Anglicanism|Christian|Hinduism|Islam,5,crimson,midnightblue,crimson|forestgreen|white|sandybrown|midnightblue
-Sierra Leone,NW,Africa,Western Africa,59,4,Sierra Leonean leone,English,Islam|Christianity,3,darkcyan,limegreen,white|darkcyan|limegreen
-Singapore,NE,Asia,South-Eastern Asia,83,1,Singapore dollar,Chinese|English|Malay|Tamil,Buddhism|Christianity|Islam|Taoism|Hinduism,2,white,crimson,crimson|white
-Sint Maarten,NW,Americas,Caribbean,78,2,Netherlands Antillean guilder,English|French|Dutch,Christianity|Roman Catholic|Protestant|Pentecostal|Methodist|Seventh-day Adventist|Baptist|Anglican|Jehovah Witnesses|Christian|Hinduism,3,crimson,midnightblue,midnightblue|white|crimson
-Slovakia,NE,Europe,Central Europe,76,1,Euro,Slovak,Christianity|Catholicism|Protestantism|Christian,3,crimson,white,white|teal|crimson
+Sao Tome and Principe,NE,Africa,Middle Africa,65,3,Sao Tome and Principe dobra,Portuguese,Christianity|Catholic Church|Folk religions,3,forestgreen,gold,forestgreen|gold|crimson
+Saudi Arabia,NE,Asia,Western Asia,75,2,Saudi riyal,Arabic,Islam|Sunni|Shia|Christianity|Hinduism|Unaffiliated|Buddhism,2,forestgreen,white,forestgreen|white
+Senegal,NW,Africa,Western Africa,70,4,West African CFA franc,French,Islam|Christianity,3,forestgreen,crimson,forestgreen|crimson|yellow
+Serbia,NE,Europe,Southeast Europe,75,1,Serbian dinar,Serbian,Christianity|Eastern Orthodoxy|Catholicism|Protestantism|Islam|Kosovo,3,white,firebrick,firebrick|white|midnightblue
+Seychelles,SE,Africa,Eastern Africa,75,2,Seychellois rupee,Seychellois Creole|English|French,Christianity|Catholicism|Anglicanism|Christian|Hinduism|Islam,5,crimson,midnightblue,crimson|forestgreen|white|sandybrown|midnightblue
+Sierra Leone,NW,Africa,Western Africa,60,4,Sierra Leonean leone,English,Islam|Christianity,3,darkcyan,limegreen,white|darkcyan|limegreen
+Singapore,NE,Asia,South-Eastern Asia,85,1,Singapore dollar,Chinese|English|Malay|Tamil,Buddhism|Christianity|Islam|Taoism|Hinduism,2,white,crimson,crimson|white
+Sint Maarten,NW,Americas,Caribbean,80,2,Netherlands Antillean guilder,English|French|Dutch,Christianity|Roman Catholic|Protestant|Pentecostal|Methodist|Seventh-day Adventist|Baptist|Anglican|Jehovah Witnesses|Christian|Hinduism,3,crimson,midnightblue,midnightblue|white|crimson
+Slovakia,NE,Europe,Central Europe,75,1,Euro,Slovak,Christianity|Catholicism|Protestantism|Christian,3,crimson,white,white|teal|crimson
 Slovenia,NE,Europe,Central Europe,80,1,Euro,Slovene,Christianity|Catholicism|Orthodoxy|Christian,3,dodgerblue,red,white|red|dodgerblue
 Solomon Islands,SE,Oceania,Melanesia,70,4,Solomon Islands dollar,English,Christianity|Protestantism|Catholicism|Christian|Folk religions,3,darkslategray,teal,gold|darkslategray|teal
 Somalia,NE,Africa,Eastern Africa,55,6,Somali shilling,Arabic|Somali,Sunni Islam,1,royalblue,royalblue,royalblue
 South Africa,SE,Africa,Southern Africa,65,2,South African rand,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu,Christianity|Protestantism|Christian|Traditional faiths|Islam|Hinduism,5,seagreen,crimson,seagreen|crimson|white|darkblue|black
 South Georgia,SW,Antarctic,N/A,0,0,Saint Helena pound,English,N/A,3,midnightblue,white,midnightblue|white|firebrick
-South Korea,NE,Asia,Eastern Asia,83,0,South Korean won,Korean,Christianity|Buddhism,4,white,black,white|black|crimson|teal
+South Korea,NE,Asia,Eastern Asia,85,0,South Korean won,Korean,Christianity|Buddhism,4,white,black,white|black|crimson|teal
 South Sudan,NE,Africa,Middle Africa,55,4,South Sudanese pound,English,Christianity|Traditional faiths|Islam,5,black,forestgreen,darkslateblue|crimson|black|white|forestgreen
-Spain,NW,Europe,Southern Europe,82,1,Euro,Spanish,Christianity,2,firebrick,gold,gold|firebrick
-Sri Lanka,NE,Asia,Southern Asia,76,2,Sri Lankan rupee,Sinhala|Tamil,Buddhism|Hinduism|Islam|Christianity,4,goldenrod,brown,brown|goldenrod|darkslategray|darkorange
+Spain,NW,Europe,Southern Europe,80,1,Euro,Spanish,Christianity,2,firebrick,gold,gold|firebrick
+Sri Lanka,NE,Asia,Southern Asia,75,2,Sri Lankan rupee,Sinhala|Tamil,Buddhism|Hinduism|Islam|Christianity,4,goldenrod,brown,brown|goldenrod|darkslategray|darkorange
 Sudan,NE,Africa,Northern Africa,65,4,Sudanese pound,Arabic|English,Islam|Christianity|Traditional Faiths,4,black,crimson,crimson|white|black|green
-Suriname,NW,Americas,South America,72,2,Surinamese dollar,Dutch,Christianity|Hinduism|Islam|Folk religions,3,seagreen,firebrick,white|seagreen|firebrick
+Suriname,NW,Americas,South America,70,2,Surinamese dollar,Dutch,Christianity|Hinduism|Islam|Folk religions,3,seagreen,firebrick,white|seagreen|firebrick
 Svalbard and Jan Mayen,NE,Europe,Northern Europe,0,0,krone,Norwegian,N/A,3,crimson,midnightblue,crimson|white|midnightblue
-Sweden,NE,Europe,Northern Europe,82,1,Swedish krona,Swedish,Christianity|Church of Sweden|Christian|Islam,2,darkcyan,gold,gold|darkcyan
-Switzerland,NE,Europe,Western Europe,83,1,Swiss franc,French|Swiss German|Italian|Romansh,Christianity|Catholicism|Swiss Reformed|Christian|Islam|Hinduism,2,red,white,white|red
-Syria,NE,Asia,Western Asia,72,2,Syrian pound,Arabic,Islam|Christianity|Druze,3,black,crimson,white|black|crimson
+Sweden,NE,Europe,Northern Europe,80,1,Swedish krona,Swedish,Christianity|Church of Sweden|Christian|Islam,2,darkcyan,gold,gold|darkcyan
+Switzerland,NE,Europe,Western Europe,85,1,Swiss franc,French|Swiss German|Italian|Romansh,Christianity|Catholicism|Swiss Reformed|Christian|Islam|Hinduism,2,red,white,white|red
+Syria,NE,Asia,Western Asia,70,2,Syrian pound,Arabic,Islam|Christianity|Druze,3,black,crimson,white|black|crimson
 Taiwan,NE,Asia,Eastern Asia,0,0,New Taiwan dollar,Chinese,Buddhism|Taoism|Christianity,2,red,darkblue,red|darkblue
-Tajikistan,NE,Asia,Central Asia,67,3,Tajikistani somoni,Russian|Tajik,Islam|Hanafi Sunni|Ismaili Shia|Christianity|Irreligion,3,white,red,red|white|darkgreen
-Tanzania,SE,Africa,Eastern Africa,66,4,Tanzanian shilling,English|Swahili,Christianity|Islam|Traditional faiths,4,black,limegreen,limegreen|black|deepskyblue|gold
-Thailand,NE,Asia,South-Eastern Asia,79,1,Thai baht,Thai,Buddhism|Islam|Christianity|Hinduism,3,darkslategray,brown,brown|whitesmoke|darkslategray
-Timor-Leste,SE,Asia,South-Eastern Asia,68,3,United States dollar,Portuguese|Tetum,Christianity|Catholicism|Protestantism|Islam,3,crimson,black,gold|black|crimson
-Togo,NE,Africa,Western Africa,61,4,West African CFA franc,French,Christianity|Traditional faiths|Islam|Bahai Faith,3,darkslategray,gold,gold|darkslategray|crimson
+Tajikistan,NE,Asia,Central Asia,65,3,Tajikistani somoni,Russian|Tajik,Islam|Hanafi Sunni|Ismaili Shia|Christianity|Irreligion,3,white,red,red|white|darkgreen
+Tanzania,SE,Africa,Eastern Africa,65,4,Tanzanian shilling,English|Swahili,Christianity|Islam|Traditional faiths,4,black,limegreen,limegreen|black|deepskyblue|gold
+Thailand,NE,Asia,South-Eastern Asia,80,1,Thai baht,Thai,Buddhism|Islam|Christianity|Hinduism,3,darkslategray,brown,brown|whitesmoke|darkslategray
+Timor-Leste,SE,Asia,South-Eastern Asia,70,3,United States dollar,Portuguese|Tetum,Christianity|Catholicism|Protestantism|Islam,3,crimson,black,gold|black|crimson
+Togo,NE,Africa,Western Africa,60,4,West African CFA franc,French,Christianity|Traditional faiths|Islam|Bahai Faith,3,darkslategray,gold,gold|darkslategray|crimson
 Tokelau,SW,Oceania,Polynesia,0,0,New Zealand dollar,English|Samoan|Tokelauan,N/A,2,midnightblue,gold,midnightblue|gold
 Tonga,SW,Oceania,Polynesia,70,3,Tongan paanga,English|Tongan,Christianity|Methodism|Mormonism|Catholicism|Christian|Baha faith,2,firebrick,white,white|firebrick
-Trinidad and Tobago,NE,Americas,Caribbean,74,1,Trinidad and Tobago dollar,English,Christianity|Hinduism|Islam,3,crimson,black,crimson|black|white
+Trinidad and Tobago,NE,Americas,Caribbean,75,1,Trinidad and Tobago dollar,English,Christianity|Hinduism|Islam,3,crimson,black,crimson|black|white
 Tunisia,NE,Africa,Northern Africa,75,2,Tunisian dinar,Arabic,Sunni Islam|Christians|Jews|Shia Islam|Bahais,2,red,white,red|white
 Turkey,NE,Asia,Western Asia,75,1,Turkish lira,Turkish,religion in Turkey,1,red,red,red
-Turkmenistan,NE,Asia,Central Asia,68,2,Turkmenistan manat,Russian|Turkmen,Islam|Christianity,2,forestgreen,crimson,forestgreen|crimson
+Turkmenistan,NE,Asia,Central Asia,70,2,Turkmenistan manat,Russian|Turkmen,Islam|Christianity,2,forestgreen,crimson,forestgreen|crimson
 Turks and Caicos Islands,NW,Americas,Caribbean,75,1,United States dollar,English,N/A,3,midnightblue,crimson,midnightblue|white|crimson
-Tuvalu,SE,Oceania,Polynesia,64,3,Australian dollar|Tuvaluan dollar,English|Tuvaluan,Christianity,4,lightseagreen,crimson,lightseagreen|crimson|white|midnightblue
-Uganda,NE,Africa,Eastern Africa,62,4,Ugandan shilling,English|Swahili,Christianity|Catholicism|Anglicanism|Christian|Islam,3,gold,black,red|gold|black
-Ukraine,NE,Europe,Eastern Europe,71,1,Ukrainian hryvnia,Ukrainian,Christianity,2,darkcyan,gold,darkcyan|gold
-United Arab Emirates,NE,Asia,Western Asia,78,1,United Arab Emirates dirham,Arabic,Sunni Islam,4,red,forestgreen,forestgreen|white|red|black
+Tuvalu,SE,Oceania,Polynesia,65,3,Australian dollar|Tuvaluan dollar,English|Tuvaluan,Christianity,4,lightseagreen,crimson,lightseagreen|crimson|white|midnightblue
+Uganda,NE,Africa,Eastern Africa,60,4,Ugandan shilling,English|Swahili,Christianity|Catholicism|Anglicanism|Christian|Islam,3,gold,black,red|gold|black
+Ukraine,NE,Europe,Eastern Europe,70,1,Ukrainian hryvnia,Ukrainian,Christianity,2,darkcyan,gold,darkcyan|gold
+United Arab Emirates,NE,Asia,Western Asia,80,1,United Arab Emirates dirham,Arabic,Sunni Islam,4,red,forestgreen,forestgreen|white|red|black
 United Kingdom,NW,Europe,Northern Europe,80,1,British pound,English,Christianity|Islam|Hinduism|Sikhism,3,crimson,white,midnightblue|white|crimson
-United States,NW,Americas,North America,77,1,United States dollar,English,Christianity|Protestantism|Catholicism|Christian|Buddhism|Hinduism|Islam|Judaism,3,firebrick,white,white|firebrick|darkslateblue
+United States,NW,Americas,North America,75,1,United States dollar,English,Christianity|Protestantism|Catholicism|Christian|Buddhism|Hinduism|Islam|Judaism,3,firebrick,white,white|firebrick|darkslateblue
 United States Minor Outlying Islands,NE,Americas,North America,0,0,United States dollar,English,N/A,3,firebrick,white,firebrick|white|darkslateblue
-United States Virgin Islands,NW,Americas,Caribbean,79,2,United States dollar,English,Christianity,2,white,sandybrown,sandybrown|white
-Uruguay,SW,Americas,South America,78,1,Uruguayan peso,Spanish,Christianity|Roman Catholic|Christian,2,white,darkblue,white|darkblue
+United States Virgin Islands,NW,Americas,Caribbean,80,2,United States dollar,English,Christianity,2,white,sandybrown,sandybrown|white
+Uruguay,SW,Americas,South America,80,1,Uruguayan peso,Spanish,Christianity|Roman Catholic|Christian,2,white,darkblue,white|darkblue
 Uzbekistan,NE,Asia,Central Asia,70,2,Uzbekistani som,Russian|Uzbek,Islam|Christianity,3,white,limegreen,white|limegreen|lightseagreen
 Vanuatu,SE,Oceania,Melanesia,70,3,Vanuatu vatu,Bislama|English|French,Christianity|Presbyterianism|Protestant|Catholicism|Folk religions,4,forestgreen,crimson,black|crimson|forestgreen|gold
 Vatican City,NE,Europe,Southern Europe,0,0,Euro,Italian|Latin,Roman Catholicism|State religion,2,gold,white,white|gold
-Venezuela,NW,Americas,South America,71,2,Venezuelan bolivar soberano,Spanish,Christianity|Roman Catholicism|Protestantism| Christian|Spiritism,3,gold,crimson,midnightblue|gold|crimson
+Venezuela,NW,Americas,South America,70,2,Venezuelan bolivar soberano,Spanish,Christianity|Roman Catholicism|Protestantism| Christian|Spiritism,3,gold,crimson,midnightblue|gold|crimson
 Vietnam,NE,Asia,South-Eastern Asia,75,1,Vietnamese ong,Vietnamese,Folk|Buddhism|Christianity|Hoahaoism|Caodaism,2,crimson,yellow,crimson|yellow
 Wallis and Futuna,SW,Oceania,Polynesia,0,0,CFP franc,French,N/A,2,crimson,white,crimson|white
 Western Sahara,NW,Africa,Northern Africa,0,0,Algerian dinar|Moroccan dirham|Mauritanian ouguiya,Berber|Hassaniya|Spanish,N/A,4,black,forestgreen,white|forestgreen|firebrick|black
-Yemen,NE,Asia,Western Asia,64,3,Yemeni rial,Arabic,Islam|Hindus|Christians,3,black,crimson,white|black|crimson
-Zambia,SE,Africa,Eastern Africa,62,4,Zambian kwacha,English,Christianity,4,green,darkorange,green|darkorange|black|crimson
-Zimbabwe,SE,Africa,Southern Africa,61,3,Zimbabwean dollar,Chibarwe|English|Kalanga|Khoisan|Ndau|Northern Ndebele|Chewa|Shona|Sotho|Tonga|Tswana|Tsonga|Venda|Xhosa|Zimbabwean Sign Language,Christianity|Protestantism|Christian|Traditional faiths,5,darkgreen,gold,gold|darkgreen|red|white|black
+Yemen,NE,Asia,Western Asia,65,3,Yemeni rial,Arabic,Islam|Hindus|Christians,3,black,crimson,white|black|crimson
+Zambia,SE,Africa,Eastern Africa,60,4,Zambian kwacha,English,Christianity,4,green,darkorange,green|darkorange|black|crimson
+Zimbabwe,SE,Africa,Southern Africa,60,3,Zimbabwean dollar,Chibarwe|English|Kalanga|Khoisan|Ndau|Northern Ndebele|Chewa|Shona|Sotho|Tonga|Tswana|Tsonga|Venda|Xhosa|Zimbabwean Sign Language,Christianity|Protestantism|Christian|Traditional faiths,5,darkgreen,gold,gold|darkgreen|red|white|black

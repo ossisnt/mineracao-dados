@@ -5,6 +5,7 @@ import os
 
 import aiohttp
 from bs4 import BeautifulSoup
+from tqdm import tqdm
 
 
 def get_most_recent_value(data):
@@ -64,7 +65,7 @@ async def main():
         response = await fetch(session, restcountries_url)
         countries = json.loads(response)
 
-        for country in countries:
+        for country in tqdm(countries, desc="Processing countries"):
             alpha_code = country.get("cca2").lower()
             country_name = country.get("name", {}).get("common", "N/A")
             country_name = country_name.replace(",", " -")
@@ -84,7 +85,6 @@ async def main():
             region = country.get("region", "N/A")
             subregion = country.get("subregion", "N/A")
 
-            print(f"Processing {country_name}")
             religion = await get_religion_from_wikipedia(session, country_name)
 
             country_code = country.get("cca3")
@@ -113,8 +113,7 @@ async def main():
                     else "N/A"
                 )
                 life_expectancy = (
-                    # round(float(life_expectancy), 2)
-                    int(life_expectancy)
+                    (lambda x, base=5: base * round(x / base))(int(life_expectancy))
                     if life_expectancy != "N/A"
                     else 0
                 )
@@ -149,7 +148,6 @@ async def main():
                 ]
             )
 
-    # Save data to a CSV file
     current_dir = os.getcwd()
     data_path = os.path.join(current_dir, "dados", "2_country_data.csv")
 

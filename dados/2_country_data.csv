@@ -1,251 +1,251 @@
 ﻿Alpha Code,Country or Territory,Zone,Languages,Religion,Currency,Region,Subregion,Life Expectancy,Fertility Rate
-es,Spain,NW,Spanish,Christianity|no religion|other,Euro,Europe,Southern Europe,82,1
-af,Afghanistan,NE,Dari|Pashto|Turkmen,Islam|official|Others,Afghan afghani,Asia,Southern Asia,62,4
+es,Spain,NW,Spanish,Christianity|no religion|other,Euro,Europe,Southern Europe,80,1
+af,Afghanistan,NE,Dari|Pashto|Turkmen,Islam|official|Others,Afghan afghani,Asia,Southern Asia,60,4
 sd,Sudan,NE,Arabic|English,Islam|Christianity|Traditional Faiths|Others,Sudanese pound,Africa,Northern Africa,65,4
-bg,Bulgaria,NE,Bulgarian,Christianity|Bulgarian Orthodoxy|Christian|no religion|Islam|other,Bulgarian lev,Europe,Southeast Europe,73,1
+bg,Bulgaria,NE,Bulgarian,Christianity|Bulgarian Orthodoxy|Christian|no religion|Islam|other,Bulgarian lev,Europe,Southeast Europe,75,1
 de,Germany,NE,German,N/A,Euro,Europe,Western Europe,80,1
-lt,Lithuania,NE,Lithuanian,Christianity|Catholicism|Christian|No religion|Others,Euro,Europe,Northern Europe,74,1
+lt,Lithuania,NE,Lithuanian,Christianity|Catholicism|Christian|No religion|Others,Euro,Europe,Northern Europe,75,1
 yt,Mayotte,SE,French,N/A,Euro,Africa,Eastern Africa,0,0
 mh,Marshall Islands,NE,English|Marshallese,Christianity|Protestantism|Catholicism|Christian|No religion|[3],United States dollar,Oceania,Micronesia,65,4
-pl,Poland,NE,Polish,Christianity|Catholicism|Christian|no religion|other,Polish złoty,Europe,Central Europe,76,1
+pl,Poland,NE,Polish,Christianity|Catholicism|Christian|no religion|other,Polish złoty,Europe,Central Europe,75,1
 tk,Tokelau,SW,English|Samoan|Tokelauan,N/A,New Zealand dollar,Oceania,Polynesia,0,0
-tz,Tanzania,SE,English|Swahili,Christianity|Islam|No religion|Traditional faiths,Tanzanian shilling,Africa,Eastern Africa,66,4
+tz,Tanzania,SE,English|Swahili,Christianity|Islam|No religion|Traditional faiths,Tanzanian shilling,Africa,Eastern Africa,65,4
 mo,Macau,NE,Portuguese|Chinese,N/A,Macanese pataca,Asia,Eastern Asia,85,1
-tl,Timor-Leste,SE,Portuguese|Tetum,Christianity|Catholicism|Protestantism|Islam|Other,United States dollar,Asia,South-Eastern Asia,68,3
-tg,Togo,NE,French,Christianity|Traditional faiths|Islam|Baháʼí Faith|Others|None|[3],West African CFA franc,Africa,Western Africa,61,4
-cz,Czechia,NE,Czech|Slovak,No religion|Christianity|Catholicism|Christian|Others,Czech koruna,Europe,Central Europe,78,1
+tl,Timor-Leste,SE,Portuguese|Tetum,Christianity|Catholicism|Protestantism|Islam|Other,United States dollar,Asia,South-Eastern Asia,70,3
+tg,Togo,NE,French,Christianity|Traditional faiths|Islam|Baháʼí Faith|Others|None|[3],West African CFA franc,Africa,Western Africa,60,4
+cz,Czechia,NE,Czech|Slovak,No religion|Christianity|Catholicism|Christian|Others,Czech koruna,Europe,Central Europe,80,1
 mc,Monaco,NE,French,Christianity|Roman Catholic|official|[2]|Christian|No religion|Judaism|[3],Euro,Europe,Western Europe,0,0
-ug,Uganda,NE,English|Swahili,Christianity|Catholicism|Anglicanism|Christian|Islam|Others|None,Ugandan shilling,Africa,Eastern Africa,62,4
-tt,Trinidad and Tobago,NE,English,Christianity|Hinduism|Islam|No religion|Other,Trinidad and Tobago dollar,Americas,Caribbean,74,1
-dz,Algeria,NE,Arabic,Sunni Islam|official|Christians|Jews|[3],Algerian dinar,Africa,Northern Africa,74,2
-ua,Ukraine,NE,Ukrainian,Christianity|No religion|Others,Ukrainian hryvnia,Europe,Eastern Europe,71,1
-ee,Estonia,NE,Estonian,No religion|Christianity|Others,Euro,Europe,Northern Europe,78,1
-gr,Greece,NE,Greek,Greek Orthodoxy|official|Christian|Islam|[1],Euro,Europe,Southern Europe,81,1
-mr,Mauritania,NW,Arabic,Sunni Islam|official,Mauritanian ouguiya,Africa,Western Africa,64,4
-ge,Georgia,NE,Georgian,N/A,lari,Asia,Western Asia,72,1
-sx,Sint Maarten,NW,English|French|Dutch,Christianity|Roman Catholic|Protestant|Pentecostal|Methodist|Seventh-day Adventist|Baptist|Anglican|Jehovah's Witnesses|Christian|No religion|Hinduism,Netherlands Antillean guilder,Americas,Caribbean,78,2
-na,Namibia,SE,Afrikaans|German|English|Herero|Khoekhoe|Kwangali|Lozi|Ndonga|Tswana,Christianity|Lutheranism|Catholicism|Anglicanism|Christian|Traditional faiths|No religion,Namibian dollar|South African rand,Africa,Southern Africa,62,3
+ug,Uganda,NE,English|Swahili,Christianity|Catholicism|Anglicanism|Christian|Islam|Others|None,Ugandan shilling,Africa,Eastern Africa,60,4
+tt,Trinidad and Tobago,NE,English,Christianity|Hinduism|Islam|No religion|Other,Trinidad and Tobago dollar,Americas,Caribbean,75,1
+dz,Algeria,NE,Arabic,Sunni Islam|official|Christians|Jews|[3],Algerian dinar,Africa,Northern Africa,75,2
+ua,Ukraine,NE,Ukrainian,Christianity|No religion|Others,Ukrainian hryvnia,Europe,Eastern Europe,70,1
+ee,Estonia,NE,Estonian,No religion|Christianity|Others,Euro,Europe,Northern Europe,80,1
+gr,Greece,NE,Greek,Greek Orthodoxy|official|Christian|Islam|[1],Euro,Europe,Southern Europe,80,1
+mr,Mauritania,NW,Arabic,Sunni Islam|official,Mauritanian ouguiya,Africa,Western Africa,65,4
+ge,Georgia,NE,Georgian,N/A,lari,Asia,Western Asia,70,1
+sx,Sint Maarten,NW,English|French|Dutch,Christianity|Roman Catholic|Protestant|Pentecostal|Methodist|Seventh-day Adventist|Baptist|Anglican|Jehovah's Witnesses|Christian|No religion|Hinduism,Netherlands Antillean guilder,Americas,Caribbean,80,2
+na,Namibia,SE,Afrikaans|German|English|Herero|Khoekhoe|Kwangali|Lozi|Ndonga|Tswana,Christianity|Lutheranism|Catholicism|Anglicanism|Christian|Traditional faiths|No religion,Namibian dollar|South African rand,Africa,Southern Africa,60,3
 mk,North Macedonia,NE,Macedonian,Christianity|Eastern Orthodoxy|Christian|Islam|No religion|Other,denar,Europe,Southeast Europe,75,1
-mu,Mauritius,SE,English|French|Mauritian Creole,Hinduism|Christianity|Islam|Others|None,Mauritian rupee,Africa,Eastern Africa,74,1
-ki,Kiribati,NE,English|Gilbertese,Christianity|Roman Catholic|Uniting Church|Christian|Baháʼí Faith|Other|None|[6],Australian dollar|Kiribati dollar,Oceania,Micronesia,67,3
-cg,Republic of the Congo,SE,French|Kikongo|Lingala,Christianity|No religion|Traditional faiths|Islam,Central African CFA franc,Africa,Middle Africa,63,4
+mu,Mauritius,SE,English|French|Mauritian Creole,Hinduism|Christianity|Islam|Others|None,Mauritian rupee,Africa,Eastern Africa,75,1
+ki,Kiribati,NE,English|Gilbertese,Christianity|Roman Catholic|Uniting Church|Christian|Baháʼí Faith|Other|None|[6],Australian dollar|Kiribati dollar,Oceania,Micronesia,65,3
+cg,Republic of the Congo,SE,French|Kikongo|Lingala,Christianity|No religion|Traditional faiths|Islam,Central African CFA franc,Africa,Middle Africa,65,4
 gq,Equatorial Guinea,NE,French|Portuguese|Spanish,Christianity|No religion|Islam|Traditional faiths|Others,Central African CFA franc,Africa,Middle Africa,60,4
 io,British Indian Ocean Territory,SE,English,N/A,United States dollar,Africa,Eastern Africa,0,0
 nu,Niue,SW,English|Niuean,Christianity|None|[1],New Zealand dollar,Oceania,Polynesia,0,0
 xk,Kosovo,NE,Albanian|Serbian,Islam|Christianity|No religion|Others,Euro,Europe,Southeast Europe,0,0
-pw,Palau,NE,English|Palauan,Christianity|Modekngei|Islam|None,United States dollar,Oceania,Micronesia,69,2
-qa,Qatar,NE,Arabic,Islam|official|Hinduism|Christianity|Buddhism|Others,Qatari riyal,Asia,Western Asia,79,1
-us,United States,NW,English,Christianity|Protestantism|Catholicism|Christian|no religion|Buddhism|Hinduism|Islam|Judaism|other,United States dollar,Americas,North America,77,1
-ky,Cayman Islands,NE,English,Christianity|Hinduism|Islam|Rastafari|Judaism|[4],Cayman Islands dollar,Americas,Caribbean,82,0
+pw,Palau,NE,English|Palauan,Christianity|Modekngei|Islam|None,United States dollar,Oceania,Micronesia,70,2
+qa,Qatar,NE,Arabic,Islam|official|Hinduism|Christianity|Buddhism|Others,Qatari riyal,Asia,Western Asia,80,1
+us,United States,NW,English,Christianity|Protestantism|Catholicism|Christian|no religion|Buddhism|Hinduism|Islam|Judaism|other,United States dollar,Americas,North America,75,1
+ky,Cayman Islands,NE,English,Christianity|Hinduism|Islam|Rastafari|Judaism|[4],Cayman Islands dollar,Americas,Caribbean,80,0
 bw,Botswana,SE,English|Tswana,Christianity|Protestantism|Christian|No religion|Badimo|[a]|[3],Botswana pula,Africa,Southern Africa,65,2
-ps,Palestine,NE,Arabic,N/A,Egyptian pound|Israeli new shekel|Jordanian dinar,Asia,Western Asia,74,3
+ps,Palestine,NE,Arabic,N/A,Egyptian pound|Israeli new shekel|Jordanian dinar,Asia,Western Asia,75,3
 za,South Africa,SE,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu,Christianity|Protestantism|Christian|No religion|Traditional faiths|Islam|Hinduism,South African rand,Africa,Southern Africa,65,2
 vn,Vietnam,NE,Vietnamese,Folk|No religion|Buddhism|Christianity|Hoahaoism|Caodaism|Others|[3],Vietnamese đồng,Asia,South-Eastern Asia,75,1
 je,Jersey,NW,English|French|Jèrriais,No religion|Anglican|Catholic|Christian,British pound|Jersey pound,Europe,Northern Europe,0,0
-gy,Guyana,NW,English,Christianity|Hinduism|Islam|No religion|Others,Guyanese dollar,Americas,South America,68,2
-tv,Tuvalu,SE,English|Tuvaluan,Christianity|official|[1],Australian dollar|Tuvaluan dollar,Oceania,Polynesia,64,3
+gy,Guyana,NW,English,Christianity|Hinduism|Islam|No religion|Others,Guyanese dollar,Americas,South America,70,2
+tv,Tuvalu,SE,English|Tuvaluan,Christianity|official|[1],Australian dollar|Tuvaluan dollar,Oceania,Polynesia,65,3
 jo,Jordan,NE,Arabic,Sunni Islam|official|Christianity|Druze|Baháʼí,Jordanian dinar,Asia,Western Asia,75,2
 pg,Papua New Guinea,SE,English|Hiri Motu|Tok Pisin,Christianity|Protestantism|Catholicism|Christian|Others|None,Papua New Guinean kina,Oceania,Melanesia,65,3
-bs,Bahamas,NE,English,Christianity|Protestantism|Christian|no religion|folk religions,Bahamian dollar|United States dollar,Americas,Caribbean,72,1
-cv,Cape Verde,NE,Portuguese,Christianity|Catholicism|Christian|No religion|[2],Cape Verdean escudo,Africa,Western Africa,74,1
-om,Oman,NE,Arabic,Islam|official|Ibadi|Sunni|Shia|Hinduism|Christianity|Others|[2],Omani rial,Asia,Western Asia,74,2
-ve,Venezuela,NW,Spanish,Christianity|Roman Catholicism|Protestantism|Other Christian|No religion|Spiritism,Venezuelan bolívar soberano,Americas,South America,71,2
-bo,Bolivia,SW,Aymara|Guaraní|Quechua|Spanish,Christianity|Catholicism|Protestantism|Christian|No religion|Other,Bolivian boliviano,Americas,South America,64,2
+bs,Bahamas,NE,English,Christianity|Protestantism|Christian|no religion|folk religions,Bahamian dollar|United States dollar,Americas,Caribbean,70,1
+cv,Cape Verde,NE,Portuguese,Christianity|Catholicism|Christian|No religion|[2],Cape Verdean escudo,Africa,Western Africa,75,1
+om,Oman,NE,Arabic,Islam|official|Ibadi|Sunni|Shia|Hinduism|Christianity|Others|[2],Omani rial,Asia,Western Asia,75,2
+ve,Venezuela,NW,Spanish,Christianity|Roman Catholicism|Protestantism|Other Christian|No religion|Spiritism,Venezuelan bolívar soberano,Americas,South America,70,2
+bo,Bolivia,SW,Aymara|Guaraní|Quechua|Spanish,Christianity|Catholicism|Protestantism|Christian|No religion|Other,Bolivian boliviano,Americas,South America,65,2
 eg,Egypt,NE,Arabic,Religion in Egypt,Egyptian pound,Africa,Northern Africa,70,2
-ca,Canada,NW,English|French,N/A,Canadian dollar,Americas,North America,81,1
-no,Norway,NE,Norwegian Nynorsk|Norwegian Bokmål|Sami,Christianity|Church of Norway|[note 4]|Christian|No religion|Islam|Others,Norwegian krone,Europe,Northern Europe,83,1
-kg,Kyrgyzstan,NE,Kyrgyz|Russian,Islam|Christianity|Others,Kyrgyzstani som,Asia,Central Asia,71,3
-am,Armenia,NE,Armenian,Christianity|Armenian Apostolic Church|[4],Armenian dram,Asia,Western Asia,72,1
-cd,DR Congo,Equator or Greenwich,French|Kikongo|Lingala|Tshiluba|Swahili,Christianity|Catholicism|Protestantism|Traditional faiths|Islam|Others|None,Congolese franc,Africa,Middle Africa,59,6
-pr,Puerto Rico,NW,English|Spanish,N/A,United States dollar,Americas,Caribbean,78,0
-li,Liechtenstein,NE,German,Christianity|Catholicism|official|Christian|No religion|Islam|Others,Swiss franc,Europe,Western Europe,81,1
-sz,Eswatini,SE,English|Swazi,Christianity|Protestantism|Christian|No religion|Traditional faiths|[1],Swazi lilangeni|South African rand,Africa,Southern Africa,59,2
-fo,Faroe Islands,NW,Danish|Faroese,Christianity|Church of the Faroe Islands,Danish krone|Faroese króna,Europe,Northern Europe,83,2
-ng,Nigeria,NE,English,N/A,Nigerian naira,Africa,Western Africa,52,5
+ca,Canada,NW,English|French,N/A,Canadian dollar,Americas,North America,80,1
+no,Norway,NE,Norwegian Nynorsk|Norwegian Bokmål|Sami,Christianity|Church of Norway|[note 4]|Christian|No religion|Islam|Others,Norwegian krone,Europe,Northern Europe,85,1
+kg,Kyrgyzstan,NE,Kyrgyz|Russian,Islam|Christianity|Others,Kyrgyzstani som,Asia,Central Asia,70,3
+am,Armenia,NE,Armenian,Christianity|Armenian Apostolic Church|[4],Armenian dram,Asia,Western Asia,70,1
+cd,DR Congo,Equator or Greenwich,French|Kikongo|Lingala|Tshiluba|Swahili,Christianity|Catholicism|Protestantism|Traditional faiths|Islam|Others|None,Congolese franc,Africa,Middle Africa,60,6
+pr,Puerto Rico,NW,English|Spanish,N/A,United States dollar,Americas,Caribbean,80,0
+li,Liechtenstein,NE,German,Christianity|Catholicism|official|Christian|No religion|Islam|Others,Swiss franc,Europe,Western Europe,80,1
+sz,Eswatini,SE,English|Swazi,Christianity|Protestantism|Christian|No religion|Traditional faiths|[1],Swazi lilangeni|South African rand,Africa,Southern Africa,60,2
+fo,Faroe Islands,NW,Danish|Faroese,Christianity|Church of the Faroe Islands,Danish krone|Faroese króna,Europe,Northern Europe,85,2
+ng,Nigeria,NE,English,N/A,Nigerian naira,Africa,Western Africa,50,5
 mf,Saint Martin,NE,French,N/A,Euro,Americas,Caribbean,80,2
-gu,Guam,NE,Chamorro|English|Spanish,Christianity|No religion|Buddhism|Other,United States dollar,Oceania,Micronesia,76,2
-mw,Malawi,SE,English|Chewa,Christianity|Protestantism|Catholicism|Christian|Islam|None|Traditional faiths,Malawian kwacha,Africa,Eastern Africa,63,3
+gu,Guam,NE,Chamorro|English|Spanish,Christianity|No religion|Buddhism|Other,United States dollar,Oceania,Micronesia,75,2
+mw,Malawi,SE,English|Chewa,Christianity|Protestantism|Catholicism|Christian|Islam|None|Traditional faiths,Malawian kwacha,Africa,Eastern Africa,65,3
 ax,Åland Islands,NE,Swedish,N/A,Euro,Europe,Northern Europe,0,0
-st,São Tomé and Príncipe,NE,Portuguese,Christianity|Catholic Church|No religion|Folk religions,São Tomé and Príncipe dobra,Africa,Middle Africa,67,3
+st,São Tomé and Príncipe,NE,Portuguese,Christianity|Catholic Church|No religion|Folk religions,São Tomé and Príncipe dobra,Africa,Middle Africa,65,3
 fk,Falkland Islands,SW,English,N/A,Falkland Islands pound,Americas,South America,0,0
-gt,Guatemala,NW,Spanish,Christianity|Roman Catholic|Protestant|Christian|No religion,Guatemalan quetzal,Americas,Central America,71,2
-bb,Barbados,NW,English,Christianity|No religion|Others|[1],Barbadian dollar,Americas,Caribbean,77,1
-gh,Ghana,NW,English,Christianity|Protestantism|Christian|Islam|Traditional faiths|No religion|Other,Ghanaian cedi,Africa,Western Africa,64,3
-ni,Nicaragua,NW,Spanish,Christianity|Roman Catholic|Protestant|Christian|No religion,Nicaraguan córdoba,Americas,Central America,71,2
+gt,Guatemala,NW,Spanish,Christianity|Roman Catholic|Protestant|Christian|No religion,Guatemalan quetzal,Americas,Central America,70,2
+bb,Barbados,NW,English,Christianity|No religion|Others|[1],Barbadian dollar,Americas,Caribbean,75,1
+gh,Ghana,NW,English,Christianity|Protestantism|Christian|Islam|Traditional faiths|No religion|Other,Ghanaian cedi,Africa,Western Africa,65,3
+ni,Nicaragua,NW,Spanish,Christianity|Roman Catholic|Protestant|Christian|No religion,Nicaraguan córdoba,Americas,Central America,70,2
 im,Isle of Man,NW,English|Manx,Christianity|No religion|Islam|Buddhism|Hinduism|Judaism,British pound|Manx pound,Europe,Northern Europe,80,1
 pt,Portugal,NW,Portuguese,Christianity|Catholicism|Christian|No religion|Others,Euro,Europe,Southern Europe,80,1
-ao,Angola,SE,Portuguese,Christianity|Roman Catholic|Protestant|Christian|Traditional faiths|Islam|Other|None,Angolan kwanza,Africa,Middle Africa,62,5
-do,Dominican Republic,NW,Spanish,Christianity|Roman Catholic|Protestant|Christian|No religion|Other,Dominican peso,Americas,Caribbean,72,2
-al,Albania,NE,Albanian,Islam|Christianity|No religion|[1],Albanian lek,Europe,Southeast Europe,76,1
-gw,Guinea-Bissau,NW,Portuguese|Upper Guinea Creole,Islam|Traditional faiths|Christianity|Others|None,West African CFA franc,Africa,Western Africa,59,4
-ly,Libya,NE,Arabic,Islam|official,Libyan dinar,Africa,Northern Africa,72,2
-kw,Kuwait,NE,Arabic,Islam|official|Christianity|Others,Kuwaiti dinar,Asia,Western Asia,76,2
-bh,Bahrain,NE,Arabic,Islam|official|Shia Islam|Sunni Islam|Christianity|Hinduism|No religion|Others,Bahraini dinar,Asia,Western Asia,79,1
-tm,Turkmenistan,NE,Russian|Turkmen,Islam|Christianity|Other,Turkmenistan manat,Asia,Central Asia,68,2
+ao,Angola,SE,Portuguese,Christianity|Roman Catholic|Protestant|Christian|Traditional faiths|Islam|Other|None,Angolan kwanza,Africa,Middle Africa,60,5
+do,Dominican Republic,NW,Spanish,Christianity|Roman Catholic|Protestant|Christian|No religion|Other,Dominican peso,Americas,Caribbean,70,2
+al,Albania,NE,Albanian,Islam|Christianity|No religion|[1],Albanian lek,Europe,Southeast Europe,75,1
+gw,Guinea-Bissau,NW,Portuguese|Upper Guinea Creole,Islam|Traditional faiths|Christianity|Others|None,West African CFA franc,Africa,Western Africa,60,4
+ly,Libya,NE,Arabic,Islam|official,Libyan dinar,Africa,Northern Africa,70,2
+kw,Kuwait,NE,Arabic,Islam|official|Christianity|Others,Kuwaiti dinar,Asia,Western Asia,75,2
+bh,Bahrain,NE,Arabic,Islam|official|Shia Islam|Sunni Islam|Christianity|Hinduism|No religion|Others,Bahraini dinar,Asia,Western Asia,80,1
+tm,Turkmenistan,NE,Russian|Turkmen,Islam|Christianity|Other,Turkmenistan manat,Asia,Central Asia,70,2
 lr,Liberia,NW,English,Christianity|Islam|No religion,Liberian dollar,Africa,Western Africa,60,4
-bf,Burkina Faso,NW,French,Islam|Christianity|Traditional faiths|Others|None,West African CFA franc,Africa,Western Africa,59,4
+bf,Burkina Faso,NW,French,Islam|Christianity|Traditional faiths|Others|None,West African CFA franc,Africa,Western Africa,60,4
 lv,Latvia,NE,Latvian,Christianity|Lutheranism|Catholicism|Orthodoxy|Christian|No religion|Others,Euro,Europe,Northern Europe,75,1
-ru,Russia,NE,Russian,Christianity|Russian Orthodoxy|Christian|no religion|Islam|[b]|other|Buddhism|[5],Russian ruble,Europe,Eastern Europe,71,1
-ph,Philippines,NE,English|Filipino,Christianity|Catholicism|Other Christian|Islam|other|none,Philippine peso,Asia,South-Eastern Asia,72,2
-nz,New Zealand,SE,English|Māori|New Zealand Sign Language,no religion|Christianity|Hinduism|Islam|Buddhism|other,New Zealand dollar,Oceania,Australia and New Zealand,82,1
+ru,Russia,NE,Russian,Christianity|Russian Orthodoxy|Christian|no religion|Islam|[b]|other|Buddhism|[5],Russian ruble,Europe,Eastern Europe,70,1
+ph,Philippines,NE,English|Filipino,Christianity|Catholicism|Other Christian|Islam|other|none,Philippine peso,Asia,South-Eastern Asia,70,2
+nz,New Zealand,SE,English|Māori|New Zealand Sign Language,no religion|Christianity|Hinduism|Islam|Buddhism|other,New Zealand dollar,Oceania,Australia and New Zealand,80,1
 cm,Cameroon,NE,English|French,Christianity|Islam|Traditional faiths|No religion,Central African CFA franc,Africa,Middle Africa,60,4
-ec,Ecuador,SW,Spanish,Christianity|Roman Catholic|Protestant|Christian|No religion,United States dollar,Americas,South America,72,2
+ec,Ecuador,SW,Spanish,Christianity|Roman Catholic|Protestant|Christian|No religion,United States dollar,Americas,South America,70,2
 ai,Anguilla,NW,English,N/A,Eastern Caribbean dollar,Americas,Caribbean,0,0
-ro,Romania,NE,Romanian,Christianity|Romanian Orthodoxy|Protestantism|Catholicism|Christian|No religion|Others,Romanian leu,Europe,Southeast Europe,74,1
+ro,Romania,NE,Romanian,Christianity|Romanian Orthodoxy|Protestantism|Catholicism|Christian|No religion|Others,Romanian leu,Europe,Southeast Europe,75,1
 in,India,NE,English|Hindi|Tamil,Hinduism|Islam|Christianity|Sikhism|Buddhism|Jainism|unaffiliated|other|[15],Indian rupee,Asia,Southern Asia,70,2
-ga,Gabon,SE,French,Christianity|Islam|Bwiti|Traditional faiths,Central African CFA franc,Africa,Middle Africa,66,3
-mm,Myanmar,NE,Burmese,Buddhism|official|[3]|Christianity|Islam|Others|[4],Burmese kyat,Asia,South-Eastern Asia,66,2
+ga,Gabon,SE,French,Christianity|Islam|Bwiti|Traditional faiths,Central African CFA franc,Africa,Middle Africa,65,3
+mm,Myanmar,NE,Burmese,Buddhism|official|[3]|Christianity|Islam|Others|[4],Burmese kyat,Asia,South-Eastern Asia,65,2
 re,Réunion,SE,French,N/A,Euro,Africa,Eastern Africa,0,0
 as,American Samoa,SW,English|Samoan,Christian|[1],United States dollar,Oceania,Polynesia,0,0
 me,Montenegro,NE,Montenegrin,Christianity|Eastern Orthodoxy|Christian|Islam|No religion|Others,Euro,Europe,Southeast Europe,75,1
-bz,Belize,NW,Belizean Creole|English|Spanish,Christianity|No religion|Folk religions|Other,Belize dollar,Americas,Central America,72,1
-mn,Mongolia,NE,Mongolian,Buddhism|No religion|Islam|Shamanism|Christianity|Others,Mongolian tögrög,Asia,Eastern Asia,72,2
-at,Austria,NE,German,Christianity|Catholicism|Orthodoxy|Christian|no religion|Islam|other,Euro,Europe,Central Europe,81,1
+bz,Belize,NW,Belizean Creole|English|Spanish,Christianity|No religion|Folk religions|Other,Belize dollar,Americas,Central America,70,1
+mn,Mongolia,NE,Mongolian,Buddhism|No religion|Islam|Shamanism|Christianity|Others,Mongolian tögrög,Asia,Eastern Asia,70,2
+at,Austria,NE,German,Christianity|Catholicism|Orthodoxy|Christian|no religion|Islam|other,Euro,Europe,Central Europe,80,1
 ms,Montserrat,NW,English,N/A,Eastern Caribbean dollar,Americas,Caribbean,0,0
-sa,Saudi Arabia,NE,Arabic,Islam|official|[8]|Sunni|Shia|Christianity|Hinduism|Unaffiliated|Buddhism,Saudi riyal,Asia,Western Asia,76,2
+sa,Saudi Arabia,NE,Arabic,Islam|official|[8]|Sunni|Shia|Christianity|Hinduism|Unaffiliated|Buddhism,Saudi riyal,Asia,Western Asia,75,2
 hu,Hungary,NE,Hungarian,Christianity|Catholicism|Protestantism|Christian|no religion|other,Hungarian forint,Europe,Central Europe,75,1
 nr,Nauru,SE,English|Nauru,N/A,Australian dollar,Oceania,Micronesia,0,0
 ar,Argentina,SW,Guaraní|Spanish,Christianity|Roman Catholic|Christian|No religion,Argentine peso,Americas,South America,75,1
 pn,Pitcairn Islands,SW,English,N/A,New Zealand dollar,Oceania,Polynesia,0,0
 wf,Wallis and Futuna,SW,French,N/A,CFP franc,Oceania,Polynesia,0,0
-ye,Yemen,NE,Arabic,Islam|Hindus|Christians|others,Yemeni rial,Asia,Western Asia,64,3
-sk,Slovakia,NE,Slovak,Christianity|Catholicism|Protestantism|Christian|No religion,Euro,Europe,Central Europe,76,1
+ye,Yemen,NE,Arabic,Islam|Hindus|Christians|others,Yemeni rial,Asia,Western Asia,65,3
+sk,Slovakia,NE,Slovak,Christianity|Catholicism|Protestantism|Christian|No religion,Euro,Europe,Central Europe,75,1
 tc,Turks and Caicos Islands,NW,English,N/A,United States dollar,Americas,Caribbean,75,1
-se,Sweden,NE,Swedish,Christianity|Church of Sweden|[c]|Christian|No religion|Islam|Others,Swedish krona,Europe,Northern Europe,82,1
+se,Sweden,NE,Swedish,Christianity|Church of Sweden|[c]|Christian|No religion|Islam|Others,Swedish krona,Europe,Northern Europe,80,1
 sh,Saint Helena - Ascension and Tristan da Cunha,SW,English,N/A,Pound sterling|Saint Helena pound,Africa,Western Africa,0,0
-it,Italy,NE,Italian,Christianity|no religion|Islam|other,Euro,Europe,Southern Europe,82,1
-br,Brazil,SW,Portuguese,Christianity|Catholicism|Protestantism|Christian|no religion|Spiritism,Brazilian real,Americas,South America,74,1
+it,Italy,NE,Italian,Christianity|no religion|Islam|other,Euro,Europe,Southern Europe,80,1
+br,Brazil,SW,Portuguese,Christianity|Catholicism|Protestantism|Christian|no religion|Spiritism,Brazilian real,Americas,South America,75,1
 ss,South Sudan,NE,English,Christianity|Traditional faiths|Islam|Others|None,South Sudanese pound,Africa,Middle Africa,55,4
-cy,Cyprus,NE,Greek|Turkish,Christianity|Islam|No religion|[3],Euro,Europe,Southern Europe,81,1
-th,Thailand,NE,Thai,Buddhism|Islam|Christianity|Hinduism|no religion,Thai baht,Asia,South-Eastern Asia,79,1
+cy,Cyprus,NE,Greek|Turkish,Christianity|Islam|No religion|[3],Euro,Europe,Southern Europe,80,1
+th,Thailand,NE,Thai,Buddhism|Islam|Christianity|Hinduism|no religion,Thai baht,Asia,South-Eastern Asia,80,1
 tr,Turkey,NE,Turkish,religion in Turkey,Turkish lira,Asia,Western Asia,75,1
-bm,Bermuda,NW,English,N/A,Bermudian dollar,Americas,North America,82,1
-au,Australia,SE,English,Christianity|no religion|Islam|Hinduism|Buddhism|other,Australian dollar,Oceania,Australia and New Zealand,83,1
-bd,Bangladesh,NE,Bengali,Islam|official|Hinduism|Buddhism|Christianity|Others,Bangladeshi taka,Asia,Southern Asia,71,2
-gd,Grenada,NW,English,Christianity|Roman Catholic|Protestant|Christian|Rastafari|No religion|Hinduism,Eastern Caribbean dollar,Americas,Caribbean,74,2
-sg,Singapore,NE,Chinese|English|Malay|Tamil,Buddhism|No religion|Christianity|Islam|Taoism|Hinduism|Others,Singapore dollar,Asia,South-Eastern Asia,83,1
+bm,Bermuda,NW,English,N/A,Bermudian dollar,Americas,North America,80,1
+au,Australia,SE,English,Christianity|no religion|Islam|Hinduism|Buddhism|other|[3],Australian dollar,Oceania,Australia and New Zealand,85,1
+bd,Bangladesh,NE,Bengali,Islam|official|Hinduism|Buddhism|Christianity|Others,Bangladeshi taka,Asia,Southern Asia,70,2
+gd,Grenada,NW,English,Christianity|Roman Catholic|Protestant|Christian|Rastafari|No religion|Hinduism,Eastern Caribbean dollar,Americas,Caribbean,75,2
+sg,Singapore,NE,Chinese|English|Malay|Tamil,Buddhism|No religion|Christianity|Islam|Taoism|Hinduism|Others,Singapore dollar,Asia,South-Eastern Asia,85,1
 md,Moldova,NE,Romanian,Christianity|Eastern Orthodoxy|Christian|Other religions|No religion,Moldovan leu,Europe,Eastern Europe,70,1
-ml,Mali,NW,French,Islam|Others|[a],West African CFA franc,Africa,Western Africa,58,6
-ke,Kenya,NE,English|Swahili,Christianity|Protestantism|Catholicism|Christian|Islam|No religion|Traditional faiths,Kenyan shilling,Africa,Eastern Africa,62,3
-uy,Uruguay,SW,Spanish,Christianity|Roman Catholic|Christian|No religion,Uruguayan peso,Americas,South America,78,1
-ch,Switzerland,NE,French|Swiss German|Italian|Romansh,Christianity|Catholicism|Swiss Reformed|Christian|no religion|Islam|Hinduism|other,Swiss franc,Europe,Western Europe,83,1
-sv,El Salvador,NW,Spanish,Christianity|Roman Catholic|Protestant|Christian|No religion|Other,United States dollar,Americas,Central America,71,1
-td,Chad,NE,Arabic|French,Islam|Christianity|No religion|Animism,Central African CFA franc,Africa,Middle Africa,52,6
-gl,Greenland,NW,Greenlandic,Christianity|Church of Greenland,krone,Americas,North America,71,2
-by,Belarus,NE,Belarusian|Russian,Christianity|Eastern Orthodoxy|Christian|No religion,Belarusian ruble,Europe,Eastern Europe,74,1
-ci,Ivory Coast,NW,French,N/A,West African CFA franc,Africa,Western Africa,59,4
-lb,Lebanon,NE,Arabic|French,Islam|Sunni|[2]|Shi'a|Alawite|Ismaili|Christianity|Maronite Catholic|[3]|Greek Orthodox|[4]|Melkite Catholic|[5]|Armenian|Orthodox|Catholic|Minorities|[6]|Protestant|[7]|Druzism|Druze|[nb 3],Lebanese pound,Asia,Western Asia,77,2
-nl,Netherlands,NE,Dutch,no religion|Christianity|Catholicism|Protestantism|Christian|Islam|Hinduism|[4],Euro,Europe,Western Europe,81,1
+ml,Mali,NW,French,Islam|Others|[a],West African CFA franc,Africa,Western Africa,60,6
+ke,Kenya,NE,English|Swahili,Christianity|Protestantism|Catholicism|Christian|Islam|No religion|Traditional faiths,Kenyan shilling,Africa,Eastern Africa,60,3
+uy,Uruguay,SW,Spanish,Christianity|Roman Catholic|Christian|No religion,Uruguayan peso,Americas,South America,80,1
+ch,Switzerland,NE,French|Swiss German|Italian|Romansh,Christianity|Catholicism|Swiss Reformed|Christian|no religion|Islam|Hinduism|other,Swiss franc,Europe,Western Europe,85,1
+sv,El Salvador,NW,Spanish,Christianity|Roman Catholic|Protestant|Christian|No religion|Other,United States dollar,Americas,Central America,70,1
+td,Chad,NE,Arabic|French,Islam|Christianity|No religion|Animism,Central African CFA franc,Africa,Middle Africa,50,6
+gl,Greenland,NW,Greenlandic,Christianity|Church of Greenland,krone,Americas,North America,70,2
+by,Belarus,NE,Belarusian|Russian,Christianity|Eastern Orthodoxy|Christian|No religion,Belarusian ruble,Europe,Eastern Europe,75,1
+ci,Ivory Coast,NW,French,N/A,West African CFA franc,Africa,Western Africa,60,4
+lb,Lebanon,NE,Arabic|French,Islam|Sunni|[2]|Shi'a|Alawite|Ismaili|Christianity|Maronite Catholic|[3]|Greek Orthodox|[4]|Melkite Catholic|[5]|Armenian|Orthodox|Catholic|Minorities|[6]|Protestant|[7]|Druzism|Druze|[nb 3],Lebanese pound,Asia,Western Asia,75,2
+nl,Netherlands,NE,Dutch,no religion|Christianity|Catholicism|Protestantism|Christian|Islam|Hinduism|[4],Euro,Europe,Western Europe,80,1
 sm,San Marino,NE,Italian,Christianity|Catholicism,Euro,Europe,Southern Europe,0,1
-bt,Bhutan,NE,Dzongkha,Buddhism|official|Hinduism|Bon|Christianity|Other,Bhutanese ngultrum|Indian rupee,Asia,Southern Asia,71,1
+bt,Bhutan,NE,Dzongkha,Buddhism|official|Hinduism|Bon|Christianity|Other,Bhutanese ngultrum|Indian rupee,Asia,Southern Asia,70,1
 my,Malaysia,NE,English|Malay,Sunni Islam|official|[4]|Buddhism|Christianity|Hinduism,Malaysian ringgit,Asia,South-Eastern Asia,75,1
-kz,Kazakhstan,NE,Kazakh|Russian,Islam|Christianity|Atheism|Others,Kazakhstani tenge,Asia,Central Asia,71,3
-fi,Finland,NE,Finnish|Swedish,Christianity|Lutheranism|Orthodoxy|Christian|no religion|other,Euro,Europe,Northern Europe,82,1
+kz,Kazakhstan,NE,Kazakh|Russian,Islam|Christianity|Atheism|Others,Kazakhstani tenge,Asia,Central Asia,70,3
+fi,Finland,NE,Finnish|Swedish,Christianity|Lutheranism|Orthodoxy|Christian|no religion|other,Euro,Europe,Northern Europe,80,1
 tn,Tunisia,NE,Arabic,Sunni Islam|official|Others|Christians|Jews|Shia Islam|Baháʼís|[10]|[11]|[12],Tunisian dinar,Africa,Northern Africa,75,2
-gm,Gambia,NW,English,Islam|Christianity,dalasi,Africa,Western Africa,62,4
-sy,Syria,NE,Arabic,Islam|Christianity|[2]|Druze,Syrian pound,Asia,Western Asia,72,2
+gm,Gambia,NW,English,Islam|Christianity,dalasi,Africa,Western Africa,60,4
+sy,Syria,NE,Arabic,Islam|Christianity|[2]|Druze,Syrian pound,Asia,Western Asia,70,2
 tf,French Southern and Antarctic Lands,SE,French,N/A,Euro,Antarctic,N/A,0,0
 nf,Norfolk Island,SE,English|Norfuk,Christianity|Irreligion|[5],Australian dollar,Oceania,Australia and New Zealand,0,0
-gn,Guinea,NW,French,Islam|Christianity|Folk religions,Guinean franc,Africa,Western Africa,59,4
+gn,Guinea,NW,French,Islam|Christianity|Folk religions,Guinean franc,Africa,Western Africa,60,4
 bq,Caribbean Netherlands,NW,English|Dutch|Papiamento,N/A,United States dollar,Americas,Caribbean,0,0
-mz,Mozambique,SE,Portuguese,Christianity|Traditional faiths|Islam|No religion|[b],Mozambican metical,Africa,Eastern Africa,61,4
-ws,Samoa,SW,English|Samoan,Christianity|official|[2]|Calvinism|Catholicism|Mormonism|Methodism|Christian|No religion|[3],Samoan tālā,Oceania,Polynesia,72,3
+mz,Mozambique,SE,Portuguese,Christianity|Traditional faiths|Islam|No religion|[b],Mozambican metical,Africa,Eastern Africa,60,4
+ws,Samoa,SW,English|Samoan,Christianity|official|[2]|Calvinism|Catholicism|Mormonism|Methodism|Christian|No religion|[3],Samoan tālā,Oceania,Polynesia,70,3
 tw,Taiwan,NE,Chinese,Buddhism|Taoism|No religion|Christianity|Others,New Taiwan dollar,Asia,Eastern Asia,0,0
 gs,South Georgia,SW,English,N/A,Saint Helena pound,Antarctic,N/A,0,0
-kp,North Korea,NE,Korean,no religion|[a]|Shamanism|Chondoism|Buddhism|Christianity,North Korean won,Asia,Eastern Asia,73,1
-dj,Djibouti,NE,Arabic|French,Islam|Christianity,Djiboutian franc,Africa,Eastern Africa,62,2
-sr,Suriname,NW,Dutch,Christianity|Hinduism|Islam|No religion|Folk religions|Others,Surinamese dollar,Americas,South America,72,2
-fr,France,NE,French,Christianity|Roman Catholicism|Protestantism|no religion|Islam|Buddhism|Judaism,Euro,Europe,Western Europe,82,1
-rw,Rwanda,SE,English|French|Kinyarwanda,Christianity|No religion|Islam|[2],Rwandan franc,Africa,Eastern Africa,66,3
-kr,South Korea,NE,Korean,no religion|Christianity|[a]|Buddhism,South Korean won,Asia,Eastern Asia,83,0
+kp,North Korea,NE,Korean,no religion|[a]|Shamanism|Chondoism|Buddhism|Christianity,North Korean won,Asia,Eastern Asia,75,1
+dj,Djibouti,NE,Arabic|French,Islam|Christianity,Djiboutian franc,Africa,Eastern Africa,60,2
+sr,Suriname,NW,Dutch,Christianity|Hinduism|Islam|No religion|Folk religions|Others,Surinamese dollar,Americas,South America,70,2
+fr,France,NE,French,Christianity|Roman Catholicism|Protestantism|no religion|Islam|Buddhism|Judaism,Euro,Europe,Western Europe,80,1
+rw,Rwanda,SE,English|French|Kinyarwanda,Christianity|No religion|Islam|[2],Rwandan franc,Africa,Eastern Africa,65,3
+kr,South Korea,NE,Korean,no religion|Christianity|[a]|Buddhism,South Korean won,Asia,Eastern Asia,85,0
 aq,Antarctica,Equator or Greenwich,N/A,N/A,N/A,Antarctic,N/A,0,0
-cw,Curaçao,NW,English|Dutch|Papiamento,Christianity|Roman Catholic|Pentecostal|Protestant|Seventh-day Adventist|Evangelical|Jehovah's Witnesses|Christian|No religion|Hinduism|Islam|Judaism,Netherlands Antillean guilder,Americas,Caribbean,78,1
-jm,Jamaica,NW,English|Jamaican Patois,Christianity|Protestantism|Christian|No religion|Rastafarianism|others|[4],Jamaican dollar,Americas,Caribbean,71,1
-mv,Maldives,NE,Maldivian,Sunni Islam|official,Maldivian rufiyaa,Asia,Southern Asia,79,1
+cw,Curaçao,NW,English|Dutch|Papiamento,Christianity|Roman Catholic|Pentecostal|Protestant|Seventh-day Adventist|Evangelical|Jehovah's Witnesses|Christian|No religion|Hinduism|Islam|Judaism,Netherlands Antillean guilder,Americas,Caribbean,80,1
+jm,Jamaica,NW,English|Jamaican Patois,Christianity|Protestantism|Christian|No religion|Rastafarianism|others|[4],Jamaican dollar,Americas,Caribbean,70,1
+mv,Maldives,NE,Maldivian,Sunni Islam|official,Maldivian rufiyaa,Asia,Southern Asia,80,1
 si,Slovenia,NE,Slovene,Christianity|Catholicism|Orthodoxy|Christian|No religion|Others,Euro,Europe,Central Europe,80,1
 cx,Christmas Island,SE,English,N/A,Australian dollar,Oceania,Australia and New Zealand,0,0
-vi,United States Virgin Islands,NW,English,Christianity|No religion|Other,United States dollar,Americas,Caribbean,79,2
-py,Paraguay,SW,Guaraní|Spanish,Christianity|Roman Catholic|Christian|No religion|Other,Paraguayan guaraní,Americas,South America,73,2
-id,Indonesia,SE,Indonesian,Islam|Christianity|Hinduism|Buddhism|Folk|Confucianism|other,Indonesian rupiah,Asia,South-Eastern Asia,68,2
+vi,United States Virgin Islands,NW,English,Christianity|No religion|Other,United States dollar,Americas,Caribbean,80,2
+py,Paraguay,SW,Guaraní|Spanish,Christianity|Roman Catholic|Christian|No religion|Other,Paraguayan guaraní,Americas,South America,75,2
+id,Indonesia,SE,Indonesian,Islam|Christianity|Hinduism|Buddhism|Folk|Confucianism|other,Indonesian rupiah,Asia,South-Eastern Asia,70,2
 mg,Madagascar,SE,French|Malagasy,Christianity|Protestantism|Catholicism|Christian|No religion|Traditional faiths|Islam|Others,Malagasy ariary,Africa,Eastern Africa,65,3
-iq,Iraq,NE,Arabic|Aramaic|Sorani,Islam|official|[1]|Christianity|Mandaeism|Yazidism|Judaism|Yarsanism|Zoroastrianism|Irreligion|[3],Iraqi dinar,Asia,Western Asia,69,3
-hn,Honduras,NW,Spanish,Christianity|Catholicism|Protestantism|No religion,Honduran lempira,Americas,Central America,71,2
-ma,Morocco,NW,Arabic|Berber,Islam|official|Sunni|Shia|Others|Agnostics|Baháʼís|Christians|Jews,Moroccan dirham,Africa,Northern Africa,73,2
+iq,Iraq,NE,Arabic|Aramaic|Sorani,Islam|official|[1]|Christianity|Mandaeism|Yazidism|Judaism|Yarsanism|Zoroastrianism|Irreligion|[3],Iraqi dinar,Asia,Western Asia,70,3
+hn,Honduras,NW,Spanish,Christianity|Catholicism|Protestantism|No religion,Honduran lempira,Americas,Central America,70,2
+ma,Morocco,NW,Arabic|Berber,Islam|official|Sunni|Shia|Others|Agnostics|Baháʼís|Christians|Jews,Moroccan dirham,Africa,Northern Africa,75,2
 hk,Hong Kong,NE,English|Chinese,N/A,Hong Kong dollar,Asia,Eastern Asia,85,0
-ag,Antigua and Barbuda,NW,English,Christianity|Protestantism|Christian|Rastafari|No religion|Baha'i faith,Eastern Caribbean dollar,Americas,Caribbean,78,1
-lk,Sri Lanka,NE,Sinhala|Tamil,Buddhism|official|[5]|Hinduism|Islam|Christianity,Sri Lankan rupee,Asia,Southern Asia,76,2
-ht,Haiti,NW,French|Haitian Creole,Christianity|No religion|Folk religions,Haitian gourde,Americas,Caribbean,64,2
-cu,Cuba,NW,Spanish,Christianity|No religion|Folk religions,Cuban convertible peso|Cuban peso,Americas,Caribbean,77,1
-tj,Tajikistan,NE,Russian|Tajik,Islam|Hanafi Sunni|Ismaili Shia|Christianity|Irreligion|Others,Tajikistani somoni,Asia,Central Asia,67,3
+ag,Antigua and Barbuda,NW,English,Christianity|Protestantism|Christian|Rastafari|No religion|Baha'i faith,Eastern Caribbean dollar,Americas,Caribbean,80,1
+lk,Sri Lanka,NE,Sinhala|Tamil,Buddhism|official|[5]|Hinduism|Islam|Christianity,Sri Lankan rupee,Asia,Southern Asia,75,2
+ht,Haiti,NW,French|Haitian Creole,Christianity|No religion|Folk religions,Haitian gourde,Americas,Caribbean,65,2
+cu,Cuba,NW,Spanish,Christianity|No religion|Folk religions,Cuban convertible peso|Cuban peso,Americas,Caribbean,75,1
+tj,Tajikistan,NE,Russian|Tajik,Islam|Hanafi Sunni|Ismaili Shia|Christianity|Irreligion|Others,Tajikistani somoni,Asia,Central Asia,65,3
 ck,Cook Islands,SW,English|Cook Islands Māori,N/A,Cook Islands dollar|New Zealand dollar,Oceania,Polynesia,0,0
-co,Colombia,NW,Spanish,Christianity|Roman Catholic|Christian|No religion,Colombian peso,Americas,South America,74,1
+co,Colombia,NW,Spanish,Christianity|Roman Catholic|Christian|No religion,Colombian peso,Americas,South America,75,1
 fm,Micronesia,NE,English,N/A,United States dollar,Oceania,Micronesia,70,2
 mp,Northern Mariana Islands,NE,Carolinian|Chamorro|English,Christianity|Buddhism|No religion|Islam|Other,United States dollar,Oceania,Micronesia,0,0
-kn,Saint Kitts and Nevis,NW,English,Christianity|Protestantism|Christian|No religion|Hinduism,Eastern Caribbean dollar,Americas,Caribbean,71,2
+kn,Saint Kitts and Nevis,NW,English,Christianity|Protestantism|Christian|No religion|Hinduism,Eastern Caribbean dollar,Americas,Caribbean,70,2
 uz,Uzbekistan,NE,Russian|Uzbek,Islam|Christianity|Others,Uzbekistani soʻm,Asia,Central Asia,70,2
-gi,Gibraltar,NW,English,N/A,Gibraltar pound,Europe,Southern Europe,82,1
-ie,Ireland,NW,English|Irish,N/A,Euro,Europe,Northern Europe,82,1
-pe,Peru,SW,Aymara|Quechua|Spanish,Christianity|Catholicism|Christian|No religion,Peruvian sol,Americas,South America,73,2
-pk,Pakistan,NE,English|Urdu,Islam|official|[7]|Hinduism|Christianity|other,Pakistani rupee,Asia,Southern Asia,66,3
-cl,Chile,SW,Spanish,Christianity|Catholicism|Christian|No religion,Chilean peso,Americas,South America,79,1
-zm,Zambia,SE,English,Christianity|official,Zambian kwacha,Africa,Eastern Africa,62,4
-lc,Saint Lucia,NW,English,Christianity|No religion|Rastafari,Eastern Caribbean dollar,Americas,Caribbean,73,1
-sc,Seychelles,SE,Seychellois Creole|English|French,Christianity|Catholicism|Anglicanism|Christian|Hinduism|Islam|None|[2],Seychellois rupee,Africa,Eastern Africa,77,2
+gi,Gibraltar,NW,English,N/A,Gibraltar pound,Europe,Southern Europe,80,1
+ie,Ireland,NW,English|Irish,N/A,Euro,Europe,Northern Europe,80,1
+pe,Peru,SW,Aymara|Quechua|Spanish,Christianity|Catholicism|Christian|No religion,Peruvian sol,Americas,South America,75,2
+pk,Pakistan,NE,English|Urdu,Islam|official|[7]|Hinduism|Christianity|other,Pakistani rupee,Asia,Southern Asia,65,3
+cl,Chile,SW,Spanish,Christianity|Catholicism|Christian|No religion,Chilean peso,Americas,South America,80,1
+zm,Zambia,SE,English,Christianity|official,Zambian kwacha,Africa,Eastern Africa,60,4
+lc,Saint Lucia,NW,English,Christianity|No religion|Rastafari,Eastern Caribbean dollar,Americas,Caribbean,75,1
+sc,Seychelles,SE,Seychellois Creole|English|French,Christianity|Catholicism|Anglicanism|Christian|Hinduism|Islam|None|[2],Seychellois rupee,Africa,Eastern Africa,75,2
 bj,Benin,NE,French,Christianity|Islam|Traditional faiths|No religion,West African CFA franc,Africa,Western Africa,60,5
 gb,United Kingdom,NW,English,Christianity|no religion|Islam|Hinduism|other|Sikhism,British pound,Europe,Northern Europe,80,1
 bv,Bouvet Island,NE,Norwegian,N/A,N/A,Antarctic,N/A,0,0
-cr,Costa Rica,NW,Spanish,Christianity|Roman Catholic|official|[3]|Protestant|Christian|No religion,Costa Rican colón,Americas,Central America,79,1
-km,Comoros,SE,Arabic|French|Comorian,Sunni Islam|Christianity,Comorian franc,Africa,Eastern Africa,64,4
-is,Iceland,NW,Icelandic,Christianity|Church of Iceland|[b]|Christian|No religion|Ásatrúarfélagið,Icelandic króna,Europe,Northern Europe,83,1
-jp,Japan,NE,Japanese,N/A,Japanese yen,Asia,Eastern Asia,84,1
+cr,Costa Rica,NW,Spanish,Christianity|Roman Catholic|official|[3]|Protestant|Christian|No religion,Costa Rican colón,Americas,Central America,80,1
+km,Comoros,SE,Arabic|French|Comorian,Sunni Islam|Christianity,Comorian franc,Africa,Eastern Africa,65,4
+is,Iceland,NW,Icelandic,Christianity|Church of Iceland|[b]|Christian|No religion|Ásatrúarfélagið,Icelandic króna,Europe,Northern Europe,85,1
+jp,Japan,NE,Japanese,N/A,Japanese yen,Asia,Eastern Asia,85,1
 va,Vatican City,NE,Italian|Latin,Roman Catholicism|State religion,Euro,Europe,Southern Europe,0,0
 vg,British Virgin Islands,NW,English,N/A,United States dollar,Americas,Caribbean,75,0
 nc,New Caledonia,SE,French,N/A,CFP franc,Oceania,Melanesia,80,2
-fj,Fiji,NE,English|Fijian|Fiji Hindi,Christianity|Methodism|Christian|Hinduism|Islam|Others|None|[5],Fijian dollar,Oceania,Melanesia,67,2
-ba,Bosnia and Herzegovina,NE,Bosnian|Croatian|Serbian,Islam|Christianity|Serbian Orthodox Church|Roman Catholicism|No Religion|Others,Bosnia and Herzegovina convertible mark,Europe,Southeast Europe,76,1
+fj,Fiji,NE,English|Fijian|Fiji Hindi,Christianity|Methodism|Christian|Hinduism|Islam|Others|None|[5],Fijian dollar,Oceania,Melanesia,65,2
+ba,Bosnia and Herzegovina,NE,Bosnian|Croatian|Serbian,Islam|Christianity|Serbian Orthodox Church|Roman Catholicism|No Religion|Others,Bosnia and Herzegovina convertible mark,Europe,Southeast Europe,75,1
 cc,Cocos (Keeling) Islands,NE,English,N/A,Australian dollar,Oceania,Australia and New Zealand,0,0
 eh,Western Sahara,NW,Berber|Hassaniya|Spanish,N/A,Algerian dinar|Moroccan dirham|Mauritanian ouguiya,Africa,Northern Africa,0,0
 mx,Mexico,NW,Spanish,Christianity|Catholicism|Protestantism|no religion,Mexican peso,Americas,North America,70,1
 kh,Cambodia,NE,Khmer,Buddhism|official|[3]|Islam|Christianity|Others|[4],Cambodian riel|United States dollar,Asia,South-Eastern Asia,70,2
-vc,Saint Vincent and the Grenadines,NW,English,Christianity|Protestantism|Christian|Hinduism|No religion|Rastafari|Baha'i faith|Islam,Eastern Caribbean dollar,Americas,Caribbean,72,1
-ir,Iran,NE,Persian (Farsi),Shia Islam|official,Iranian rial,Asia,Southern Asia,74,1
-mt,Malta,NE,English|Maltese,Christianity|Catholicism|official|Christian|No religion|Islam|Hinduism,Euro,Europe,Southern Europe,82,1
-rs,Serbia,NE,Serbian,Christianity|Eastern Orthodoxy|Catholicism|Protestantism|Islam|no religion|Kosovo|[a],Serbian dinar,Europe,Southeast Europe,74,1
-ae,United Arab Emirates,NE,Arabic,Sunni Islam,United Arab Emirates dirham,Asia,Western Asia,78,1
-az,Azerbaijan,NE,Azerbaijani|Russian,Islam|Shia Islam|Sunni Islam|Christianity|No religion|[3]|[4],Azerbaijani manat,Asia,Western Asia,66,1
+vc,Saint Vincent and the Grenadines,NW,English,Christianity|Protestantism|Christian|Hinduism|No religion|Rastafari|Baha'i faith|Islam,Eastern Caribbean dollar,Americas,Caribbean,70,1
+ir,Iran,NE,Persian (Farsi),Shia Islam|official,Iranian rial,Asia,Southern Asia,75,1
+mt,Malta,NE,English|Maltese,Christianity|Catholicism|official|Christian|No religion|Islam|Hinduism,Euro,Europe,Southern Europe,80,1
+rs,Serbia,NE,Serbian,Christianity|Eastern Orthodoxy|Catholicism|Protestantism|Islam|no religion|Kosovo|[a],Serbian dinar,Europe,Southeast Europe,75,1
+ae,United Arab Emirates,NE,Arabic,Sunni Islam,United Arab Emirates dirham,Asia,Western Asia,80,1
+az,Azerbaijan,NE,Azerbaijani|Russian,Islam|Shia Islam|Sunni Islam|Christianity|No religion|[3]|[4],Azerbaijani manat,Asia,Western Asia,65,1
 hm,Heard Island and McDonald Islands,NE,English,N/A,N/A,Antarctic,N/A,0,0
-pf,French Polynesia,NE,French,N/A,CFP franc,Oceania,Polynesia,82,1
+pf,French Polynesia,NE,French,N/A,CFP franc,Oceania,Polynesia,80,1
 vu,Vanuatu,SE,Bislama|English|French,Christianity|Presbyterianism|Protestant|Catholicism|Folk religions|None,Vanuatu vatu,Oceania,Melanesia,70,3
-ne,Niger,NE,French,Islam|Christianity|Animism|Irreligion,West African CFA franc,Africa,Western Africa,61,6
-er,Eritrea,NE,Arabic|English|Tigrinya,religion in Eritrea,Eritrean nakfa,Africa,Eastern Africa,67,3
-cf,Central African Republic,NE,French|Sango,Christianity|Islam|Traditional faiths|other|none,Central African CFA franc,Africa,Middle Africa,54,5
-il,Israel,NE,Arabic|Hebrew,Judaism|Islam|Christianity|Druze|others,Israeli new shekel,Asia,Western Asia,82,2
-np,Nepal,NE,Nepali,Hinduism|Buddhism|Islam|Kirant|Christianity|Prakriti,Nepalese rupee,Asia,Southern Asia,69,2
-pa,Panama,NW,Spanish,Christianity|Roman Catholic|Protestant|Christian|No religion,Panamanian balboa|United States dollar,Americas,Central America,76,2
+ne,Niger,NE,French,Islam|Christianity|Animism|Irreligion,West African CFA franc,Africa,Western Africa,60,6
+er,Eritrea,NE,Arabic|English|Tigrinya,religion in Eritrea,Eritrean nakfa,Africa,Eastern Africa,65,3
+cf,Central African Republic,NE,French|Sango,Christianity|Islam|Traditional faiths|other|none,Central African CFA franc,Africa,Middle Africa,55,5
+il,Israel,NE,Arabic|Hebrew,Judaism|Islam|Christianity|Druze|others,Israeli new shekel,Asia,Western Asia,80,2
+np,Nepal,NE,Nepali,Hinduism|Buddhism|Islam|Kirant|Christianity|Prakriti,Nepalese rupee,Asia,Southern Asia,70,2
+pa,Panama,NW,Spanish,Christianity|Roman Catholic|Protestant|Christian|No religion,Panamanian balboa|United States dollar,Americas,Central America,75,2
 gg,Guernsey,NW,English|French|Guernésiais,N/A,British pound|Guernsey pound,Europe,Northern Europe,0,0
 sb,Solomon Islands,SE,English,Christianity|Protestantism|Catholicism|Christian|Folk religions|Others|None,Solomon Islands dollar,Oceania,Melanesia,70,4
-zw,Zimbabwe,SE,Chibarwe|English|Kalanga|Khoisan|Ndau|Northern Ndebele|Chewa|Shona|Sotho|Tonga|Tswana|Tsonga|Venda|Xhosa|Zimbabwean Sign Language,Christianity|Protestantism|Christian|No religion|Traditional faiths,Zimbabwean dollar,Africa,Southern Africa,61,3
+zw,Zimbabwe,SE,Chibarwe|English|Kalanga|Khoisan|Ndau|Northern Ndebele|Chewa|Shona|Sotho|Tonga|Tswana|Tsonga|Venda|Xhosa|Zimbabwean Sign Language,Christianity|Protestantism|Christian|No religion|Traditional faiths,Zimbabwean dollar,Africa,Southern Africa,60,3
 aw,Aruba,NW,Dutch|Papiamento,N/A,Aruban florin,Americas,Caribbean,75,1
-bn,Brunei,NE,Malay,Sunni Islam|official|Christianity|Buddhism|Indigenous beliefs,Brunei dollar|Singapore dollar,Asia,South-Eastern Asia,74,1
-dk,Denmark,NE,Danish,Christianity|Church of Denmark|official|Christian|No religion|Islam|Others|[7]|[8],Danish krone,Europe,Northern Europe,81,1
+bn,Brunei,NE,Malay,Sunni Islam|official|Christianity|Buddhism|Indigenous beliefs,Brunei dollar|Singapore dollar,Asia,South-Eastern Asia,75,1
+dk,Denmark,NE,Danish,Christianity|Church of Denmark|official|Christian|No religion|Islam|Others|[7]|[8],Danish krone,Europe,Northern Europe,80,1
 be,Belgium,NE,German|French|Dutch,Christianity|Roman Catholic|Christian|No religion|Islam,Euro,Europe,Western Europe,80,1
 gf,French Guiana,NW,French,N/A,Euro,Americas,South America,0,0
-la,Laos,NE,Lao,Buddhism|[b]|Tai folk religion|Christianity|Others|None|[4],Lao kip,Asia,South-Eastern Asia,68,2
+la,Laos,NE,Lao,Buddhism|[b]|Tai folk religion|Christianity|Others|None|[4],Lao kip,Asia,South-Eastern Asia,70,2
 to,Tonga,SW,English|Tongan,Christianity|Methodism|Mormonism|Catholicism|Christian|Baha'i faith|No religion,Tongan paʻanga,Oceania,Polynesia,70,3
 ad,Andorra,NE,Catalan,Christianity|Catholic Church,Euro,Europe,Southern Europe,0,1
 gp,Guadeloupe,NW,French,N/A,Euro,Americas,Caribbean,0,0
 mq,Martinique,NW,French,Christianity|Roman Catholicism|Protestantism|Baháʼí|Islam|Hinduism|[3],Euro,Americas,Caribbean,0,0
-ls,Lesotho,SE,English|Sotho,Protestant Christianity|Roman Catholic,Lesotho loti|South African rand,Africa,Southern Africa,54,3
-dm,Dominica,NW,English,Christianity|Folk religions|Other|None|[3],Eastern Caribbean dollar,Americas,Caribbean,76,1
+ls,Lesotho,SE,English|Sotho,Protestant Christianity|Roman Catholic,Lesotho loti|South African rand,Africa,Southern Africa,55,3
+dm,Dominica,NW,English,Christianity|Folk religions|Other|None|[3],Eastern Caribbean dollar,Americas,Caribbean,75,1
 so,Somalia,NE,Arabic|Somali,Sunni Islam|official|[1],Somali shilling,Africa,Eastern Africa,55,6
-hr,Croatia,NE,Croatian,Christianity|Catholicism|Orthodoxy|Christian|No religion|Others|[4],Euro,Europe,Southeast Europe,77,1
-sl,Sierra Leone,NW,English,Islam|Christianity,Sierra Leonean leone,Africa,Western Africa,59,4
+hr,Croatia,NE,Croatian,Christianity|Catholicism|Orthodoxy|Christian|No religion|Others|[4],Euro,Europe,Southeast Europe,75,1
+sl,Sierra Leone,NW,English,Islam|Christianity,Sierra Leonean leone,Africa,Western Africa,60,4
 bl,Saint Barthélemy,NW,French,N/A,Euro,Americas,Caribbean,0,0
 sj,Svalbard and Jan Mayen,NE,Norwegian,N/A,krone,Europe,Northern Europe,0,0
 pm,Saint Pierre and Miquelon,NW,French,N/A,Euro,Americas,North America,0,0
 um,United States Minor Outlying Islands,NE,English,N/A,United States dollar,Americas,North America,0,0
-bi,Burundi,SE,French|Kirundi,Christianity|Roman Catholic|Protestant|Christian|Traditional faiths|Islam|Others|None,Burundian franc,Africa,Eastern Africa,61,5
-sn,Senegal,NW,French,Islam|Christianity,West African CFA franc,Africa,Western Africa,68,4
+bi,Burundi,SE,French|Kirundi,Christianity|Roman Catholic|Protestant|Christian|Traditional faiths|Islam|Others|None,Burundian franc,Africa,Eastern Africa,60,5
+sn,Senegal,NW,French,Islam|Christianity,West African CFA franc,Africa,Western Africa,70,4
 et,Ethiopia,NE,Amharic,Christianity|Ethiopian Orthodoxy|P'ent'ay|Christian|Islam|Traditional faiths|Others|None,Ethiopian birr,Africa,Eastern Africa,65,4
-lu,Luxembourg,NE,German|French|Luxembourgish,Christianity|Catholicism|Christian|No religion,Euro,Europe,Western Europe,81,1
-cn,China,NE,Chinese,no religion|folk|Buddhism|Christianity|Islam|others,Chinese yuan,Asia,Eastern Asia,78,1
+lu,Luxembourg,NE,German|French|Luxembourgish,Christianity|Catholicism|Christian|No religion,Euro,Europe,Western Europe,80,1
+cn,China,NE,Chinese,no religion|folk|Buddhism|Christianity|Islam|others,Chinese yuan,Asia,Eastern Asia,80,1

@@ -19,34 +19,52 @@ multi_value_columns = ["languages", "religion", "currency", "color_names"]
 weights = calculate_weights(df, multi_value_columns)
 
 
-# Função para selecionar o valor de maior peso ou o segundo de maior peso, caso a soma dos demais seja maior
-def weighted_max(values, weights, adjustment_factor=0.8):
+def primary_secondary_values(values, weights):
     sorted_values = sorted(values, key=lambda x: weights.get(x, 0), reverse=True)
-
-    if len(sorted_values) > 1 and weights[sorted_values[0]] * adjustment_factor < sum(
-        weights[v] for v in sorted_values[1:]
-    ):
-        return sorted_values[1]
-    else:
-        return sorted_values[0]
+    primary = sorted_values[0]
+    secondary = sorted_values[1] if len(sorted_values) > 1 else primary
+    return primary, secondary
 
 
-# Substituir os múltiplos valores pelo valor de maior peso ou o segundo de maior peso, conforme a lógica descrita
-for col in multi_value_columns:
-    if col == "religion":
-        df[col] = df[col].apply(
-            lambda x: weighted_max(x.split("|"), weights, 0.8)
+for col in ["languages", "religion", "currency"]:
+    df[f"{col}_primary"], df[f"{col}_secondary"] = zip(
+        *df[col].apply(
+            lambda x: primary_secondary_values(x.split("|"), weights)
             if isinstance(x, str)
-            else x
+            else (x, x)
         )
-    else:
-        df[col] = df[col].apply(
-            lambda x: max(x.split("|"), key=lambda y: weights.get(y, 0))
-            if isinstance(x, str)
-            else x
-        )
+    )
+    df.drop(col, axis=1, inplace=True)
 
-df.fillna("N/A", inplace=True)
+df["most_ranked_color"] = df["color_names"].apply(
+    lambda x: max(x.split("|"), key=lambda y: weights.get(y, 0))
+    if isinstance(x, str)
+    else x
+)
+
+df.drop("color_names", axis=1, inplace=True)
+df.rename(columns={"predominant_color_name": "primary_color"}, inplace=True)
+df.fillna("Other", inplace=True)
+
+columns_order = [
+    "country_or_territory",
+    "zone",
+    "region",
+    "subregion",
+    "life_expectancy",
+    "fertility_rate",
+    "num_colors",
+    "primary_color",
+    "secondary_color",
+    "most_ranked_color",
+    "currency_primary",
+    "currency_secondary",
+    "languages_primary",
+    "languages_secondary",
+    "religion_primary",
+    "religion_secondary",
+]
+df = df[columns_order]
 
 dataset_final = os.path.join(current_dir, "dados", "4_dataset_final.csv")
-df.to_csv(dataset_final, index=False, encoding="utf-8-sig")
+df.to_csv(dataset_final, index=False, encoding="utf-8")

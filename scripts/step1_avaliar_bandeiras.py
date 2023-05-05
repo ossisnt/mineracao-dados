@@ -14,7 +14,7 @@ from tqdm import tqdm
 def download_and_extract_flags(url, output_dir):
     if os.path.exists(output_dir):
         user_input = input(
-            f'O diretório "{output_dir}" já existe. Deseja continuar? (s/n): '
+            f'O diretório "{output_dir}" já existe. Deseja recriar o diretório? (s/n): '
         )
         if user_input.lower() != "s":
             print("Download cancelado.")
@@ -80,7 +80,7 @@ def secondary_color(main_colors, color_counts):
     return main_colors[secondary_count_index]
 
 
-def extract_features(image_path):
+def extract_features(image_path, progress_bar):
     img = Image.open(image_path)
     img_rgba = img.convert("RGBA")
     img_np = np.array(img_rgba)
@@ -119,7 +119,7 @@ def extract_features(image_path):
     secondary_color_rgb = secondary_color(main_colors, color_counts)
     secondary_color_name = get_color_name(secondary_color_rgb)
 
-    print(image_path)
+    progress_bar.update(1)
 
     return {
         "alpha_code": os.path.splitext(os.path.basename(image_path))[0],
@@ -142,8 +142,18 @@ def main():
 
     print("Iniciando análise...")
 
+    if os.path.isfile(dados_path):
+        user_input = input(
+            f'O arquivo "{dados_path}" já existe. Deseja continuar? (s/n): '
+        )
+        if user_input.lower() != "s":
+            print("Análise cancelada.")
+            exit()
+
     flags = [os.path.join(flags_path, f) for f in os.listdir(flags_path)]
-    features = [extract_features(flag) for flag in flags]
+
+    with tqdm(total=len(flags), desc="Analisando bandeiras") as progress_bar:
+        features = [extract_features(flag, progress_bar) for flag in flags]
 
     df = pd.DataFrame(features)
     df.to_csv(dados_path, index=False)
