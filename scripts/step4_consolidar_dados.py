@@ -68,3 +68,12 @@ df = df[columns_order]
 
 dataset_final = os.path.join(current_dir, "dados", "4_dataset_final.csv")
 df.to_csv(dataset_final, index=False, encoding="utf-8")
+
+# dummies
+df_transformed = df.copy().drop(df.columns[0], axis=1)
+dummies = pd.get_dummies(df_transformed, prefix_sep="_", columns=df_transformed.columns)
+dummies.insert(0, df.columns[0], df[df.columns[0]])
+df = dummies
+
+dataset_final_transformed = os.path.join(current_dir, "dados", "4_dataset_final_transformed.csv")
+df.to_csv(dataset_final_transformed, index=False, encoding="utf-8")
