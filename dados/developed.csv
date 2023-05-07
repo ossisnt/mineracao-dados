@@ -1,0 +1,67 @@
+"place","pop2023","growthRate","area","country","cca3","cca2","ccn3","region","subregion","landAreaKm","density","densityMi","Rank","hdiTier","hdi2021","rank"
+756,8796669,0.00643,41284,"Switzerland","CHE","CH",756,"Europe","Western Europe",39516,222.6103,576.5607,101,"Very High",0.962,1
+578,5474360,0.00737,323802,"Norway","NOR","NO",578,"Europe","Northern Europe",364285,15.0277,38.9217,119,"Very High",0.961,2
+352,375318,0.00649,103000,"Iceland","ISL","IS",352,"Europe","Northern Europe",100830,3.7223,9.6407,179,"Very High",0.959,3
+344,7491609,0.00037,1104,"Hong Kong","HKG","HK",344,"Asia","Eastern Asia",1050,7134.8657,18479.3022,104,"Very High",0.952,4
+36,26439111,0.01,7692024,"Australia","AUS","AU",36,"Oceania","Australia and New Zealand",7692020,3.4372,8.9024,55,"Very High",0.951,5
+208,5910913,0.00487,43094,"Denmark","DNK","DK",208,"Europe","Northern Europe",40000,147.7728,382.7316,115,"Very High",0.948,6
+752,10612086,0.00595,450295,"Sweden","SWE","SE",752,"Europe","Northern Europe",407283.5,26.0558,67.4844,87,"Very High",0.947,7
+372,5056935,0.00673,70273,"Ireland","IRL","IE",372,"Europe","Northern Europe",68890,73.4059,190.1214,125,"Very High",0.945,8
+276,83294633,-0.0009,357114,"Germany","DEU","DE",276,"Europe","Western Europe",349390,238.4002,617.4564,19,"Very High",0.942,9
+528,17618299,0.00309,41850,"Netherlands","NLD","NL",528,"Europe","Western Europe",33670,523.264,1355.2538,72,"Very High",0.941,10
+246,5545475,0.00085,338424,"Finland","FIN","FI",246,"Europe","Northern Europe",303940,18.2453,47.2553,118,"Very High",0.94,11
+702,6014723,0.00653,710,"Singapore","SGP","SG",702,"Asia","South-Eastern Asia",718,8377.0515,21696.5635,114,"Very High",0.939,12
+56,11686140,0.00259,30528,"Belgium","BEL","BE",56,"Europe","Western Europe",30280,385.9359,999.5741,82,"Very High",0.937,13
+554,5228100,0.00826,270467,"New Zealand","NZL","NZ",554,"Oceania","Australia and New Zealand",263310,19.8553,51.4252,123,"Very High",0.937,14
+124,38781291,0.0085,9984670,"Canada","CAN","CA",124,"North America","Northern America",8965590,4.3256,11.2032,38,"Very High",0.936,15
+438,39584,0.00654,160,"Liechtenstein","LIE","LI",438,"Europe","Western Europe",160,247.4,640.766,216,"Very High",0.935,16
+442,654768,0.01107,2586,"Luxembourg","LUX","LU",442,"Europe","Western Europe",2574.5,254.3282,658.7101,168,"Very High",0.93,17
+826,67736802,0.00338,242900,"United Kingdom","GBR","GB",826,"Europe","Northern Europe",241930,279.9851,725.1615,21,"Very High",0.929,18
+392,123294513,-0.0053,377930,"Japan","JPN","JP",392,"Asia","Eastern Asia",364500,338.2566,876.0845,12,"Very High",0.925,19
+410,51784059,-0.00061,100210,"South Korea","KOR","KR",410,"Asia","Eastern Asia",97600,530.5744,1374.1876,29,"Very High",0.925,20
+840,339996563,0.00505,9372610,"United States","USA","US",840,"North America","Northern America",9147420,37.1686,96.2666,3,"Very High",0.921,21
+376,9174520,0.01507,20770,"Israel","ISR","IL",376,"Asia","Western Asia, The Middle East",21640,423.9612,1098.0595,98,"Very High",0.919,22
+705,2119675,-0.00008,20273,"Slovenia","SVN","SI",705,"Europe","Southern Europe",20136.4,105.2658,272.6385,149,"Very High",0.918,23
+470,535064,0.00333,316,"Malta","MLT","MT",470,"Europe","Southern Europe",320,1672.075,4330.6743,173,"Very High",0.918,24
+40,8958960,0.00216,83871,"Austria","AUT","AT",40,"Europe","Western Europe",82520,108.5671,281.1889,100,"Very High",0.916,25
+784,9516871,0.00802,83600,"United Arab Emirates","ARE","AE",784,"Asia","Western Asia, The Middle East",71020,134.0027,347.067,96,"Very High",0.911,26
+724,47519628,-0.00082,505992,"Spain","ESP","ES",724,"Europe","Southern Europe",499556.6,95.1236,246.3702,32,"Very High",0.905,27
+250,64756584,0.00201,551695,"France","FRA","FR",250,"Europe","Western Europe",547557,118.2646,306.3052,23,"Very High",0.903,28
+196,1260138,0.00691,9251,"Cyprus","CYP","CY",196,"Europe","Eastern Europe, The Middle East",9240,136.3786,353.2205,158,"Very High",0.896,29
+380,58870762,-0.00282,301336,"Italy","ITA","IT",380,"Europe","Southern Europe",295717,199.078,515.6121,25,"Very High",0.895,30
+233,1322765,-0.00249,45227,"Estonia","EST","EE",233,"Europe","Northern Europe",42750,30.9419,80.1394,156,"Very High",0.89,31
+203,10495295,0.00013,78865,"Czech Republic","CZE","CZ",203,"Europe","Eastern Europe",77198.5,135.9521,352.1158,89,"Very High",0.889,32
+300,10341277,-0.00421,131990,"Greece","GRC","GR",300,"Europe","Southern Europe",128900,80.2271,207.7883,91,"Very High",0.887,33
+616,41026067,0.02933,312679,"Poland","POL","PL",616,"Europe","Eastern Europe",306130,134.0152,347.0993,37,"Very High",0.876,34
+682,36947025,0.01478,2149690,"Saudi Arabia","SAU","SA",682,"Asia","Western Asia, The Middle East",2149690,17.1871,44.5147,40,"Very High",0.875,35
+440,2718352,-0.01153,65300,"Lithuania","LTU","LT",440,"Europe","Northern Europe",62620,43.4103,112.4326,142,"Very High",0.875,36
+48,1485509,0.00902,765,"Bahrain","BHR","BH",48,"Asia","Western Asia, The Middle East",785,1892.3682,4901.2335,154,"Very High",0.875,37
+620,10247605,-0.00227,92090,"Portugal","PRT","PT",620,"Europe","Southern Europe",91605.6,111.8666,289.7344,93,"Very High",0.866,38
+428,1830211,-0.01105,64559,"Latvia","LVA","LV",428,"Europe","Northern Europe",62230,29.4104,76.173,151,"Very High",0.863,39
+191,4008617,-0.00539,56594,"Croatia","HRV","HR",191,"Europe","Southern Europe",55960,71.6336,185.5311,130,"Very High",0.858,40
+20,80088,0.00331,468,"Andorra","AND","AD",20,"Europe","Southern Europe",470,170.4,441.336,203,"Very High",0.858,41
+152,19629590,0.00132,756102,"Chile","CHL","CL",152,"South America","South America, Latin America",743532,26.4005,68.3772,65,"Very High",0.855,42
+634,2716391,0.00789,11586,"Qatar","QAT","QA",634,"Asia","Western Asia, The Middle East",11490,236.4135,612.3109,143,"Very High",0.855,43
+674,33642,-0.00054,61,"San Marino","SMR","SM",674,"Europe","Southern Europe",60,560.7,1452.213,218,"Very High",0.853,44
+703,5795199,0.02689,49037,"Slovakia","SVK","SK",703,"Europe","Eastern Europe",49035,118.1849,306.099,116,"Very High",0.848,45
+348,10156239,0.01896,93028,"Hungary","HUN","HU",348,"Europe","Eastern Europe",91260,111.2891,288.2386,94,"Very High",0.846,46
+32,45773884,0.00579,2780400,"Argentina","ARG","AR",32,"South America","South America, Latin America",2736690,16.726,43.3203,33,"Very High",0.842,47
+792,85816199,0.00557,783562,"Turkey","TUR","TR",792,"Asia","Western Asia, The Middle East",783562,109.5206,283.6584,18,"Very High",0.838,48
+499,626485,-0.00095,13812,"Montenegro","MNE","ME",499,"Europe","Southern Europe",13450,46.5788,120.6391,169,"Very High",0.832,49
+414,4310108,0.00966,17818,"Kuwait","KWT","KW",414,"Asia","Western Asia, The Middle East",17820,241.8691,626.4411,129,"Very High",0.831,50
+643,144444359,-0.00186,17098242,"Russia","RUS","RU",643,"Europe","Eastern Europe",16376870,8.82,22.8439,9,"Very High",0.829,51
+96,452524,0.00784,5765,"Brunei","BRN","BN",96,"Asia","South-Eastern Asia",5270,85.8679,222.3979,175,"Very High",0.829,52
+642,19892812,0.01188,238391,"Romania","ROU","RO",642,"Europe","Eastern Europe",230080,86.4604,223.9325,64,"Very High",0.821,53
+512,4644384,0.01488,309500,"Oman","OMN","OM",512,"Asia","Western Asia, The Middle East",309500,15.0061,38.8658,127,"Very High",0.816,54
+44,412623,0.00644,13943,"Bahamas","BHS","BS",44,"North America","Caribbean",10010,41.2211,106.7626,176,"Very High",0.812,55
+398,19606633,0.01076,2724900,"Kazakhstan","KAZ","KZ",398,"Asia","Central Asia",2699700,7.2625,18.8099,66,"Very High",0.811,56
+780,1534937,0.00254,5130,"Trinidad and Tobago","TTO","TT",780,"North America","Caribbean",5130,299.208,774.9487,153,"Very High",0.81,57
+188,5212173,0.00605,51100,"Costa Rica","CRI","CR",188,"North America","Central America, Latin America",51060,102.0794,264.3856,124,"Very High",0.809,58
+858,3423108,0.00009,181034,"Uruguay","URY","UY",858,"South America","South America, Latin America",175020,19.5584,50.6562,135,"Very High",0.809,59
+112,9498238,-0.00385,207600,"Belarus","BLR","BY",112,"Europe","Eastern Europe",202980,46.794,121.1964,97,"Very High",0.808,60
+591,4468087,0.0135,75417,"Panama","PAN","PA",591,"North America","Central America, Latin America",74180,60.233,156.0036,128,"Very High",0.805,61
+458,34308525,0.01091,330803,"Malaysia","MYS","MY",458,"Asia","South-Eastern Asia",328550,104.4241,270.4583,46,"Very High",0.803,62
+688,7149077,-0.01001,88361,"Serbia","SRB","RS",688,"Europe","Southern Europe",87460,81.7411,211.7095,105,"Very High",0.802,63
+268,3728282,-0.0043,69700,"Georgia","GEO","GE",268,"Asia","Western Asia",69490,53.6521,138.9588,132,"Very High",0.802,64
+480,1300557,0.00084,2040,"Mauritius","MUS","MU",480,"Africa","Eastern Africa, Sub-Saharan Africa",2030,640.6685,1659.3313,157,"Very High",0.802,65
+764,71801279,0.00145,513120,"Thailand","THA","TH",764,"Asia","South-Eastern Asia",510890,140.5416,364.0026,20,"Very High",0.8,66
