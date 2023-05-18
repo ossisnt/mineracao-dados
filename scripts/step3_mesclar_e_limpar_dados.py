@@ -47,7 +47,7 @@ merged_data = country_data.merge(
 ).drop(columns=["alpha_code"])
 
 columns_order = [
-    # "Alpha Code",
+    "Alpha Code",
     "Country or Territory",
     "Zone",
     "Region",

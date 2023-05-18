@@ -1,251 +1,251 @@
-country_or_territory,zone,region,subregion,life_expectancy,fertility_rate,num_colors,primary_color,secondary_color,most_ranked_color,currency_primary,currency_secondary,languages_primary,languages_secondary,religion_primary,religion_secondary
-Afghanistan,NE,Asia,Southern Asia,60,4,4,forestgreen,black,white,Afghan afghani,Afghan afghani,Turkmen,Dari,Islam,Islam
-Aland Islands,NE,Europe,Northern Europe,0,0,3,teal,gold,crimson,Euro,Euro,Swedish,Swedish,Other,Other
-Albania,NE,Europe,Southeast Europe,75,1,2,red,black,black,Albanian lek,Albanian lek,Albanian,Albanian,Christianity,Islam
-Algeria,NE,Africa,Northern Africa,75,2,2,white,darkgreen,white,Algerian dinar,Algerian dinar,Arabic,Arabic,Sunni Islam,Christians
-American Samoa,SW,Oceania,Polynesia,0,0,3,navy,white,white,United States dollar,United States dollar,English,Samoan,Christian,Christian
-Andorra,NE,Europe,Southern Europe,0,1,3,darkblue,crimson,crimson,Euro,Euro,Catalan,Catalan,Christianity,Catholic Church
-Angola,SE,Africa,Middle Africa,60,5,2,crimson,black,crimson,Angolan kwanza,Angolan kwanza,Portuguese,Portuguese,Christianity,Islam
-Anguilla,NW,Americas,Caribbean,0,0,3,midnightblue,white,white,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Other,Other
-Antarctica,Equator or Greenwich,Antarctic,Other,0,0,2,royalblue,white,white,Other,Other,Other,Other,Other,Other
-Antigua and Barbuda,NW,Americas,Caribbean,80,1,4,crimson,black,white,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Christianity,Christian
-Argentina,SW,Americas,South America,75,1,2,cornflowerblue,white,white,Argentine peso,Argentine peso,Spanish,Guarani,Christianity,Christian
-Armenia,NE,Asia,Western Asia,70,1,3,orange,darkblue,red,Armenian dram,Armenian dram,Armenian,Armenian,Christianity,Armenian Apostolic Church
-Aruba,NW,Americas,Caribbean,75,1,2,royalblue,gold,gold,Aruban florin,Aruban florin,Dutch,Papiamento,Other,Other
-Australia,SE,Oceania,Australia and New Zealand,85,1,3,midnightblue,white,white,Australian dollar,Australian dollar,English,English,Christianity,Islam
-Austria,NE,Europe,Central Europe,80,1,2,crimson,white,white,Euro,Euro,German,German,Christianity,Islam
-Azerbaijan,NE,Asia,Western Asia,65,1,3,darkturquoise,forestgreen,crimson,Azerbaijani manat,Azerbaijani manat,Russian,Azerbaijani,Christianity,Islam
-Bahamas,NE,Americas,Caribbean,70,1,3,teal,black,gold,United States dollar,Bahamian dollar,English,English,Christianity,Christian
-Bahrain,NE,Asia,Western Asia,80,1,2,crimson,white,white,Bahraini dinar,Bahraini dinar,Arabic,Arabic,Christianity,Islam
-Bangladesh,NE,Asia,Southern Asia,70,2,2,darkslategray,crimson,crimson,Bangladeshi taka,Bangladeshi taka,Bengali,Bengali,Christianity,Islam
-Barbados,NW,Americas,Caribbean,75,1,2,midnightblue,gold,gold,Barbadian dollar,Barbadian dollar,English,English,Christianity,Christianity
-Belarus,NE,Europe,Eastern Europe,75,1,2,firebrick,forestgreen,forestgreen,Belarusian ruble,Belarusian ruble,Russian,Belarusian,Christianity,Christian
-Belgium,NE,Europe,Western Europe,80,1,3,crimson,gold,crimson,Euro,Euro,French,Dutch,Christianity,Islam
-Belize,NW,Americas,Central America,70,1,3,darkblue,crimson,crimson,Belize dollar,Belize dollar,English,Spanish,Christianity,Folk religions
-Benin,NE,Africa,Western Africa,60,5,3,seagreen,gold,crimson,West African CFA franc,West African CFA franc,French,French,Christianity,Islam
-Bermuda,NW,Americas,North America,80,1,3,crimson,white,white,Bermudian dollar,Bermudian dollar,English,English,Other,Other
-Bhutan,NE,Asia,Southern Asia,70,1,3,gold,orangered,white,Indian rupee,Bhutanese ngultrum,Dzongkha,Dzongkha,Christianity,Hinduism
-Bolivia,SW,Americas,South America,65,2,3,forestgreen,gold,gold,Bolivian boliviano,Bolivian boliviano,Spanish,Guarani,Christianity,Christian
-Bosnia and Herzegovina,NE,Europe,Southeast Europe,75,1,2,darkblue,gold,gold,Bosnia and Herzegovina convertible mark,Bosnia and Herzegovina convertible mark,Serbian,Croatian,Christianity,Islam
-Botswana,SE,Africa,Southern Africa,65,2,3,cornflowerblue,black,white,Botswana pula,Botswana pula,English,Tswana,Christianity,Christian
-Bouvet Island,NE,Antarctic,Other,0,0,3,crimson,midnightblue,white,Other,Other,Norwegian,Norwegian,Other,Other
-Brazil,SW,Americas,South America,75,1,3,forestgreen,gold,gold,Brazilian real,Brazilian real,Portuguese,Portuguese,Christianity,Christian
-British Indian Ocean Territory,SE,Africa,Eastern Africa,0,0,3,white,midnightblue,white,United States dollar,United States dollar,English,English,Other,Other
-British Virgin Islands,NW,Americas,Caribbean,75,0,3,midnightblue,white,white,United States dollar,United States dollar,English,English,Other,Other
-Brunei,NE,Asia,South-Eastern Asia,75,1,3,gold,white,white,Singapore dollar,Brunei dollar,Malay,Malay,Christianity,Buddhism
-Bulgaria,NE,Europe,Southeast Europe,75,1,3,teal,white,white,Bulgarian lev,Bulgarian lev,Bulgarian,Bulgarian,Christianity,Islam
-Burkina Faso,NW,Africa,Western Africa,60,4,2,seagreen,crimson,crimson,West African CFA franc,West African CFA franc,French,French,Christianity,Islam
-Burundi,SE,Africa,Eastern Africa,60,5,3,white,limegreen,white,Burundian franc,Burundian franc,French,Kirundi,Christianity,Islam
-Cambodia,NE,Asia,South-Eastern Asia,70,2,3,darkblue,crimson,white,United States dollar,Cambodian riel,Khmer,Khmer,Christianity,Islam
-Cameroon,NE,Africa,Middle Africa,60,4,3,gold,teal,crimson,Central African CFA franc,Central African CFA franc,English,French,Christianity,Islam
-Canada,NW,Americas,North America,80,1,2,red,white,white,Canadian dollar,Canadian dollar,English,French,Other,Other
-Cape Verde,NE,Africa,Western Africa,75,1,3,midnightblue,white,white,Cape Verdean escudo,Cape Verdean escudo,Portuguese,Portuguese,Christianity,Christian
-Caribbean Netherlands,NW,Americas,Caribbean,0,0,3,midnightblue,white,white,United States dollar,United States dollar,English,Dutch,Other,Other
-Cayman Islands,NE,Americas,Caribbean,80,0,3,midnightblue,white,white,Cayman Islands dollar,Cayman Islands dollar,English,English,Christianity,Islam
-Central African Republic,NE,Africa,Middle Africa,55,5,5,gold,forestgreen,white,Central African CFA franc,Central African CFA franc,French,Sango,Christianity,Islam
-Chad,NE,Africa,Middle Africa,50,6,3,midnightblue,crimson,crimson,Central African CFA franc,Central African CFA franc,French,Arabic,Christianity,Islam
-Chile,SW,Americas,South America,80,1,3,firebrick,white,white,Chilean peso,Chilean peso,Spanish,Spanish,Christianity,Christian
-China,NE,Asia,Eastern Asia,80,1,1,orangered,orangered,orangered,Chinese yuan,Chinese yuan,Chinese,Chinese,Christianity,Islam
-Christmas Island,SE,Oceania,Australia and New Zealand,0,0,3,mediumblue,seagreen,seagreen,Australian dollar,Australian dollar,English,English,Other,Other
-Cocos (Keeling) Islands,NE,Oceania,Australia and New Zealand,0,0,2,green,gold,gold,Australian dollar,Australian dollar,English,English,Other,Other
-Colombia,NW,Americas,South America,75,1,3,gold,midnightblue,crimson,Colombian peso,Colombian peso,Spanish,Spanish,Christianity,Christian
-Comoros,SE,Africa,Eastern Africa,65,4,5,steelblue,gold,white,Comorian franc,Comorian franc,French,Arabic,Christianity,Sunni Islam
-Cook Islands,SW,Oceania,Polynesia,0,0,3,midnightblue,white,white,New Zealand dollar,Cook Islands dollar,English,Cook Islands Maori,Other,Other
-Costa Rica,NW,Americas,Central America,80,1,3,white,midnightblue,white,Costa Rican colon,Costa Rican colon,Spanish,Spanish,Christianity,Christian
-Croatia,NE,Europe,Southeast Europe,75,1,3,red,darkblue,white,Euro,Euro,Croatian,Croatian,Christianity,Christian
-Cuba,NW,Americas,Caribbean,75,1,3,darkblue,white,white,Cuban convertible peso,Cuban peso,Spanish,Spanish,Christianity,Folk religions
-Curacao,NW,Americas,Caribbean,80,1,2,midnightblue,gold,gold,Netherlands Antillean guilder,Netherlands Antillean guilder,English,Dutch,Christianity,Islam
-Cyprus,NE,Europe,Southern Europe,80,1,2,white,darkgoldenrod,white,Euro,Euro,Greek,Turkish,Christianity,Islam
-Czechia,NE,Europe,Central Europe,80,1,3,crimson,white,white,Czech koruna,Czech koruna,Slovak,Czech,Christianity,Christian
-DR Congo,Equator or Greenwich,Africa,Middle Africa,60,6,3,dodgerblue,crimson,crimson,Congolese franc,Congolese franc,French,Swahili,Christianity,Islam
-Denmark,NE,Europe,Northern Europe,80,1,2,crimson,white,white,Danish krone,Danish krone,Danish,Danish,Christianity,Islam
-Djibouti,NE,Africa,Eastern Africa,60,2,3,cornflowerblue,forestgreen,white,Djiboutian franc,Djiboutian franc,French,Arabic,Christianity,Islam
-Dominica,NW,Americas,Caribbean,75,1,5,forestgreen,gold,white,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Christianity,Folk religions
-Dominican Republic,NW,Americas,Caribbean,70,2,3,crimson,midnightblue,white,Dominican peso,Dominican peso,Spanish,Spanish,Christianity,Christian
-Ecuador,SW,Americas,South America,70,2,3,gold,crimson,crimson,United States dollar,United States dollar,Spanish,Spanish,Christianity,Christian
-Egypt,NE,Africa,Northern Africa,70,2,3,black,crimson,white,Egyptian pound,Egyptian pound,Arabic,Arabic,Religion in Egypt,Religion in Egypt
-El Salvador,NW,Americas,Central America,70,1,2,teal,white,white,United States dollar,United States dollar,Spanish,Spanish,Christianity,Christian
-Equatorial Guinea,NE,Africa,Middle Africa,60,4,4,crimson,forestgreen,white,Central African CFA franc,Central African CFA franc,French,Spanish,Christianity,Islam
-Eritrea,NE,Africa,Eastern Africa,65,3,4,crimson,forestgreen,crimson,Eritrean nakfa,Eritrean nakfa,English,Arabic,religion in Eritrea,religion in Eritrea
-Estonia,NE,Europe,Northern Europe,80,1,3,white,black,white,Euro,Euro,Estonian,Estonian,Christianity,Christianity
-Eswatini,SE,Africa,Southern Africa,60,2,5,steelblue,firebrick,white,South African rand,Swazi lilangeni,English,Swazi,Christianity,Christian
-Ethiopia,NE,Africa,Eastern Africa,65,4,4,forestgreen,crimson,crimson,Ethiopian birr,Ethiopian birr,Amharic,Amharic,Christianity,Islam
-Falkland Islands,SW,Americas,South America,0,0,3,midnightblue,white,white,Falkland Islands pound,Falkland Islands pound,English,English,Other,Other
-Faroe Islands,NW,Europe,Northern Europe,85,2,3,white,crimson,white,Danish krone,Faroese krona,Danish,Faroese,Christianity,Church of the Faroe Islands
-Fiji,NE,Oceania,Melanesia,65,2,4,cornflowerblue,crimson,white,Fijian dollar,Fijian dollar,English,Fijian,Christianity,Islam
-Finland,NE,Europe,Northern Europe,80,1,2,white,midnightblue,white,Euro,Euro,Swedish,Finnish,Christianity,Christian
-France,NE,Europe,Western Europe,80,1,3,crimson,white,white,Euro,Euro,French,French,Christianity,Islam
-French Guiana,NW,Americas,South America,0,0,2,forestgreen,gold,gold,Euro,Euro,French,French,Other,Other
-French Polynesia,NE,Oceania,Polynesia,80,1,2,crimson,white,white,CFP franc,CFP franc,French,French,Other,Other
-French Southern and Antarctic Lands,SE,Antarctic,Other,0,0,2,darkblue,white,white,Euro,Euro,French,French,Other,Other
-Gabon,SE,Africa,Middle Africa,65,3,3,gold,teal,gold,Central African CFA franc,Central African CFA franc,French,French,Christianity,Islam
-Gambia,NW,Africa,Western Africa,60,4,4,darkolivegreen,crimson,white,dalasi,dalasi,English,English,Christianity,Islam
-Georgia,NE,Asia,Western Asia,70,1,2,white,red,white,lari,lari,Georgian,Georgian,Other,Other
-Germany,NE,Europe,Western Europe,80,1,3,red,black,gold,Euro,Euro,German,German,Other,Other
-Ghana,NW,Africa,Western Africa,65,3,3,crimson,forestgreen,crimson,Ghanaian cedi,Ghanaian cedi,English,English,Christianity,Islam
-Gibraltar,NW,Europe,Southern Europe,80,1,2,white,red,white,Gibraltar pound,Gibraltar pound,English,English,Other,Other
-Greece,NE,Europe,Southern Europe,80,1,2,darkcyan,white,white,Euro,Euro,Greek,Greek,Islam,Christian
-Greenland,NW,Americas,North America,70,2,2,crimson,white,white,krone,krone,Greenlandic,Greenlandic,Christianity,Church of Greenland
-Grenada,NW,Americas,Caribbean,75,2,3,crimson,gold,crimson,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Christianity,Christian
-Guadeloupe,NW,Americas,Caribbean,0,0,3,black,darkblue,gold,Euro,Euro,French,French,Other,Other
-Guam,NE,Oceania,Micronesia,75,2,2,midnightblue,crimson,crimson,United States dollar,United States dollar,English,Spanish,Christianity,Buddhism
-Guatemala,NW,Americas,Central America,70,2,2,steelblue,white,white,Guatemalan quetzal,Guatemalan quetzal,Spanish,Spanish,Christianity,Christian
-Guernsey,NW,Europe,Northern Europe,0,0,3,white,crimson,white,British pound,Guernsey pound,English,French,Other,Other
-Guinea,NW,Africa,Western Africa,60,4,3,crimson,teal,crimson,Guinean franc,Guinean franc,French,French,Christianity,Islam
-Guinea-Bissau,NW,Africa,Western Africa,60,4,3,seagreen,gold,crimson,West African CFA franc,West African CFA franc,Portuguese,Upper Guinea Creole,Christianity,Islam
-Guyana,NW,Americas,South America,70,2,4,seagreen,crimson,white,Guyanese dollar,Guyanese dollar,English,English,Christianity,Islam
-Haiti,NW,Americas,Caribbean,65,2,2,darkblue,crimson,crimson,Haitian gourde,Haitian gourde,French,Haitian Creole,Christianity,Folk religions
-Heard Island and McDonald Islands,NE,Antarctic,Other,0,0,3,darkblue,white,white,Other,Other,English,English,Other,Other
-Honduras,NW,Americas,Central America,70,2,2,dodgerblue,white,white,Honduran lempira,Honduran lempira,Spanish,Spanish,Christianity,Catholicism
-Hong Kong,NE,Asia,Eastern Asia,85,0,2,orangered,white,white,Hong Kong dollar,Hong Kong dollar,English,Chinese,Other,Other
-Hungary,NE,Europe,Central Europe,75,1,3,darkolivegreen,white,white,Hungarian forint,Hungarian forint,Hungarian,Hungarian,Christianity,Christian
-Iceland,NW,Europe,Northern Europe,85,1,3,teal,crimson,white,Icelandic krona,Icelandic krona,Icelandic,Icelandic,Christianity,Christian
-India,NE,Asia,Southern Asia,70,2,3,green,coral,white,Indian rupee,Indian rupee,English,Tamil,Christianity,Islam
-Indonesia,SE,Asia,South-Eastern Asia,70,2,2,white,red,white,Indonesian rupiah,Indonesian rupiah,Indonesian,Indonesian,Christianity,Islam
-Iran,NE,Asia,Southern Asia,75,1,3,white,red,white,Iranian rial,Iranian rial,Persian (Farsi),Persian (Farsi),Shia Islam,Shia Islam
-Iraq,NE,Asia,Western Asia,70,3,3,black,crimson,white,Iraqi dinar,Iraqi dinar,Arabic,Aramaic,Christianity,Islam
-Ireland,NW,Europe,Northern Europe,80,1,3,seagreen,coral,white,Euro,Euro,English,Irish,Other,Other
-Isle of Man,NW,Europe,Northern Europe,80,1,1,crimson,crimson,crimson,British pound,Manx pound,English,Manx,Christianity,Islam
-Israel,NE,Asia,Western Asia,80,2,2,white,mediumblue,white,Israeli new shekel,Israeli new shekel,Arabic,Hebrew,Christianity,Islam
-Italy,NE,Europe,Southern Europe,80,1,3,seagreen,crimson,white,Euro,Euro,Italian,Italian,Christianity,Islam
-Ivory Coast,NW,Africa,Western Africa,60,4,3,teal,darkorange,white,West African CFA franc,West African CFA franc,French,French,Other,Other
-Jamaica,NW,Americas,Caribbean,70,1,3,gold,forestgreen,gold,Jamaican dollar,Jamaican dollar,English,Jamaican Patois,Christianity,Christian
-Japan,NE,Asia,Eastern Asia,85,1,2,white,firebrick,white,Japanese yen,Japanese yen,Japanese,Japanese,Other,Other
-Jersey,NW,Europe,Northern Europe,0,0,2,white,crimson,white,British pound,Jersey pound,English,French,Christian,Anglican
-Jordan,NE,Asia,Western Asia,75,2,4,black,forestgreen,white,Jordanian dinar,Jordanian dinar,Arabic,Arabic,Christianity,Sunni Islam
-Kazakhstan,NE,Asia,Central Asia,70,3,2,darkturquoise,gold,gold,Kazakhstani tenge,Kazakhstani tenge,Russian,Kazakh,Christianity,Islam
-Kenya,NE,Africa,Eastern Africa,60,3,4,black,darkred,white,Kenyan shilling,Kenyan shilling,English,Swahili,Christianity,Islam
-Kiribati,NE,Oceania,Micronesia,65,3,4,firebrick,white,white,Australian dollar,Kiribati dollar,English,Gilbertese,Christianity,Christian
-Kosovo,NE,Europe,Southeast Europe,0,0,2,darkslateblue,peru,darkslateblue,Euro,Euro,Serbian,Albanian,Christianity,Islam
-Kuwait,NE,Asia,Western Asia,75,2,4,forestgreen,crimson,white,Kuwaiti dinar,Kuwaiti dinar,Arabic,Arabic,Christianity,Islam
-Kyrgyzstan,NE,Asia,Central Asia,70,3,2,red,yellow,red,Kyrgyzstani som,Kyrgyzstani som,Russian,Kyrgyz,Christianity,Islam
-Laos,NE,Asia,South-Eastern Asia,70,2,3,crimson,midnightblue,white,Lao kip,Lao kip,Lao,Lao,Christianity,Buddhism
-Latvia,NE,Europe,Northern Europe,75,1,2,brown,white,white,Euro,Euro,Latvian,Latvian,Christianity,Christian
-Lebanon,NE,Asia,Western Asia,75,2,3,crimson,white,white,Lebanese pound,Lebanese pound,French,Arabic,Christianity,Islam
-Lesotho,SE,Africa,Southern Africa,55,3,3,white,darkblue,white,South African rand,Lesotho loti,English,Sotho,Roman Catholic,Protestant Christianity
-Liberia,NW,Africa,Western Africa,60,4,3,firebrick,white,white,Liberian dollar,Liberian dollar,English,English,Christianity,Islam
-Libya,NE,Africa,Northern Africa,70,2,3,black,seagreen,black,Libyan dinar,Libyan dinar,Arabic,Arabic,Islam,Islam
-Liechtenstein,NE,Europe,Western Europe,80,1,2,crimson,midnightblue,crimson,Swiss franc,Swiss franc,German,German,Christianity,Islam
-Lithuania,NE,Europe,Northern Europe,75,1,3,firebrick,darkslategray,firebrick,Euro,Euro,Lithuanian,Lithuanian,Christianity,Christian
-Luxembourg,NE,Europe,Western Europe,80,1,3,white,crimson,white,Euro,Euro,French,German,Christianity,Christian
-Macau,NE,Asia,Eastern Asia,85,1,2,teal,white,white,Macanese pataca,Macanese pataca,Portuguese,Chinese,Other,Other
-Madagascar,SE,Africa,Eastern Africa,65,3,3,white,forestgreen,white,Malagasy ariary,Malagasy ariary,French,Malagasy,Christianity,Islam
-Malawi,SE,Africa,Eastern Africa,65,3,3,crimson,forestgreen,crimson,Malawian kwacha,Malawian kwacha,English,Chewa,Christianity,Islam
-Malaysia,NE,Asia,South-Eastern Asia,75,1,3,white,red,white,Malaysian ringgit,Malaysian ringgit,English,Malay,Christianity,Hinduism
-Maldives,NE,Asia,Southern Asia,80,1,2,crimson,forestgreen,crimson,Maldivian rufiyaa,Maldivian rufiyaa,Maldivian,Maldivian,Sunni Islam,Sunni Islam
-Mali,NW,Africa,Western Africa,60,6,3,gold,limegreen,crimson,West African CFA franc,West African CFA franc,French,French,Islam,Islam
-Malta,NE,Europe,Southern Europe,80,1,2,crimson,white,white,Euro,Euro,English,Maltese,Christianity,Islam
-Marshall Islands,NE,Oceania,Micronesia,65,4,3,midnightblue,white,white,United States dollar,United States dollar,English,Marshallese,Christianity,Christian
-Martinique,NW,Americas,Caribbean,0,0,2,darkslateblue,white,white,Euro,Euro,French,French,Christianity,Islam
-Mauritania,NW,Africa,Western Africa,65,4,2,darkgreen,crimson,crimson,Mauritanian ouguiya,Mauritanian ouguiya,Arabic,Arabic,Sunni Islam,Sunni Islam
-Mauritius,SE,Africa,Eastern Africa,75,1,4,midnightblue,crimson,crimson,Mauritian rupee,Mauritian rupee,English,French,Christianity,Islam
-Mayotte,SE,Africa,Eastern Africa,0,0,3,white,gainsboro,white,Euro,Euro,French,French,Other,Other
-Mexico,NW,Americas,North America,70,1,3,darkslategray,crimson,white,Mexican peso,Mexican peso,Spanish,Spanish,Christianity,Catholicism
-Micronesia,NE,Oceania,Micronesia,70,2,1,cornflowerblue,cornflowerblue,cornflowerblue,United States dollar,United States dollar,English,English,Other,Other
-Moldova,NE,Europe,Eastern Europe,70,1,3,crimson,teal,crimson,Moldovan leu,Moldovan leu,Romanian,Romanian,Christianity,Christian
-Monaco,NE,Europe,Western Europe,0,0,2,crimson,white,white,Euro,Euro,French,French,Christianity,Christian
-Mongolia,NE,Asia,Eastern Asia,70,2,3,crimson,darkcyan,crimson,Mongolian togrog,Mongolian togrog,Mongolian,Mongolian,Christianity,Islam
-Montenegro,NE,Europe,Southeast Europe,75,1,2,firebrick,goldenrod,firebrick,Euro,Euro,Montenegrin,Montenegrin,Christianity,Islam
-Montserrat,NW,Americas,Caribbean,0,0,3,midnightblue,snow,crimson,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Other,Other
-Morocco,NW,Africa,Northern Africa,75,2,1,firebrick,firebrick,firebrick,Moroccan dirham,Moroccan dirham,Arabic,Berber,Islam,Sunni
-Mozambique,SE,Africa,Eastern Africa,60,4,4,gold,teal,crimson,Mozambican metical,Mozambican metical,Portuguese,Portuguese,Christianity,Islam
-Myanmar,NE,Asia,South-Eastern Asia,65,2,4,gold,crimson,white,Burmese kyat,Burmese kyat,Burmese,Burmese,Christianity,Islam
-Namibia,SE,Africa,Southern Africa,60,3,4,forestgreen,midnightblue,white,South African rand,Namibian dollar,English,German,Christianity,Christian
-Nauru,SE,Oceania,Micronesia,0,0,2,midnightblue,gold,gold,Australian dollar,Australian dollar,English,Nauru,Other,Other
-Nepal,NE,Asia,Southern Asia,70,2,3,white,crimson,white,Nepalese rupee,Nepalese rupee,Nepali,Nepali,Christianity,Islam
-Netherlands,NE,Europe,Western Europe,80,1,3,darkslateblue,firebrick,white,Euro,Euro,Dutch,Dutch,Christianity,Islam
-New Caledonia,SE,Oceania,Melanesia,80,2,4,forestgreen,mediumblue,gold,CFP franc,CFP franc,French,French,Other,Other
-New Zealand,SE,Oceania,Australia and New Zealand,80,1,3,midnightblue,crimson,white,New Zealand dollar,New Zealand dollar,English,Maori,Christianity,Islam
-Nicaragua,NW,Americas,Central America,70,2,2,darkcyan,white,white,Nicaraguan cordoba,Nicaraguan cordoba,Spanish,Spanish,Christianity,Christian
-Niger,NE,Africa,Western Africa,60,6,3,orangered,forestgreen,white,West African CFA franc,West African CFA franc,French,French,Christianity,Islam
-Nigeria,NE,Africa,Western Africa,50,5,2,seagreen,white,white,Nigerian naira,Nigerian naira,English,English,Other,Other
-Niue,SW,Oceania,Polynesia,0,0,4,gold,white,white,New Zealand dollar,New Zealand dollar,English,Niuean,Christianity,Christianity
-Norfolk Island,SE,Oceania,Australia and New Zealand,0,0,2,forestgreen,white,white,Australian dollar,Australian dollar,English,Norfuk,Christianity,Irreligion
-North Korea,NE,Asia,Eastern Asia,75,1,3,crimson,teal,white,North Korean won,North Korean won,Korean,Korean,Christianity,Buddhism
-North Macedonia,NE,Europe,Southeast Europe,75,1,2,crimson,gold,crimson,denar,denar,Macedonian,Macedonian,Christianity,Islam
-Northern Mariana Islands,NE,Oceania,Micronesia,0,0,2,darkcyan,white,white,United States dollar,United States dollar,English,Chamorro,Christianity,Islam
-Norway,NE,Europe,Northern Europe,85,1,3,crimson,midnightblue,white,Norwegian krone,Norwegian krone,Norwegian Nynorsk,Norwegian Bokmal,Christianity,Islam
-Oman,NE,Asia,Western Asia,75,2,3,crimson,white,white,Omani rial,Omani rial,Arabic,Arabic,Christianity,Islam
-Pakistan,NE,Asia,Southern Asia,65,3,2,darkgreen,white,white,Pakistani rupee,Pakistani rupee,English,Urdu,Christianity,Islam
-Palau,NE,Oceania,Micronesia,70,2,2,dodgerblue,yellow,dodgerblue,United States dollar,United States dollar,English,Palauan,Christianity,Islam
-Palestine,NE,Asia,Western Asia,75,3,4,black,forestgreen,white,Egyptian pound,Israeli new shekel,Arabic,Arabic,Other,Other
-Panama,NW,Americas,Central America,75,2,3,white,midnightblue,white,United States dollar,Panamanian balboa,Spanish,Spanish,Christianity,Christian
-Papua New Guinea,SE,Oceania,Melanesia,65,3,2,black,crimson,crimson,Papua New Guinean kina,Papua New Guinean kina,English,Hiri Motu,Christianity,Christian
-Paraguay,SW,Americas,South America,75,2,3,firebrick,darkblue,white,Paraguayan guarani,Paraguayan guarani,Spanish,Guarani,Christianity,Christian
-Peru,SW,Americas,South America,75,2,2,crimson,white,white,Peruvian sol,Peruvian sol,Spanish,Aymara,Christianity,Christian
-Philippines,NE,Asia,South-Eastern Asia,70,2,3,darkblue,crimson,white,Philippine peso,Philippine peso,English,Filipino,Christianity,Islam
-Pitcairn Islands,SW,Oceania,Polynesia,0,0,3,midnightblue,crimson,white,New Zealand dollar,New Zealand dollar,English,English,Other,Other
-Poland,NE,Europe,Central Europe,75,1,2,crimson,white,white,Polish zoty,Polish zoty,Polish,Polish,Christianity,Christian
-Portugal,NW,Europe,Southern Europe,80,1,2,red,darkgreen,red,Euro,Euro,Portuguese,Portuguese,Christianity,Christian
-Puerto Rico,NW,Americas,Caribbean,80,0,3,red,white,white,United States dollar,United States dollar,English,Spanish,Other,Other
-Qatar,NE,Asia,Western Asia,80,1,2,brown,white,white,Qatari riyal,Qatari riyal,Arabic,Arabic,Christianity,Islam
-Republic of the Congo,SE,Africa,Middle Africa,65,4,3,crimson,forestgreen,crimson,Central African CFA franc,Central African CFA franc,French,Kikongo,Christianity,Islam
-Reunion,SE,Africa,Eastern Africa,0,0,3,royalblue,red,red,Euro,Euro,French,French,Other,Other
-Romania,NE,Europe,Southeast Europe,75,1,3,midnightblue,crimson,crimson,Romanian leu,Romanian leu,Romanian,Romanian,Christianity,Christian
-Russia,NE,Europe,Eastern Europe,70,1,3,white,darkblue,white,Russian ruble,Russian ruble,Russian,Russian,Christianity,Islam
-Rwanda,SE,Africa,Eastern Africa,65,3,3,deepskyblue,darkslategray,gold,Rwandan franc,Rwandan franc,English,French,Christianity,Islam
-Saint Barthelemy,NW,Americas,Caribbean,0,0,2,white,goldenrod,white,Euro,Euro,French,French,Other,Other
-Saint Helena - Ascension and Tristan da Cunha,SW,Africa,Western Africa,0,0,3,midnightblue,crimson,white,Saint Helena pound,Pound sterling,English,English,Other,Other
-Saint Kitts and Nevis,NW,Americas,Caribbean,70,2,4,black,seagreen,crimson,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Christianity,Christian
-Saint Lucia,NW,Americas,Caribbean,75,1,2,lightskyblue,gold,gold,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Christianity,Rastafari
-Saint Martin,NE,Americas,Caribbean,80,2,3,crimson,white,white,Euro,Euro,French,French,Other,Other
-Saint Pierre and Miquelon,NW,Americas,North America,0,0,5,lightseagreen,gold,white,Euro,Euro,French,French,Other,Other
-Saint Vincent and the Grenadines,NW,Americas,Caribbean,70,1,3,gold,forestgreen,gold,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Christianity,Islam
-Samoa,SW,Oceania,Polynesia,70,3,2,crimson,midnightblue,crimson,Samoan tala,Samoan tala,English,Samoan,Christianity,Christian
-San Marino,NE,Europe,Southern Europe,0,1,2,white,cornflowerblue,white,Euro,Euro,Italian,Italian,Christianity,Catholicism
-Sao Tome and Principe,NE,Africa,Middle Africa,65,3,3,forestgreen,gold,crimson,Sao Tome and Principe dobra,Sao Tome and Principe dobra,Portuguese,Portuguese,Christianity,Folk religions
-Saudi Arabia,NE,Asia,Western Asia,75,2,2,forestgreen,white,white,Saudi riyal,Saudi riyal,Arabic,Arabic,Christianity,Islam
-Senegal,NW,Africa,Western Africa,70,4,3,forestgreen,crimson,crimson,West African CFA franc,West African CFA franc,French,French,Christianity,Islam
-Serbia,NE,Europe,Southeast Europe,75,1,3,white,firebrick,white,Serbian dinar,Serbian dinar,Serbian,Serbian,Christianity,Islam
-Seychelles,SE,Africa,Eastern Africa,75,2,5,crimson,midnightblue,white,Seychellois rupee,Seychellois rupee,English,French,Christianity,Islam
-Sierra Leone,NW,Africa,Western Africa,60,4,3,darkcyan,limegreen,white,Sierra Leonean leone,Sierra Leonean leone,English,English,Christianity,Islam
-Singapore,NE,Asia,South-Eastern Asia,85,1,2,white,crimson,white,Singapore dollar,Singapore dollar,English,Chinese,Christianity,Islam
-Sint Maarten,NW,Americas,Caribbean,80,2,3,crimson,midnightblue,white,Netherlands Antillean guilder,Netherlands Antillean guilder,English,French,Christianity,Christian
-Slovakia,NE,Europe,Central Europe,75,1,3,crimson,white,white,Euro,Euro,Slovak,Slovak,Christianity,Christian
-Slovenia,NE,Europe,Central Europe,80,1,3,dodgerblue,red,white,Euro,Euro,Slovene,Slovene,Christianity,Christian
-Solomon Islands,SE,Oceania,Melanesia,70,4,3,darkslategray,teal,gold,Solomon Islands dollar,Solomon Islands dollar,English,English,Christianity,Christian
-Somalia,NE,Africa,Eastern Africa,55,6,1,royalblue,royalblue,royalblue,Somali shilling,Somali shilling,Arabic,Somali,Sunni Islam,Sunni Islam
-South Africa,SE,Africa,Southern Africa,65,2,5,seagreen,crimson,white,South African rand,South African rand,English,Tswana,Christianity,Islam
-South Georgia,SW,Antarctic,Other,0,0,3,midnightblue,white,white,Saint Helena pound,Saint Helena pound,English,English,Other,Other
-South Korea,NE,Asia,Eastern Asia,85,0,4,white,black,white,South Korean won,South Korean won,Korean,Korean,Christianity,Buddhism
-South Sudan,NE,Africa,Middle Africa,55,4,5,black,forestgreen,white,South Sudanese pound,South Sudanese pound,English,English,Christianity,Islam
-Spain,NW,Europe,Southern Europe,80,1,2,firebrick,gold,gold,Euro,Euro,Spanish,Spanish,Christianity,Christianity
-Sri Lanka,NE,Asia,Southern Asia,75,2,4,goldenrod,brown,darkslategray,Sri Lankan rupee,Sri Lankan rupee,Tamil,Sinhala,Christianity,Islam
-Sudan,NE,Africa,Northern Africa,65,4,4,black,crimson,white,Sudanese pound,Sudanese pound,English,Arabic,Christianity,Islam
-Suriname,NW,Americas,South America,70,2,3,seagreen,firebrick,white,Surinamese dollar,Surinamese dollar,Dutch,Dutch,Christianity,Islam
-Svalbard and Jan Mayen,NE,Europe,Northern Europe,0,0,3,crimson,midnightblue,white,krone,krone,Norwegian,Norwegian,Other,Other
-Sweden,NE,Europe,Northern Europe,80,1,2,darkcyan,gold,gold,Swedish krona,Swedish krona,Swedish,Swedish,Christianity,Islam
-Switzerland,NE,Europe,Western Europe,85,1,2,red,white,white,Swiss franc,Swiss franc,French,Italian,Christianity,Islam
-Syria,NE,Asia,Western Asia,70,2,3,black,crimson,white,Syrian pound,Syrian pound,Arabic,Arabic,Christianity,Islam
-Taiwan,NE,Asia,Eastern Asia,0,0,2,red,darkblue,red,New Taiwan dollar,New Taiwan dollar,Chinese,Chinese,Christianity,Buddhism
-Tajikistan,NE,Asia,Central Asia,65,3,3,white,red,white,Tajikistani somoni,Tajikistani somoni,Russian,Tajik,Christianity,Islam
-Tanzania,SE,Africa,Eastern Africa,65,4,4,black,limegreen,gold,Tanzanian shilling,Tanzanian shilling,English,Swahili,Christianity,Islam
-Thailand,NE,Asia,South-Eastern Asia,80,1,3,darkslategray,brown,darkslategray,Thai baht,Thai baht,Thai,Thai,Christianity,Islam
-Timor-Leste,SE,Asia,South-Eastern Asia,70,3,3,crimson,black,crimson,United States dollar,United States dollar,Portuguese,Tetum,Christianity,Islam
-Togo,NE,Africa,Western Africa,60,4,3,darkslategray,gold,crimson,West African CFA franc,West African CFA franc,French,French,Christianity,Islam
-Tokelau,SW,Oceania,Polynesia,0,0,2,midnightblue,gold,gold,New Zealand dollar,New Zealand dollar,English,Samoan,Other,Other
-Tonga,SW,Oceania,Polynesia,70,3,2,firebrick,white,white,Tongan paanga,Tongan paanga,English,Tongan,Christianity,Christian
-Trinidad and Tobago,NE,Americas,Caribbean,75,1,3,crimson,black,white,Trinidad and Tobago dollar,Trinidad and Tobago dollar,English,English,Christianity,Islam
-Tunisia,NE,Africa,Northern Africa,75,2,2,red,white,white,Tunisian dinar,Tunisian dinar,Arabic,Arabic,Sunni Islam,Christians
-Turkey,NE,Asia,Western Asia,75,1,1,red,red,red,Turkish lira,Turkish lira,Turkish,Turkish,religion in Turkey,religion in Turkey
-Turkmenistan,NE,Asia,Central Asia,70,2,2,forestgreen,crimson,crimson,Turkmenistan manat,Turkmenistan manat,Russian,Turkmen,Christianity,Islam
-Turks and Caicos Islands,NW,Americas,Caribbean,75,1,3,midnightblue,crimson,white,United States dollar,United States dollar,English,English,Other,Other
-Tuvalu,SE,Oceania,Polynesia,65,3,4,lightseagreen,crimson,white,Australian dollar,Tuvaluan dollar,English,Tuvaluan,Christianity,Christianity
-Uganda,NE,Africa,Eastern Africa,60,4,3,gold,black,gold,Ugandan shilling,Ugandan shilling,English,Swahili,Christianity,Islam
-Ukraine,NE,Europe,Eastern Europe,70,1,2,darkcyan,gold,gold,Ukrainian hryvnia,Ukrainian hryvnia,Ukrainian,Ukrainian,Christianity,Christianity
-United Arab Emirates,NE,Asia,Western Asia,80,1,4,red,forestgreen,white,United Arab Emirates dirham,United Arab Emirates dirham,Arabic,Arabic,Sunni Islam,Sunni Islam
-United Kingdom,NW,Europe,Northern Europe,80,1,3,crimson,white,white,British pound,British pound,English,English,Christianity,Islam
-United States,NW,Americas,North America,75,1,3,firebrick,white,white,United States dollar,United States dollar,English,English,Christianity,Islam
-United States Minor Outlying Islands,NE,Americas,North America,0,0,3,firebrick,white,white,United States dollar,United States dollar,English,English,Other,Other
-United States Virgin Islands,NW,Americas,Caribbean,80,2,2,white,sandybrown,white,United States dollar,United States dollar,English,English,Christianity,Christianity
-Uruguay,SW,Americas,South America,80,1,2,white,darkblue,white,Uruguayan peso,Uruguayan peso,Spanish,Spanish,Christianity,Christian
-Uzbekistan,NE,Asia,Central Asia,70,2,3,white,limegreen,white,Uzbekistani som,Uzbekistani som,Russian,Uzbek,Christianity,Islam
-Vanuatu,SE,Oceania,Melanesia,70,3,4,forestgreen,crimson,crimson,Vanuatu vatu,Vanuatu vatu,English,French,Christianity,Catholicism
-Vatican City,NE,Europe,Southern Europe,0,0,2,gold,white,white,Euro,Euro,Italian,Latin,Roman Catholicism,State religion
-Venezuela,NW,Americas,South America,70,2,3,gold,crimson,crimson,Venezuelan bolivar soberano,Venezuelan bolivar soberano,Spanish,Spanish,Christianity,Protestantism
-Vietnam,NE,Asia,South-Eastern Asia,75,1,2,crimson,yellow,crimson,Vietnamese ong,Vietnamese ong,Vietnamese,Vietnamese,Christianity,Buddhism
-Wallis and Futuna,SW,Oceania,Polynesia,0,0,2,crimson,white,white,CFP franc,CFP franc,French,French,Other,Other
-Western Sahara,NW,Africa,Northern Africa,0,0,4,black,forestgreen,white,Algerian dinar,Moroccan dirham,Spanish,Berber,Other,Other
-Yemen,NE,Asia,Western Asia,65,3,3,black,crimson,white,Yemeni rial,Yemeni rial,Arabic,Arabic,Islam,Christians
-Zambia,SE,Africa,Eastern Africa,60,4,4,green,darkorange,crimson,Zambian kwacha,Zambian kwacha,English,English,Christianity,Christianity
-Zimbabwe,SE,Africa,Southern Africa,60,3,5,darkgreen,gold,white,Zimbabwean dollar,Zimbabwean dollar,English,Tswana,Christianity,Christian
+country_or_territory,zone,region,subregion,life_expectancy,fertility_rate,num_colors,primary_color,secondary_color,most_ranked_color,currency_primary,currency_secondary,languages_primary,languages_secondary,religion_primary,religion_secondary,pop2023,density,hdiTier,area,landAreaKm,growthRate,hdi2021,densityMi,country_or_territory_status
+Afghanistan,NE,Asia,Southern Asia,60,4,4,forestgreen,black,white,Afghan afghani,Afghan afghani,Turkmen,Dari,Islam,Islam,42239854.0,64.7622,Low,652230.0,652230.0,0.02702,0.478,167.7341,Developing
+Aland Islands,NE,Europe,Northern Europe,0,0,3,teal,gold,crimson,Euro,Euro,Swedish,Swedish,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Albania,NE,Europe,Southeast Europe,75,1,2,red,black,black,Albanian lek,Albanian lek,Albanian,Albanian,Christianity,Islam,2832439.0,103.3737,High,28748.0,27400.0,-0.00348,0.796,267.7378,Developing
+Algeria,NE,Africa,Northern Africa,75,2,2,white,darkgreen,white,Algerian dinar,Algerian dinar,Arabic,Arabic,Sunni Islam,Christians,45606480.0,19.1484,High,2381741.0,2381741.0,0.01566,0.745,49.5943,Developing
+American Samoa,SW,Oceania,Polynesia,0,0,3,navy,white,white,United States dollar,United States dollar,English,Samoan,Christian,Christian,43914.0,219.57,Other,199.0,200.0,-0.00811,0.0,568.6863,Developing
+Andorra,NE,Europe,Southern Europe,0,1,3,darkblue,crimson,crimson,Euro,Euro,Catalan,Catalan,Christianity,Catholic Church,80088.0,170.4,Very High,468.0,470.0,0.00331,0.858,441.336,Developed
+Angola,SE,Africa,Middle Africa,60,5,2,crimson,black,crimson,Angolan kwanza,Angolan kwanza,Portuguese,Portuguese,Christianity,Islam,36684202.0,29.425,Medium,1246700.0,1246700.0,0.03077,0.586,76.2109,Developing
+Anguilla,NW,Americas,Caribbean,0,0,3,midnightblue,white,white,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Other,Other,15899.0,174.7143,Other,91.0,91.0,0.00265,0.0,452.51,Developing
+Antarctica,Equator or Greenwich,Antarctic,Other,0,0,2,royalblue,white,white,Other,Other,Other,Other,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Antigua and Barbuda,NW,Americas,Caribbean,80,1,4,crimson,black,white,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Christianity,Christian,94298.0,214.3136,High,442.0,440.0,0.00571,0.788,555.0723,Developing
+Argentina,SW,Americas,South America,75,1,2,cornflowerblue,white,white,Argentine peso,Argentine peso,Spanish,Guarani,Christianity,Christian,45773884.0,16.726,Very High,2780400.0,2736690.0,0.00579,0.842,43.3203,Developed
+Armenia,NE,Asia,Western Asia,70,1,3,orange,darkblue,red,Armenian dram,Armenian dram,Armenian,Armenian,Christianity,Armenian Apostolic Church,2777970.0,97.5753,High,29743.0,28470.0,-0.0009,0.759,252.7201,Developing
+Aruba,NW,Americas,Caribbean,75,1,2,royalblue,gold,gold,Aruban florin,Aruban florin,Dutch,Papiamento,Other,Other,106277.0,590.4278,Other,180.0,180.0,-0.00158,0.0,1529.2079,Developing
+Australia,SE,Oceania,Australia and New Zealand,85,1,3,midnightblue,white,white,Australian dollar,Australian dollar,English,English,Christianity,Islam,26439111.0,3.4372,Very High,7692024.0,7692020.0,0.01,0.951,8.9024,Developed
+Austria,NE,Europe,Central Europe,80,1,2,crimson,white,white,Euro,Euro,German,German,Christianity,Islam,8958960.0,108.5671,Very High,83871.0,82520.0,0.00216,0.916,281.1889,Developed
+Azerbaijan,NE,Asia,Western Asia,65,1,3,darkturquoise,forestgreen,crimson,Azerbaijani manat,Azerbaijani manat,Russian,Azerbaijani,Christianity,Islam,10412651.0,125.991,High,86600.0,82646.0,0.00527,0.745,326.3167,Developing
+Bahamas,NE,Americas,Caribbean,70,1,3,teal,black,gold,United States dollar,Bahamian dollar,English,English,Christianity,Christian,412623.0,41.2211,Very High,13943.0,10010.0,0.00644,0.812,106.7626,Developed
+Bahrain,NE,Asia,Western Asia,80,1,2,crimson,white,white,Bahraini dinar,Bahraini dinar,Arabic,Arabic,Christianity,Islam,1485509.0,1892.3682,Very High,765.0,785.0,0.00902,0.875,4901.2335,Developed
+Bangladesh,NE,Asia,Southern Asia,70,2,2,darkslategray,crimson,crimson,Bangladeshi taka,Bangladeshi taka,Bengali,Bengali,Christianity,Islam,172954319.0,1328.6803,Medium,147570.0,130170.0,0.01033,0.661,3441.2821,Developing
+Barbados,NW,Americas,Caribbean,75,1,2,midnightblue,gold,gold,Barbadian dollar,Barbadian dollar,English,English,Christianity,Christianity,281995.0,655.8023,High,430.0,430.0,0.00128,0.79,1698.528,Developing
+Belarus,NE,Europe,Eastern Europe,75,1,2,firebrick,forestgreen,forestgreen,Belarusian ruble,Belarusian ruble,Russian,Belarusian,Christianity,Christian,9498238.0,46.794,Very High,207600.0,202980.0,-0.00385,0.808,121.1964,Developed
+Belgium,NE,Europe,Western Europe,80,1,3,crimson,gold,crimson,Euro,Euro,French,Dutch,Christianity,Islam,11686140.0,385.9359,Very High,30528.0,30280.0,0.00259,0.937,999.5741,Developed
+Belize,NW,Americas,Central America,70,1,3,darkblue,crimson,crimson,Belize dollar,Belize dollar,English,Spanish,Christianity,Folk religions,410825.0,18.0107,Medium,22966.0,22810.0,0.0137,0.683,46.6478,Developing
+Benin,NE,Africa,Western Africa,60,5,3,seagreen,gold,crimson,West African CFA franc,West African CFA franc,French,French,Christianity,Islam,13712828.0,121.6107,Low,112622.0,112760.0,0.02696,0.525,314.9718,Developing
+Bermuda,NW,Americas,North America,80,1,3,crimson,white,white,Bermudian dollar,Bermudian dollar,English,English,Other,Other,64069.0,1186.463,Other,54.0,54.0,-0.00179,0.0,3072.9391,Developing
+Bhutan,NE,Asia,Southern Asia,70,1,3,gold,orangered,white,Indian rupee,Bhutanese ngultrum,Dzongkha,Dzongkha,Christianity,Hinduism,787424.0,20.6456,Medium,38394.0,38140.0,0.00635,0.666,53.4722,Developing
+Bolivia,SW,Americas,South America,65,2,3,forestgreen,gold,gold,Bolivian boliviano,Bolivian boliviano,Spanish,Guarani,Christianity,Christian,12388571.0,11.436,Medium,1098581.0,1083300.0,0.01345,0.692,29.6191,Developing
+Bosnia and Herzegovina,NE,Europe,Southeast Europe,75,1,2,darkblue,gold,gold,Bosnia and Herzegovina convertible mark,Bosnia and Herzegovina convertible mark,Serbian,Croatian,Christianity,Islam,3210847.0,62.7119,High,51209.0,51200.0,-0.00701,0.78,162.4237,Developing
+Botswana,SE,Africa,Southern Africa,65,2,3,cornflowerblue,black,white,Botswana pula,Botswana pula,English,Tswana,Christianity,Christian,2675352.0,4.7207,Medium,582000.0,566730.0,0.01713,0.693,12.2266,Developing
+Bouvet Island,NE,Antarctic,Other,0,0,3,crimson,midnightblue,white,Other,Other,Norwegian,Norwegian,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Brazil,SW,Americas,South America,75,1,3,forestgreen,gold,gold,Brazilian real,Brazilian real,Portuguese,Portuguese,Christianity,Christian,216422446.0,25.8936,High,8515767.0,8358140.0,0.00515,0.754,67.0645,Developing
+British Indian Ocean Territory,SE,Africa,Eastern Africa,0,0,3,white,midnightblue,white,United States dollar,United States dollar,English,English,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+British Virgin Islands,NW,Americas,Caribbean,75,0,3,midnightblue,white,white,United States dollar,United States dollar,English,English,Other,Other,31538.0,210.2533,Other,151.0,150.0,0.00744,0.0,544.5561,Developing
+Brunei,NE,Asia,South-Eastern Asia,75,1,3,gold,white,white,Singapore dollar,Brunei dollar,Malay,Malay,Christianity,Buddhism,452524.0,85.8679,Very High,5765.0,5270.0,0.00784,0.829,222.3979,Developed
+Bulgaria,NE,Europe,Southeast Europe,75,1,3,teal,white,white,Bulgarian lev,Bulgarian lev,Bulgarian,Bulgarian,Christianity,Islam,6687717.0,61.6039,High,110879.0,108560.0,-0.0139,0.795,159.554,Developing
+Burkina Faso,NW,Africa,Western Africa,60,4,2,seagreen,crimson,crimson,West African CFA franc,West African CFA franc,French,French,Christianity,Islam,23251485.0,84.9835,Low,272967.0,273600.0,0.02548,0.449,220.1073,Developing
+Burundi,SE,Africa,Eastern Africa,60,5,3,white,limegreen,white,Burundian franc,Burundian franc,French,Kirundi,Christianity,Islam,13238559.0,515.5202,Low,27834.0,25680.0,0.02708,0.426,1335.1973,Developing
+Cambodia,NE,Asia,South-Eastern Asia,70,2,3,darkblue,crimson,white,United States dollar,Cambodian riel,Khmer,Khmer,Christianity,Islam,16944826.0,95.9938,Medium,181035.0,176520.0,0.01056,0.593,248.6239,Developing
+Cameroon,NE,Africa,Middle Africa,60,4,3,gold,teal,crimson,Central African CFA franc,Central African CFA franc,English,French,Christianity,Islam,28647293.0,60.6023,Medium,475442.0,472710.0,0.02625,0.576,156.9598,Developing
+Canada,NW,Americas,North America,80,1,2,red,white,white,Canadian dollar,Canadian dollar,English,French,Other,Other,38781291.0,4.3256,Very High,9984670.0,8965590.0,0.0085,0.936,11.2032,Developed
+Cape Verde,NE,Africa,Western Africa,75,1,3,midnightblue,white,white,Cape Verdean escudo,Cape Verdean escudo,Portuguese,Portuguese,Christianity,Christian,598682.0,148.4458,Medium,4033.0,4033.0,0.00933,0.662,384.4747,Developing
+Caribbean Netherlands,NW,Americas,Caribbean,0,0,3,midnightblue,white,white,United States dollar,United States dollar,English,Dutch,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Cayman Islands,NE,Americas,Caribbean,80,0,3,midnightblue,white,white,Cayman Islands dollar,Cayman Islands dollar,English,English,Christianity,Islam,69310.0,288.7917,Other,264.0,240.0,0.00879,0.0,747.9704,Developing
+Central African Republic,NE,Africa,Middle Africa,55,5,5,gold,forestgreen,white,Central African CFA franc,Central African CFA franc,French,Sango,Christianity,Islam,5742315.0,9.2175,Low,622984.0,622980.0,0.02925,0.404,23.8733,Developing
+Chad,NE,Africa,Middle Africa,50,6,3,midnightblue,crimson,crimson,Central African CFA franc,Central African CFA franc,French,Arabic,Christianity,Islam,18278568.0,14.516,Low,1284000.0,1259200.0,0.03133,0.394,37.5965,Developing
+Chile,SW,Americas,South America,80,1,3,firebrick,white,white,Chilean peso,Chilean peso,Spanish,Spanish,Christianity,Christian,19629590.0,26.4005,Very High,756102.0,743532.0,0.00132,0.855,68.3772,Developed
+China,NE,Asia,Eastern Asia,80,1,1,orangered,orangered,orangered,Chinese yuan,Chinese yuan,Chinese,Chinese,Christianity,Islam,1425671352.0,151.2696,High,9706961.0,9424702.9,-0.00015,0.768,391.7884,Developing
+Christmas Island,SE,Oceania,Australia and New Zealand,0,0,3,mediumblue,seagreen,seagreen,Australian dollar,Australian dollar,English,English,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Cocos (Keeling) Islands,NE,Oceania,Australia and New Zealand,0,0,2,green,gold,gold,Australian dollar,Australian dollar,English,English,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Colombia,NW,Americas,South America,75,1,3,gold,midnightblue,crimson,Colombian peso,Colombian peso,Spanish,Spanish,Christianity,Christian,52085168.0,46.9447,High,1141748.0,1109500.0,0.00407,0.752,121.5868,Developing
+Comoros,SE,Africa,Eastern Africa,65,4,5,steelblue,gold,white,Comorian franc,Comorian franc,French,Arabic,Christianity,Sunni Islam,852075.0,457.8587,Medium,1862.0,1861.0,0.01829,0.558,1185.854,Developing
+Cook Islands,SW,Oceania,Polynesia,0,0,3,midnightblue,white,white,New Zealand dollar,Cook Islands dollar,English,Cook Islands Maori,Other,Other,17044.0,71.0167,Other,240.0,240.0,0.00194,0.0,183.9332,Developing
+Costa Rica,NW,Americas,Central America,80,1,3,white,midnightblue,white,Costa Rican colon,Costa Rican colon,Spanish,Spanish,Christianity,Christian,5212173.0,102.0794,Very High,51100.0,51060.0,0.00605,0.809,264.3856,Developed
+Croatia,NE,Europe,Southeast Europe,75,1,3,red,darkblue,white,Euro,Euro,Croatian,Croatian,Christianity,Christian,4008617.0,71.6336,Very High,56594.0,55960.0,-0.00539,0.858,185.5311,Developed
+Cuba,NW,Americas,Caribbean,75,1,3,darkblue,white,white,Cuban convertible peso,Cuban peso,Spanish,Spanish,Christianity,Folk religions,11194449.0,107.8463,High,109884.0,103800.0,-0.00158,0.764,279.322,Developing
+Curacao,NW,Americas,Caribbean,80,1,2,midnightblue,gold,gold,Netherlands Antillean guilder,Netherlands Antillean guilder,English,Dutch,Christianity,Islam,192077.0,432.6059,Other,444.0,444.0,0.00478,0.0,1120.4492,Developing
+Cyprus,NE,Europe,Southern Europe,80,1,2,white,darkgoldenrod,white,Euro,Euro,Greek,Turkish,Christianity,Islam,1260138.0,136.3786,Very High,9251.0,9240.0,0.00691,0.896,353.2205,Developed
+Czechia,NE,Europe,Central Europe,80,1,3,crimson,white,white,Czech koruna,Czech koruna,Slovak,Czech,Christianity,Christian,10495295.0,135.9521,Very High,78865.0,77198.5,0.00013,0.889,352.1158,Developed
+DR Congo,Equator or Greenwich,Africa,Middle Africa,60,6,3,dodgerblue,crimson,crimson,Congolese franc,Congolese franc,French,Swahili,Christianity,Islam,102262808.0,45.1083,Low,2344858.0,2267050.0,0.03285,0.479,116.8305,Developing
+Denmark,NE,Europe,Northern Europe,80,1,2,crimson,white,white,Danish krone,Danish krone,Danish,Danish,Christianity,Islam,5910913.0,147.7728,Very High,43094.0,40000.0,0.00487,0.948,382.7316,Developed
+Djibouti,NE,Africa,Eastern Africa,60,2,3,cornflowerblue,forestgreen,white,Djiboutian franc,Djiboutian franc,French,Arabic,Christianity,Islam,1136455.0,49.0274,Low,23200.0,23180.0,0.01392,0.509,126.981,Developing
+Dominica,NW,Americas,Caribbean,75,1,5,forestgreen,gold,white,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Christianity,Folk religions,73040.0,97.3867,High,751.0,750.0,0.00417,0.72,252.2315,Developing
+Dominican Republic,NW,Americas,Caribbean,70,2,3,crimson,midnightblue,white,Dominican peso,Dominican peso,Spanish,Spanish,Christianity,Christian,11332972.0,234.5885,High,48671.0,48310.0,0.00928,0.767,607.5843,Developing
+Ecuador,SW,Americas,South America,70,2,3,gold,crimson,crimson,United States dollar,United States dollar,Spanish,Spanish,Christianity,Christian,18190484.0,73.2424,High,276841.0,248360.0,0.01053,0.74,189.6978,Developing
+Egypt,NE,Africa,Northern Africa,70,2,3,black,crimson,white,Egyptian pound,Egyptian pound,Arabic,Arabic,Religion in Egypt,Religion in Egypt,112716598.0,113.2318,High,1002450.0,995450.0,0.01556,0.731,293.2704,Developing
+El Salvador,NW,Americas,Central America,70,1,2,teal,white,white,United States dollar,United States dollar,Spanish,Spanish,Christianity,Christian,6364943.0,307.1884,Medium,21041.0,20720.0,0.00451,0.675,795.6179,Developing
+Equatorial Guinea,NE,Africa,Middle Africa,60,4,4,crimson,forestgreen,white,Central African CFA franc,Central African CFA franc,French,Spanish,Christianity,Islam,1714671.0,61.1291,Medium,28051.0,28050.0,0.02374,0.596,158.3243,Developing
+Eritrea,NE,Africa,Eastern Africa,65,3,4,crimson,forestgreen,crimson,Eritrean nakfa,Eritrean nakfa,English,Arabic,religion in Eritrea,religion in Eritrea,3748901.0,30.9722,Low,117600.0,121040.8,0.01761,0.492,80.218,Developing
+Estonia,NE,Europe,Northern Europe,80,1,3,white,black,white,Euro,Euro,Estonian,Estonian,Christianity,Christianity,1322765.0,30.9419,Very High,45227.0,42750.0,-0.00249,0.89,80.1394,Developed
+Eswatini,SE,Africa,Southern Africa,60,2,5,steelblue,firebrick,white,South African rand,Swazi lilangeni,English,Swazi,Christianity,Christian,1210822.0,70.3966,Medium,17364.0,17200.0,0.00762,0.597,182.3273,Developing
+Ethiopia,NE,Africa,Eastern Africa,65,4,4,forestgreen,crimson,crimson,Ethiopian birr,Ethiopian birr,Amharic,Amharic,Christianity,Islam,126527060.0,112.1126,Low,1104300.0,1128571.3,0.02551,0.498,290.3716,Developing
+Falkland Islands,SW,Americas,South America,0,0,3,midnightblue,white,white,Falkland Islands pound,Falkland Islands pound,English,English,Other,Other,3791.0,0.3114,Other,12173.0,12173.0,0.00291,0.0,0.8066,Developing
+Faroe Islands,NW,Europe,Northern Europe,85,2,3,white,crimson,white,Danish krone,Faroese krona,Danish,Faroese,Christianity,Church of the Faroe Islands,53270.0,38.9971,Other,1393.0,1366.0,0.00339,0.0,101.0024,Developing
+Fiji,NE,Oceania,Melanesia,65,2,4,cornflowerblue,crimson,white,Fijian dollar,Fijian dollar,English,Fijian,Christianity,Islam,936375.0,51.2521,High,18272.0,18270.0,0.00711,0.73,132.7428,Developing
+Finland,NE,Europe,Northern Europe,80,1,2,white,midnightblue,white,Euro,Euro,Swedish,Finnish,Christianity,Christian,5545475.0,18.2453,Very High,338424.0,303940.0,0.00085,0.94,47.2553,Developed
+France,NE,Europe,Western Europe,80,1,3,crimson,white,white,Euro,Euro,French,French,Christianity,Islam,64756584.0,118.2646,Very High,551695.0,547557.0,0.00201,0.903,306.3052,Developed
+French Guiana,NW,Americas,South America,0,0,2,forestgreen,gold,gold,Euro,Euro,French,French,Other,Other,312155.0,3.7369,Other,83534.0,83534.0,0.02495,0.0,9.6785,Developing
+French Polynesia,NE,Oceania,Polynesia,80,1,2,crimson,white,white,CFP franc,CFP franc,French,French,Other,Other,308872.0,88.9865,Other,4167.0,3471.0,0.00847,0.0,230.4749,Developing
+French Southern and Antarctic Lands,SE,Antarctic,Other,0,0,2,darkblue,white,white,Euro,Euro,French,French,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Gabon,SE,Africa,Middle Africa,65,3,3,gold,teal,gold,Central African CFA franc,Central African CFA franc,French,French,Christianity,Islam,2436566.0,9.4561,High,267668.0,257670.0,0.01991,0.706,24.4914,Developing
+Gambia,NW,Africa,Western Africa,60,4,4,darkolivegreen,crimson,white,dalasi,dalasi,English,English,Christianity,Islam,2773168.0,274.0285,Low,10689.0,10120.0,0.02483,0.5,709.7337,Developing
+Georgia,NE,Asia,Western Asia,70,1,2,white,red,white,lari,lari,Georgian,Georgian,Other,Other,3728282.0,53.6521,Very High,69700.0,69490.0,-0.0043,0.802,138.9588,Developed
+Germany,NE,Europe,Western Europe,80,1,3,red,black,gold,Euro,Euro,German,German,Other,Other,83294633.0,238.4002,Very High,357114.0,349390.0,-0.0009,0.942,617.4564,Developed
+Ghana,NW,Africa,Western Africa,65,3,3,crimson,forestgreen,crimson,Ghanaian cedi,Ghanaian cedi,English,English,Christianity,Islam,34121985.0,149.965,Medium,238533.0,227533.0,0.0193,0.632,388.4093,Developing
+Gibraltar,NW,Europe,Southern Europe,80,1,2,white,red,white,Gibraltar pound,Gibraltar pound,English,English,Other,Other,32688.000000000004,4807.0588,Other,6.8,6.8,0.0012,0.0,12450.2824,Developing
+Greece,NE,Europe,Southern Europe,80,1,2,darkcyan,white,white,Euro,Euro,Greek,Greek,Islam,Christian,10341277.0,80.2271,Very High,131990.0,128900.0,-0.00421,0.887,207.7883,Developed
+Greenland,NW,Americas,North America,70,2,2,crimson,white,white,krone,krone,Greenlandic,Greenlandic,Christianity,Church of Greenland,56643.0,0.138,Other,2166086.0,410450.0,0.00314,0.0,0.3574,Developing
+Grenada,NW,Americas,Caribbean,75,2,3,crimson,gold,crimson,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Christianity,Christian,126183.0,371.1265,High,344.0,340.0,0.00594,0.795,961.2176,Developing
+Guadeloupe,NW,Americas,Caribbean,0,0,3,black,darkblue,gold,Euro,Euro,French,French,Other,Other,395839.0,243.1443,Other,1628.0,1628.0,0.00022,0.0,629.7439,Developing
+Guam,NE,Oceania,Micronesia,75,2,2,midnightblue,crimson,crimson,United States dollar,United States dollar,English,Spanish,Christianity,Buddhism,172952.0,320.2815,Other,549.0,540.0,0.00686,0.0,829.529,Developing
+Guatemala,NW,Americas,Central America,70,2,2,steelblue,white,white,Guatemalan quetzal,Guatemalan quetzal,Spanish,Spanish,Christianity,Christian,18092026.0,168.8319,Medium,108889.0,107160.0,0.01391,0.627,437.2746,Developing
+Guernsey,NW,Europe,Northern Europe,0,0,3,white,crimson,white,British pound,Guernsey pound,English,French,Other,Other,63544.0,1008.6349,Other,78.0,63.0,0.00384,0.0,2612.3644,Developing
+Guinea,NW,Africa,Western Africa,60,4,3,crimson,teal,crimson,Guinean franc,Guinean franc,French,French,Christianity,Islam,14190612.0,57.7511,Low,245857.0,245720.0,0.0239,0.465,149.5755,Developing
+Guinea-Bissau,NW,Africa,Western Africa,60,4,3,seagreen,gold,crimson,West African CFA franc,West African CFA franc,Portuguese,Upper Guinea Creole,Christianity,Islam,2150842.0,76.488,Other,36125.0,28120.0,0.0215,0.483,198.1039,Developing
+Guyana,NW,Americas,South America,70,2,4,seagreen,crimson,white,Guyanese dollar,Guyanese dollar,English,English,Christianity,Islam,813834.0,4.1343,High,214969.0,196850.0,0.00632,0.714,10.7078,Developing
+Haiti,NW,Americas,Caribbean,65,2,2,darkblue,crimson,crimson,Haitian gourde,Haitian gourde,French,Haitian Creole,Christianity,Folk religions,11724763.0,425.4268,Low,27750.0,27560.0,0.01206,0.535,1101.8554,Developing
+Heard Island and McDonald Islands,NE,Antarctic,Other,0,0,3,darkblue,white,white,Other,Other,English,English,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Honduras,NW,Americas,Central America,70,2,2,dodgerblue,white,white,Honduran lempira,Honduran lempira,Spanish,Spanish,Christianity,Catholicism,10593798.0,94.6805,Medium,112492.0,111890.0,0.01543,0.621,245.2224,Developing
+Hong Kong,NE,Asia,Eastern Asia,85,0,2,orangered,white,white,Hong Kong dollar,Hong Kong dollar,English,Chinese,Other,Other,7491609.0,7134.8657,Very High,1104.0,1050.0,0.00037,0.952,18479.3022,Developed
+Hungary,NE,Europe,Central Europe,75,1,3,darkolivegreen,white,white,Hungarian forint,Hungarian forint,Hungarian,Hungarian,Christianity,Christian,10156239.0,111.2891,Very High,93028.0,91260.0,0.01896,0.846,288.2386,Developed
+Iceland,NW,Europe,Northern Europe,85,1,3,teal,crimson,white,Icelandic krona,Icelandic krona,Icelandic,Icelandic,Christianity,Christian,375318.0,3.7223,Very High,103000.0,100830.0,0.00649,0.959,9.6407,Developed
+India,NE,Asia,Southern Asia,70,2,3,green,coral,white,Indian rupee,Indian rupee,English,Tamil,Christianity,Islam,1428627663.0,480.5033,Medium,3287590.0,2973190.0,0.00808,0.633,1244.5036,Developing
+Indonesia,SE,Asia,South-Eastern Asia,70,2,2,white,red,white,Indonesian rupiah,Indonesian rupiah,Indonesian,Indonesian,Christianity,Islam,277534122.0,147.8196,High,1904569.0,1877519.0,0.00738,0.705,382.8528,Developing
+Iran,NE,Asia,Southern Asia,75,1,3,white,red,white,Iranian rial,Iranian rial,Persian (Farsi),Persian (Farsi),Shia Islam,Shia Islam,89172767.0,54.9601,High,1648195.0,1622500.0,0.00703,0.774,142.3467,Developing
+Iraq,NE,Asia,Western Asia,70,3,3,black,crimson,white,Iraqi dinar,Iraqi dinar,Arabic,Aramaic,Christianity,Islam,45504560.0,104.8183,Medium,438317.0,434128.0,0.02266,0.686,271.4794,Developing
+Ireland,NW,Europe,Northern Europe,80,1,3,seagreen,coral,white,Euro,Euro,English,Irish,Other,Other,5056935.0,73.4059,Very High,70273.0,68890.0,0.00673,0.945,190.1214,Developed
+Isle of Man,NW,Europe,Northern Europe,80,1,1,crimson,crimson,crimson,British pound,Manx pound,English,Manx,Christianity,Islam,84710.0,148.614,Other,572.0,570.0,0.00226,0.0,384.9104,Developing
+Israel,NE,Asia,Western Asia,80,2,2,white,mediumblue,white,Israeli new shekel,Israeli new shekel,Arabic,Hebrew,Christianity,Islam,9174520.0,423.9612,Very High,20770.0,21640.0,0.01507,0.919,1098.0595,Developed
+Italy,NE,Europe,Southern Europe,80,1,3,seagreen,crimson,white,Euro,Euro,Italian,Italian,Christianity,Islam,58870762.0,199.078,Very High,301336.0,295717.0,-0.00282,0.895,515.6121,Developed
+Ivory Coast,NW,Africa,Western Africa,60,4,3,teal,darkorange,white,West African CFA franc,West African CFA franc,French,French,Other,Other,28873034.0,90.7957,Medium,322463.0,318000.0,0.0253,0.55,235.1609,Developing
+Jamaica,NW,Americas,Caribbean,70,1,3,gold,forestgreen,gold,Jamaican dollar,Jamaican dollar,English,Jamaican Patois,Christianity,Christian,2825544.0,260.8997,High,10991.0,10830.0,-0.00065,0.709,675.7303,Developing
+Japan,NE,Asia,Eastern Asia,85,1,2,white,firebrick,white,Japanese yen,Japanese yen,Japanese,Japanese,Other,Other,123294513.0,338.2566,Very High,377930.0,364500.0,-0.0053,0.925,876.0845,Developed
+Jersey,NW,Europe,Northern Europe,0,0,2,white,crimson,white,British pound,Jersey pound,English,French,Christian,Anglican,111802.0,931.6833,Other,116.0,120.0,0.00924,0.0,2413.0598,Developing
+Jordan,NE,Asia,Western Asia,75,2,4,black,forestgreen,white,Jordanian dinar,Jordanian dinar,Arabic,Arabic,Christianity,Sunni Islam,11337052.0,127.6781,High,89342.0,88794.0,0.00454,0.72,330.6864,Developing
+Kazakhstan,NE,Asia,Central Asia,70,3,2,darkturquoise,gold,gold,Kazakhstani tenge,Kazakhstani tenge,Russian,Kazakh,Christianity,Islam,19606633.0,7.2625,Very High,2724900.0,2699700.0,0.01076,0.811,18.8099,Developed
+Kenya,NE,Africa,Eastern Africa,60,3,4,black,darkred,white,Kenyan shilling,Kenyan shilling,English,Swahili,Christianity,Islam,55100586.0,96.8138,Medium,580367.0,569140.0,0.01986,0.575,250.7477,Developing
+Kiribati,NE,Oceania,Micronesia,65,3,4,firebrick,white,white,Australian dollar,Kiribati dollar,English,Gilbertese,Christianity,Christian,133515.0,164.8333,Medium,811.0,810.0,0.0174,0.624,426.9183,Developing
+Kosovo,NE,Europe,Southeast Europe,0,0,2,darkslateblue,peru,darkslateblue,Euro,Euro,Serbian,Albanian,Christianity,Islam,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Kuwait,NE,Asia,Western Asia,75,2,4,forestgreen,crimson,white,Kuwaiti dinar,Kuwaiti dinar,Arabic,Arabic,Christianity,Islam,4310108.0,241.8691,Very High,17818.0,17820.0,0.00966,0.831,626.4411,Developed
+Kyrgyzstan,NE,Asia,Central Asia,70,3,2,red,yellow,red,Kyrgyzstani som,Kyrgyzstani som,Russian,Kyrgyz,Christianity,Islam,6735347.0,35.1165,Medium,199951.0,191800.0,0.01579,0.692,90.9518,Developing
+Laos,NE,Asia,South-Eastern Asia,70,2,3,crimson,midnightblue,white,Lao kip,Lao kip,Lao,Lao,Christianity,Buddhism,7633779.0,33.0753,Medium,236800.0,230800.0,0.01385,0.607,85.665,Developing
+Latvia,NE,Europe,Northern Europe,75,1,2,brown,white,white,Euro,Euro,Latvian,Latvian,Christianity,Christian,1830211.0,29.4104,Very High,64559.0,62230.0,-0.01105,0.863,76.173,Developed
+Lebanon,NE,Asia,Western Asia,75,2,3,crimson,white,white,Lebanese pound,Lebanese pound,French,Arabic,Christianity,Islam,5353930.0,523.3558,High,10452.0,10230.0,-0.02474,0.706,1355.4916,Developing
+Lesotho,SE,Africa,Southern Africa,55,3,3,white,darkblue,white,South African rand,Lesotho loti,English,Sotho,Roman Catholic,Protestant Christianity,2330318.0,76.7562,Low,30355.0,30360.0,0.01062,0.514,198.7985,Developing
+Liberia,NW,Africa,Western Africa,60,4,3,firebrick,white,white,Liberian dollar,Liberian dollar,English,English,Christianity,Islam,5418377.0,56.2539,Low,111369.0,96320.0,0.02182,0.481,145.6976,Developing
+Libya,NE,Africa,Northern Africa,70,2,3,black,seagreen,black,Libyan dinar,Libyan dinar,Arabic,Arabic,Islam,Islam,6888388.0,3.9149,High,1759540.0,1759540.0,0.01116,0.718,10.1395,Developing
+Liechtenstein,NE,Europe,Western Europe,80,1,2,crimson,midnightblue,crimson,Swiss franc,Swiss franc,German,German,Christianity,Islam,39584.0,247.4,Very High,160.0,160.0,0.00654,0.935,640.766,Developed
+Lithuania,NE,Europe,Northern Europe,75,1,3,firebrick,darkslategray,firebrick,Euro,Euro,Lithuanian,Lithuanian,Christianity,Christian,2718352.0,43.4103,Very High,65300.0,62620.0,-0.01153,0.875,112.4326,Developed
+Luxembourg,NE,Europe,Western Europe,80,1,3,white,crimson,white,Euro,Euro,French,German,Christianity,Christian,654768.0,254.3282,Very High,2586.0,2574.5,0.01107,0.93,658.7101,Developed
+Macau,NE,Asia,Eastern Asia,85,1,2,teal,white,white,Macanese pataca,Macanese pataca,Portuguese,Chinese,Other,Other,704149.0,21402.7052,Other,32.9,32.9,0.01292,0.0,55433.0064,Developing
+Madagascar,SE,Africa,Eastern Africa,65,3,3,white,forestgreen,white,Malagasy ariary,Malagasy ariary,French,Malagasy,Christianity,Islam,30325732.0,52.124,Low,587041.0,581800.0,0.02411,0.501,135.0011,Developing
+Malawi,SE,Africa,Eastern Africa,65,3,3,crimson,forestgreen,crimson,Malawian kwacha,Malawian kwacha,English,Chewa,Christianity,Islam,20931751.0,222.0169,Low,118484.0,94280.0,0.0258,0.512,575.0237,Developing
+Malaysia,NE,Asia,South-Eastern Asia,75,1,3,white,red,white,Malaysian ringgit,Malaysian ringgit,English,Malay,Christianity,Hinduism,34308525.0,104.4241,Very High,330803.0,328550.0,0.01091,0.803,270.4583,Developed
+Maldives,NE,Asia,Southern Asia,80,1,2,crimson,forestgreen,crimson,Maldivian rufiyaa,Maldivian rufiyaa,Maldivian,Maldivian,Sunni Islam,Sunni Islam,521021.0,1736.7367,High,300.0,300.0,-0.00528,0.747,4498.148,Developing
+Mali,NW,Africa,Western Africa,60,6,3,gold,limegreen,crimson,West African CFA franc,West African CFA franc,French,French,Islam,Islam,23293698.0,19.0902,Low,1240192.0,1220190.0,0.03099,0.428,49.4437,Developing
+Malta,NE,Europe,Southern Europe,80,1,2,crimson,white,white,Euro,Euro,English,Maltese,Christianity,Islam,535064.0,1672.075,Very High,316.0,320.0,0.00333,0.918,4330.6743,Developed
+Marshall Islands,NE,Oceania,Micronesia,65,4,3,midnightblue,white,white,United States dollar,United States dollar,English,Marshallese,Christianity,Christian,41996.0,233.3111,Medium,181.0,180.0,0.01027,0.639,604.2758,Developing
+Martinique,NW,Americas,Caribbean,0,0,2,darkslateblue,white,white,Euro,Euro,French,French,Christianity,Islam,366981.0,325.3378,Other,1128.0,1128.0,-0.00143,0.0,842.6248,Developing
+Mauritania,NW,Africa,Western Africa,65,4,2,darkgreen,crimson,crimson,Mauritanian ouguiya,Mauritanian ouguiya,Arabic,Arabic,Sunni Islam,Sunni Islam,4862989.0,4.7181,Medium,1030700.0,1030700.0,0.02678,0.556,12.22,Developing
+Mauritius,SE,Africa,Eastern Africa,75,1,4,midnightblue,crimson,crimson,Mauritian rupee,Mauritian rupee,English,French,Christianity,Islam,1300557.0,640.6685,Very High,2040.0,2030.0,0.00084,0.802,1659.3313,Developed
+Mayotte,SE,Africa,Eastern Africa,0,0,3,white,gainsboro,white,Euro,Euro,French,French,Other,Other,335995.0,898.3824,Other,374.0,374.0,0.03034,0.0,2326.8103,Developing
+Mexico,NW,Americas,North America,70,1,3,darkslategray,crimson,white,Mexican peso,Mexican peso,Spanish,Spanish,Christianity,Catholicism,128455567.0,66.0797,High,1964375.0,1943950.0,0.00746,0.758,171.1463,Developing
+Micronesia,NE,Oceania,Micronesia,70,2,1,cornflowerblue,cornflowerblue,cornflowerblue,United States dollar,United States dollar,English,English,Other,Other,115224.0,164.6057,Medium,702.0,700.0,0.00929,0.628,426.3288,Developing
+Moldova,NE,Europe,Eastern Europe,70,1,3,crimson,teal,crimson,Moldovan leu,Moldovan leu,Romanian,Romanian,Christianity,Christian,3435931.0,104.4845,High,33846.0,32884.6,0.04978,0.767,270.6149,Developing
+Monaco,NE,Europe,Western Europe,0,0,2,crimson,white,white,Euro,Euro,French,French,Christianity,Christian,36297.0,18148.5,not rated,2.02,2.0,-0.00472,0.0,47004.615,Developing
+Mongolia,NE,Asia,Eastern Asia,70,2,3,crimson,darkcyan,crimson,Mongolian togrog,Mongolian togrog,Mongolian,Mongolian,Christianity,Islam,3447157.0,2.2133,High,1564110.0,1557506.8,0.01436,0.739,5.7323,Developing
+Montenegro,NE,Europe,Southeast Europe,75,1,2,firebrick,goldenrod,firebrick,Euro,Euro,Montenegrin,Montenegrin,Christianity,Islam,626485.0,46.5788,Very High,13812.0,13450.0,-0.00095,0.832,120.6391,Developed
+Montserrat,NW,Americas,Caribbean,0,0,3,midnightblue,snow,crimson,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Other,Other,4386.0,43.0,Other,102.0,102.0,-0.00091,0.0,111.37,Developing
+Morocco,NW,Africa,Northern Africa,75,2,1,firebrick,firebrick,firebrick,Moroccan dirham,Moroccan dirham,Arabic,Berber,Islam,Sunni,37840044.0,84.7861,Medium,446550.0,446300.0,0.0102,0.683,219.596,Developing
+Mozambique,SE,Africa,Eastern Africa,60,4,4,gold,teal,crimson,Mozambican metical,Mozambican metical,Portuguese,Portuguese,Christianity,Islam,33897354.0,43.1056,Low,801590.0,786380.0,0.02814,0.446,111.6434,Developing
+Myanmar,NE,Asia,South-Eastern Asia,65,2,4,gold,crimson,white,Burmese kyat,Burmese kyat,Burmese,Burmese,Christianity,Islam,54577997.0,83.6227,Medium,676578.0,652670.0,0.00736,0.585,216.5827,Developing
+Namibia,SE,Africa,Southern Africa,60,3,4,forestgreen,midnightblue,white,South African rand,Namibian dollar,English,German,Christianity,Christian,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Nauru,SE,Oceania,Micronesia,0,0,2,midnightblue,gold,gold,Australian dollar,Australian dollar,English,Nauru,Other,Other,12780.0,639.0,not rated,21.0,20.0,0.00884,0.0,1655.01,Developing
+Nepal,NE,Asia,Southern Asia,70,2,3,white,crimson,white,Nepalese rupee,Nepalese rupee,Nepali,Nepali,Christianity,Islam,30896590.0,215.5325,Medium,147181.0,143350.0,0.01143,0.602,558.2293,Developing
+Netherlands,NE,Europe,Western Europe,80,1,3,darkslateblue,firebrick,white,Euro,Euro,Dutch,Dutch,Christianity,Islam,17618299.0,523.264,Very High,41850.0,33670.0,0.00309,0.941,1355.2538,Developed
+New Caledonia,SE,Oceania,Melanesia,80,2,4,forestgreen,mediumblue,gold,CFP franc,CFP franc,French,French,Other,Other,292991.0,16.028,Other,18575.0,18280.0,0.01049,0.0,41.5124,Developing
+New Zealand,SE,Oceania,Australia and New Zealand,80,1,3,midnightblue,crimson,white,New Zealand dollar,New Zealand dollar,English,Maori,Christianity,Islam,5228100.0,19.8553,Very High,270467.0,263310.0,0.00826,0.937,51.4252,Developed
+Nicaragua,NW,Americas,Central America,70,2,2,darkcyan,white,white,Nicaraguan cordoba,Nicaraguan cordoba,Spanish,Spanish,Christianity,Christian,7046310.0,58.5533,Medium,130373.0,120340.0,0.01409,0.667,151.6532,Developing
+Niger,NE,Africa,Western Africa,60,6,3,orangered,forestgreen,white,West African CFA franc,West African CFA franc,French,French,Christianity,Islam,27202843.0,21.4754,Low,1267000.0,1266700.0,0.03796,0.4,55.6212,Developing
+Nigeria,NE,Africa,Western Africa,50,5,2,seagreen,white,white,Nigerian naira,Nigerian naira,English,English,Other,Other,223804632.0,245.7312,Low,923768.0,910770.0,0.02408,0.535,636.4439,Developing
+Niue,SW,Oceania,Polynesia,0,0,4,gold,white,white,New Zealand dollar,New Zealand dollar,English,Niuean,Christianity,Christianity,1935.0,7.4138,Other,261.0,261.0,0.00052,0.0,19.2017,Developing
+Norfolk Island,SE,Oceania,Australia and New Zealand,0,0,2,forestgreen,white,white,Australian dollar,Australian dollar,English,Norfuk,Christianity,Irreligion,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+North Korea,NE,Asia,Eastern Asia,75,1,3,crimson,teal,white,North Korean won,North Korean won,Korean,Korean,Christianity,Buddhism,26160821.0,217.2645,not rated,120538.0,120410.0,0.00351,0.0,562.7151,Developing
+North Macedonia,NE,Europe,Southeast Europe,75,1,2,crimson,gold,crimson,denar,denar,Macedonian,Macedonian,Christianity,Islam,2085679.0,82.6994,High,25713.0,25220.0,-0.00378,0.77,214.1915,Developing
+Northern Mariana Islands,NE,Oceania,Micronesia,0,0,2,darkcyan,white,white,United States dollar,United States dollar,English,Chamorro,Christianity,Islam,49796.0,108.2522,Other,464.0,460.0,0.00494,0.0,280.3731,Developing
+Norway,NE,Europe,Northern Europe,85,1,3,crimson,midnightblue,white,Norwegian krone,Norwegian krone,Norwegian Nynorsk,Norwegian Bokmal,Christianity,Islam,5474360.0,15.0277,Very High,323802.0,364285.0,0.00737,0.961,38.9217,Developed
+Oman,NE,Asia,Western Asia,75,2,3,crimson,white,white,Omani rial,Omani rial,Arabic,Arabic,Christianity,Islam,4644384.0,15.0061,Very High,309500.0,309500.0,0.01488,0.816,38.8658,Developed
+Pakistan,NE,Asia,Southern Asia,65,3,2,darkgreen,white,white,Pakistani rupee,Pakistani rupee,English,Urdu,Christianity,Islam,240485658.0,311.9625,Low,881912.0,770880.0,0.01976,0.544,807.9829,Developing
+Palau,NE,Oceania,Micronesia,70,2,2,dodgerblue,yellow,dodgerblue,United States dollar,United States dollar,English,Palauan,Christianity,Islam,18058.0,39.2565,High,459.0,460.0,0.00017,0.767,101.6744,Developing
+Palestine,NE,Asia,Western Asia,75,3,4,black,forestgreen,white,Egyptian pound,Israeli new shekel,Arabic,Arabic,Other,Other,5371230.0,892.2309,High,6220.0,6020.0,0.02308,0.715,2310.878,Developing
+Panama,NW,Americas,Central America,75,2,3,white,midnightblue,white,United States dollar,Panamanian balboa,Spanish,Spanish,Christianity,Christian,4468087.0,60.233,Very High,75417.0,74180.0,0.0135,0.805,156.0036,Developed
+Papua New Guinea,SE,Oceania,Melanesia,65,3,2,black,crimson,crimson,Papua New Guinean kina,Papua New Guinean kina,English,Hiri Motu,Christianity,Christian,10329931.0,22.8104,Medium,462840.0,452860.0,0.01847,0.558,59.079,Developing
+Paraguay,SW,Americas,South America,75,2,3,firebrick,darkblue,white,Paraguayan guarani,Paraguayan guarani,Spanish,Guarani,Christianity,Christian,6861524.0,17.2704,High,406752.0,397300.0,0.01191,0.717,44.7303,Developing
+Peru,SW,Americas,South America,75,2,2,crimson,white,white,Peruvian sol,Peruvian sol,Spanish,Aymara,Christianity,Christian,34352719.0,26.8381,High,1285216.0,1280000.0,0.0089,0.762,69.5106,Developing
+Philippines,NE,Asia,South-Eastern Asia,70,2,3,darkblue,crimson,white,Philippine peso,Philippine peso,English,Filipino,Christianity,Islam,117337368.0,393.5251,Medium,342353.0,298170.0,0.01539,0.699,1019.2299,Developing
+Pitcairn Islands,SW,Oceania,Polynesia,0,0,3,midnightblue,crimson,white,New Zealand dollar,New Zealand dollar,English,English,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Poland,NE,Europe,Central Europe,75,1,2,crimson,white,white,Polish zoty,Polish zoty,Polish,Polish,Christianity,Christian,41026067.0,134.0152,Very High,312679.0,306130.0,0.02933,0.876,347.0993,Developed
+Portugal,NW,Europe,Southern Europe,80,1,2,red,darkgreen,red,Euro,Euro,Portuguese,Portuguese,Christianity,Christian,10247605.0,111.8666,Very High,92090.0,91605.6,-0.00227,0.866,289.7344,Developed
+Puerto Rico,NW,Americas,Caribbean,80,0,3,red,white,white,United States dollar,United States dollar,English,Spanish,Other,Other,3260314.0,367.5664,Other,8870.0,8870.0,0.00243,0.0,951.997,Developing
+Qatar,NE,Asia,Western Asia,80,1,2,brown,white,white,Qatari riyal,Qatari riyal,Arabic,Arabic,Christianity,Islam,2716391.0,236.4135,Very High,11586.0,11490.0,0.00789,0.855,612.3109,Developed
+Republic of the Congo,SE,Africa,Middle Africa,65,4,3,crimson,forestgreen,crimson,Central African CFA franc,Central African CFA franc,French,Kikongo,Christianity,Islam,6106869.0,17.8825,Medium,342000.0,341500.0,0.02285,0.571,46.3156,Developing
+Reunion,SE,Africa,Eastern Africa,0,0,3,royalblue,red,red,Euro,Euro,French,French,Other,Other,981796.0,390.8424,Other,2511.0,2512.0,0.00795,0.0,1012.2817,Developing
+Romania,NE,Europe,Southeast Europe,75,1,3,midnightblue,crimson,crimson,Romanian leu,Romanian leu,Romanian,Romanian,Christianity,Christian,19892812.0,86.4604,Very High,238391.0,230080.0,0.01188,0.821,223.9325,Developed
+Russia,NE,Europe,Eastern Europe,70,1,3,white,darkblue,white,Russian ruble,Russian ruble,Russian,Russian,Christianity,Islam,144444359.0,8.82,Very High,17098242.0,16376870.0,-0.00186,0.829,22.8439,Developed
+Rwanda,SE,Africa,Eastern Africa,65,3,3,deepskyblue,darkslategray,gold,Rwandan franc,Rwandan franc,English,French,Christianity,Islam,14094683.0,571.3289,Low,26338.0,24670.0,0.02308,0.534,1479.7417,Developing
+Saint Barthelemy,NW,Americas,Caribbean,0,0,2,white,goldenrod,white,Euro,Euro,French,French,Other,Other,10994.0,439.76,Other,21.0,25.0,0.00246,0.0,1138.9784,Developing
+Saint Helena - Ascension and Tristan da Cunha,SW,Africa,Western Africa,0,0,3,midnightblue,crimson,white,Saint Helena pound,Pound sterling,English,English,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Saint Kitts and Nevis,NW,Americas,Caribbean,70,2,4,black,seagreen,crimson,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Christianity,Christian,47755.0,183.6731,High,261.0,260.0,0.00206,0.777,475.7133,Developing
+Saint Lucia,NW,Americas,Caribbean,75,1,2,lightskyblue,gold,gold,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Christianity,Rastafari,180251.0,295.4934,High,616.0,610.0,0.00219,0.715,765.328,Developing
+Saint Martin,NE,Americas,Caribbean,80,2,3,crimson,white,white,Euro,Euro,French,French,Other,Other,32077.0,641.54,Other,53.0,50.0,0.009,0.0,1661.5886,Developing
+Saint Pierre and Miquelon,NW,Americas,North America,0,0,5,lightseagreen,gold,white,Euro,Euro,French,French,Other,Other,5840.0,24.1322,Other,242.0,242.0,-0.00375,0.0,62.5025,Developing
+Saint Vincent and the Grenadines,NW,Americas,Caribbean,70,1,3,gold,forestgreen,gold,Eastern Caribbean dollar,Eastern Caribbean dollar,English,English,Christianity,Islam,103698.0,265.8923,Other,389.0,390.0,-0.00241,0.751,688.6611,Developing
+Samoa,SW,Oceania,Polynesia,70,3,2,crimson,midnightblue,crimson,Samoan tala,Samoan tala,English,Samoan,Christianity,Christian,225681.0,81.1802,High,2842.0,2780.0,0.01484,0.707,210.2568,Developing
+San Marino,NE,Europe,Southern Europe,0,1,2,white,cornflowerblue,white,Euro,Euro,Italian,Italian,Christianity,Catholicism,33642.0,560.7,Very High,61.0,60.0,-0.00054,0.853,1452.213,Developed
+Sao Tome and Principe,NE,Africa,Middle Africa,65,3,3,forestgreen,gold,crimson,Sao Tome and Principe dobra,Sao Tome and Principe dobra,Portuguese,Portuguese,Christianity,Folk religions,231856.0,241.5167,Medium,964.0,960.0,0.01969,0.618,625.5282,Developing
+Saudi Arabia,NE,Asia,Western Asia,75,2,2,forestgreen,white,white,Saudi riyal,Saudi riyal,Arabic,Arabic,Christianity,Islam,36947025.0,17.1871,Very High,2149690.0,2149690.0,0.01478,0.875,44.5147,Developed
+Senegal,NW,Africa,Western Africa,70,4,3,forestgreen,crimson,crimson,West African CFA franc,West African CFA franc,French,French,Christianity,Islam,17763163.0,92.2618,Low,196722.0,192530.0,0.0258,0.511,238.958,Developing
+Serbia,NE,Europe,Southeast Europe,75,1,3,white,firebrick,white,Serbian dinar,Serbian dinar,Serbian,Serbian,Christianity,Islam,7149077.0,81.7411,Very High,88361.0,87460.0,-0.01001,0.802,211.7095,Developed
+Seychelles,SE,Africa,Eastern Africa,75,2,5,crimson,midnightblue,white,Seychellois rupee,Seychellois rupee,English,French,Christianity,Islam,107660.0,234.0435,High,452.0,460.0,0.00506,0.785,606.1726,Developing
+Sierra Leone,NW,Africa,Western Africa,60,4,3,darkcyan,limegreen,white,Sierra Leonean leone,Sierra Leonean leone,English,English,Christianity,Islam,8791092.0,121.794,Low,71740.0,72180.0,0.02154,0.477,315.4465,Developing
+Singapore,NE,Asia,South-Eastern Asia,85,1,2,white,crimson,white,Singapore dollar,Singapore dollar,English,Chinese,Christianity,Islam,6014723.0,8377.0515,Very High,710.0,718.0,0.00653,0.939,21696.5635,Developed
+Sint Maarten,NW,Americas,Caribbean,80,2,3,crimson,midnightblue,white,Netherlands Antillean guilder,Netherlands Antillean guilder,English,French,Christianity,Christian,44222.0,1300.6471,Other,34.0,34.0,0.00106,0.0,3368.6759,Developing
+Slovakia,NE,Europe,Central Europe,75,1,3,crimson,white,white,Euro,Euro,Slovak,Slovak,Christianity,Christian,5795199.0,118.1849,Very High,49037.0,49035.0,0.02689,0.848,306.099,Developed
+Slovenia,NE,Europe,Central Europe,80,1,3,dodgerblue,red,white,Euro,Euro,Slovene,Slovene,Christianity,Christian,2119675.0,105.2658,Very High,20273.0,20136.4,-8e-05,0.918,272.6385,Developed
+Solomon Islands,SE,Oceania,Melanesia,70,4,3,darkslategray,teal,gold,Solomon Islands dollar,Solomon Islands dollar,English,English,Christianity,Christian,740424.0,26.4532,Medium,28896.0,27990.0,0.0223,0.564,68.5137,Developing
+Somalia,NE,Africa,Eastern Africa,55,6,1,royalblue,royalblue,royalblue,Somali shilling,Somali shilling,Arabic,Somali,Sunni Islam,Sunni Islam,18143378.0,28.9211,not rated,637657.0,627340.0,0.03102,0.0,74.9057,Developing
+South Africa,SE,Africa,Southern Africa,65,2,5,seagreen,crimson,white,South African rand,South African rand,English,Tswana,Christianity,Islam,60414495.0,49.8022,High,1221037.0,1213090.0,0.00869,0.713,128.9876,Developing
+South Georgia,SW,Antarctic,Other,0,0,3,midnightblue,white,white,Saint Helena pound,Saint Helena pound,English,English,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+South Korea,NE,Asia,Eastern Asia,85,0,4,white,black,white,South Korean won,South Korean won,Korean,Korean,Christianity,Buddhism,51784059.0,530.5744,Very High,100210.0,97600.0,-0.00061,0.925,1374.1876,Developed
+South Sudan,NE,Africa,Middle Africa,55,4,5,black,forestgreen,white,South Sudanese pound,South Sudanese pound,English,English,Christianity,Islam,11088796.0,17.5475,Low,619745.0,631930.0,0.01609,0.385,45.448,Developing
+Spain,NW,Europe,Southern Europe,80,1,2,firebrick,gold,gold,Euro,Euro,Spanish,Spanish,Christianity,Christianity,47519628.0,95.1236,Very High,505992.0,499556.6,-0.00082,0.905,246.3702,Developed
+Sri Lanka,NE,Asia,Southern Asia,75,2,4,goldenrod,brown,darkslategray,Sri Lankan rupee,Sri Lankan rupee,Tamil,Sinhala,Christianity,Islam,21893579.0,353.9214,High,65610.0,61860.0,0.00281,0.782,916.6565,Developing
+Sudan,NE,Africa,Northern Africa,65,4,4,black,crimson,white,Sudanese pound,Sudanese pound,English,Arabic,Christianity,Islam,48109006.0,25.7543,Low,1886068.0,1868000.0,0.02634,0.508,66.7036,Developing
+Suriname,NW,Americas,South America,70,2,3,seagreen,firebrick,white,Surinamese dollar,Surinamese dollar,Dutch,Dutch,Christianity,Islam,623236.0,3.9951,High,163820.0,156000.0,0.00841,0.73,10.3473,Developing
+Svalbard and Jan Mayen,NE,Europe,Northern Europe,0,0,3,crimson,midnightblue,white,krone,krone,Norwegian,Norwegian,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+Sweden,NE,Europe,Northern Europe,80,1,2,darkcyan,gold,gold,Swedish krona,Swedish krona,Swedish,Swedish,Christianity,Islam,10612086.0,26.0558,Very High,450295.0,407283.5,0.00595,0.947,67.4844,Developed
+Switzerland,NE,Europe,Western Europe,85,1,2,red,white,white,Swiss franc,Swiss franc,French,Italian,Christianity,Islam,8796669.0,222.6103,Very High,41284.0,39516.0,0.00643,0.962,576.5607,Developed
+Syria,NE,Asia,Western Asia,70,2,3,black,crimson,white,Syrian pound,Syrian pound,Arabic,Arabic,Christianity,Islam,23227014.0,126.4881,Medium,185180.0,183630.0,0.0498,0.577,327.6042,Developing
+Taiwan,NE,Asia,Eastern Asia,0,0,2,red,darkblue,red,New Taiwan dollar,New Taiwan dollar,Chinese,Chinese,Christianity,Buddhism,23923276.0,660.9188,Other,36193.0,36197.0,0.00125,0.0,1711.7796,Developing
+Tajikistan,NE,Asia,Central Asia,65,3,3,white,red,white,Tajikistani somoni,Tajikistani somoni,Russian,Tajik,Christianity,Islam,10143543.0,73.0855,Medium,143100.0,138790.0,0.01917,0.685,189.2916,Developing
+Tanzania,SE,Africa,Eastern Africa,65,4,4,black,limegreen,gold,Tanzanian shilling,Tanzanian shilling,English,Swahili,Christianity,Islam,67438106.0,76.1324,Low,945087.0,885800.0,0.02963,0.549,197.183,Developing
+Thailand,NE,Asia,South-Eastern Asia,80,1,3,darkslategray,brown,darkslategray,Thai baht,Thai baht,Thai,Thai,Christianity,Islam,71801279.0,140.5416,Very High,513120.0,510890.0,0.00145,0.8,364.0026,Developed
+Timor-Leste,SE,Asia,South-Eastern Asia,70,3,3,crimson,black,crimson,United States dollar,United States dollar,Portuguese,Tetum,Christianity,Islam,1360596.0,91.4994,Other,14874.0,14870.0,0.01439,0.607,236.9834,Developing
+Togo,NE,Africa,Western Africa,60,4,3,darkslategray,gold,crimson,West African CFA franc,West African CFA franc,French,French,Christianity,Islam,9053799.0,166.4607,Low,56785.0,54390.0,0.02318,0.539,431.1333,Developing
+Tokelau,SW,Oceania,Polynesia,0,0,2,midnightblue,gold,gold,New Zealand dollar,New Zealand dollar,English,Samoan,Other,Other,1893.0,189.3,Other,12.0,10.0,0.01176,0.0,490.287,Developing
+Tonga,SW,Oceania,Polynesia,70,3,2,firebrick,white,white,Tongan paanga,Tongan paanga,English,Tongan,Christianity,Christian,107773.0,149.6847,High,747.0,720.0,0.00856,0.745,387.6834,Developing
+Trinidad and Tobago,NE,Americas,Caribbean,75,1,3,crimson,black,white,Trinidad and Tobago dollar,Trinidad and Tobago dollar,English,English,Christianity,Islam,1534937.0,299.208,Very High,5130.0,5130.0,0.00254,0.81,774.9487,Developed
+Tunisia,NE,Africa,Northern Africa,75,2,2,red,white,white,Tunisian dinar,Tunisian dinar,Arabic,Arabic,Sunni Islam,Christians,12458223.0,80.1894,High,163610.0,155360.0,0.00826,0.731,207.6905,Developing
+Turkey,NE,Asia,Western Asia,75,1,1,red,red,red,Turkish lira,Turkish lira,Turkish,Turkish,religion in Turkey,religion in Turkey,85816199.0,109.5206,Very High,783562.0,783562.0,0.00557,0.838,283.6584,Developed
+Turkmenistan,NE,Asia,Central Asia,70,2,2,forestgreen,crimson,crimson,Turkmenistan manat,Turkmenistan manat,Russian,Turkmen,Christianity,Islam,6516100.0,13.8661,High,488100.0,469930.0,0.01327,0.745,35.9132,Developing
+Turks and Caicos Islands,NW,Americas,Caribbean,75,1,3,midnightblue,crimson,white,United States dollar,United States dollar,English,English,Other,Other,46062.0,48.5886,Other,948.0,948.0,0.00786,0.0,125.8445,Developing
+Tuvalu,SE,Oceania,Polynesia,65,3,4,lightseagreen,crimson,white,Australian dollar,Tuvaluan dollar,English,Tuvaluan,Christianity,Christianity,11396.0,379.8667,Medium,26.0,30.0,0.00743,0.641,983.8547,Developing
+Uganda,NE,Africa,Eastern Africa,60,4,3,gold,black,gold,Ugandan shilling,Ugandan shilling,English,Swahili,Christianity,Islam,48582334.0,242.2817,Low,241550.0,200520.0,0.02821,0.525,627.5097,Developing
+Ukraine,NE,Europe,Eastern Europe,70,1,2,darkcyan,gold,gold,Ukrainian hryvnia,Ukrainian hryvnia,Ukrainian,Ukrainian,Christianity,Christianity,36744634.0,63.4184,High,603500.0,579400.0,-0.07448,0.773,164.2537,Developing
+United Arab Emirates,NE,Asia,Western Asia,80,1,4,red,forestgreen,white,United Arab Emirates dirham,United Arab Emirates dirham,Arabic,Arabic,Sunni Islam,Sunni Islam,9516871.0,134.0027,Very High,83600.0,71020.0,0.00802,0.911,347.067,Developed
+United Kingdom,NW,Europe,Northern Europe,80,1,3,crimson,white,white,British pound,British pound,English,English,Christianity,Islam,67736802.0,279.9851,Very High,242900.0,241930.0,0.00338,0.929,725.1615,Developed
+United States,NW,Americas,North America,75,1,3,firebrick,white,white,United States dollar,United States dollar,English,English,Christianity,Islam,339996563.0,37.1686,Very High,9372610.0,9147420.0,0.00505,0.921,96.2666,Developed
+United States Minor Outlying Islands,NE,Americas,North America,0,0,3,firebrick,white,white,United States dollar,United States dollar,English,English,Other,Other,0.0,0.0,Other,0.0,0.0,0.0,0.0,0.0,Unknown
+United States Virgin Islands,NW,Americas,Caribbean,80,2,2,white,sandybrown,white,United States dollar,United States dollar,English,English,Christianity,Christianity,98750.0,284.5821,Other,347.0,347.0,-0.00719,0.0,737.0677,Developing
+Uruguay,SW,Americas,South America,80,1,2,white,darkblue,white,Uruguayan peso,Uruguayan peso,Spanish,Spanish,Christianity,Christian,3423108.0,19.5584,Very High,181034.0,175020.0,9e-05,0.809,50.6562,Developed
+Uzbekistan,NE,Asia,Central Asia,70,2,3,white,limegreen,white,Uzbekistani som,Uzbekistani som,Russian,Uzbek,Christianity,Islam,35163944.0,79.8002,High,447400.0,440650.0,0.01549,0.727,206.6824,Developing
+Vanuatu,SE,Oceania,Melanesia,70,3,4,forestgreen,crimson,crimson,Vanuatu vatu,Vanuatu vatu,English,French,Christianity,Catholicism,334506.0,27.441,Medium,12189.0,12190.0,0.02377,0.607,71.0722,Developing
+Vatican City,NE,Europe,Southern Europe,0,0,2,gold,white,white,Euro,Euro,Italian,Latin,Roman Catholicism,State religion,518.0,1177.2727,Other,0.44,0.44,0.01569,0.0,3049.1364,Developing
+Venezuela,NW,Americas,South America,70,2,3,gold,crimson,crimson,Venezuelan bolivar soberano,Venezuelan bolivar soberano,Spanish,Spanish,Christianity,Protestantism,28838499.0,32.6949,Medium,916445.0,882050.0,0.01897,0.691,84.6797,Developing
+Vietnam,NE,Asia,South-Eastern Asia,75,1,2,crimson,yellow,crimson,Vietnamese ong,Vietnamese ong,Vietnamese,Vietnamese,Christianity,Buddhism,98858950.0,315.411,High,331212.0,313429.0,0.00685,0.703,816.9145,Developing
+Wallis and Futuna,SW,Oceania,Polynesia,0,0,2,crimson,white,white,CFP franc,CFP franc,French,French,Other,Other,11502.0,41.9781,Other,274.0,274.0,-0.00605,0.0,108.7233,Developing
+Western Sahara,NW,Africa,Northern Africa,0,0,4,black,forestgreen,white,Algerian dinar,Moroccan dirham,Spanish,Berber,Other,Other,587259.0,2.2077,Other,266000.0,266000.0,0.01957,0.0,5.718,Developing
+Yemen,NE,Asia,Western Asia,65,3,3,black,crimson,white,Yemeni rial,Yemeni rial,Arabic,Arabic,Islam,Christians,34449825.0,65.2496,Low,527968.0,527970.0,0.02235,0.455,168.9964,Developing
+Zambia,SE,Africa,Eastern Africa,60,4,4,green,darkorange,crimson,Zambian kwacha,Zambian kwacha,English,English,Christianity,Christianity,20569737.0,27.6702,Medium,752612.0,743390.0,0.02758,0.565,71.6658,Developing
+Zimbabwe,SE,Africa,Southern Africa,60,3,5,darkgreen,gold,white,Zimbabwean dollar,Zimbabwean dollar,English,Tswana,Christianity,Christian,16665409.0,43.0798,Medium,390757.0,386850.0,0.02113,0.593,111.5766,Developing

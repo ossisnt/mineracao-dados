@@ -2,9 +2,37 @@ import os
 
 import pandas as pd
 
+external_selected_columns = [
+    "pop2023",
+    "cca2",
+    "density",
+    "hdiTier",
+    "area",
+    "landAreaKm",
+    "growthRate",
+    "hdi2021",
+    "densityMi",
+]
+
 current_dir = os.getcwd()
 merged_data_path = os.path.join(current_dir, "dados", "3_dataset_pre_consolidacao.csv")
+
+developed_path = os.path.join(current_dir, "dados", "developed.csv")
+developing_path = os.path.join(current_dir, "dados", "developing.csv")
+
+developed_df = pd.read_csv(developed_path, usecols=external_selected_columns)
+developing_df = pd.read_csv(developing_path, usecols=external_selected_columns)
+
+developed_df["country_or_territory_status"] = "Developed"
+developing_df["country_or_territory_status"] = "Developing"
+
+status_df = pd.concat([developed_df, developing_df], ignore_index=True)
+status_df["cca2"] = status_df["cca2"].str.lower()
+
 df = pd.read_csv(merged_data_path)
+df = pd.merge(
+    df, status_df, left_on="alpha_code", right_on="cca2", how="left", validate="1:1"
+)
 
 
 def calculate_weights(dataframe, columns):
@@ -36,15 +64,37 @@ for col in ["languages", "religion", "currency"]:
     )
     df.drop(col, axis=1, inplace=True)
 
+
 df["most_ranked_color"] = df["color_names"].apply(
     lambda x: max(x.split("|"), key=lambda y: weights.get(y, 0))
     if isinstance(x, str)
     else x
 )
 
+
+df.drop("alpha_code", axis=1, inplace=True)
+df.drop("cca2", axis=1, inplace=True)
 df.drop("color_names", axis=1, inplace=True)
 df.rename(columns={"predominant_color_name": "primary_color"}, inplace=True)
-df.fillna("Other", inplace=True)
+
+# Tratamento de valores nulos
+fill_values = {col: "Other" for col in df.columns}
+
+numeric_columns = [
+    "pop2023",
+    "density",
+    "area",
+    "landAreaKm",
+    "growthRate",
+    "hdi2021",
+    "densityMi",
+]
+for col in numeric_columns:
+    fill_values[col] = 0
+
+fill_values["country_or_territory_status"] = "Unknown"
+df.fillna(fill_values, inplace=True)
+
 
 columns_order = [
     "country_or_territory",
@@ -63,17 +113,18 @@ columns_order = [
     "languages_secondary",
     "religion_primary",
     "religion_secondary",
+    "pop2023",
+    "density",
+    "hdiTier",
+    "area",
+    "landAreaKm",
+    "growthRate",
+    "hdi2021",
+    "densityMi",
+    "country_or_territory_status",
 ]
+
 df = df[columns_order]
 
 dataset_final = os.path.join(current_dir, "dados", "4_dataset_final.csv")
 df.to_csv(dataset_final, index=False, encoding="utf-8")
-
-# dummies
-df_transformed = df.copy().drop(df.columns[0], axis=1)
-dummies = pd.get_dummies(df_transformed, prefix_sep="_", columns=df_transformed.columns)
-dummies.insert(0, df.columns[0], df[df.columns[0]])
-df = dummies
-
-dataset_final_transformed = os.path.join(current_dir, "dados", "4_dataset_final_transformed.csv")
-df.to_csv(dataset_final_transformed, index=False, encoding="utf-8")

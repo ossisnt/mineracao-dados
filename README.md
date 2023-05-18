@@ -53,6 +53,15 @@ python scripts\step4_consolidar_dados.py
 | languages_secondary       | Idioma secundário falado no país.|
 | religion_primary          | Religião principal adotada no país.|
 | religion_secondary        | Religião secundária adotada no país.|
+| pop2023                   | População em 2023.|
+| density                   | Densidade populacional.
+| hdiTier                   | Nível de IDH.|
+| area                      | Área ocupada pelo País ou Território.|
+| landAreaKm                | Área ocupada pelo País ou Território em quilômetros.|
+| growthRate                | Taxa de crescimento populacional.|
+| hdi2021                   | IDH em 2021.|
+| densityMi                 | Densidade por milhão.|
+| country_or_territory_status | Classe de estudo com indicativo se o País é Desenvolvido ou esta em Desenvolvimento.|
 
 
 *Observações*: Durante a análise, é possível que o algoritmo tenha ignorado ou identificado alguma cor, a depender da complexidade da imagem e sua condição, não avaliamos isto com um problema, visto que esta etapa foi realizada com a intenção de produzir dados para o objeto de estudo de mineração de dados e utilização da ferramenta WEKA.
