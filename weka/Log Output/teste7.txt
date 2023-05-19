@@ -1,0 +1,76 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     4_dataset_final-weka.filters.unsupervised.attribute.Remove-R23-weka.filters.unsupervised.attribute.Remove-R21-weka.filters.unsupervised.attribute.Remove-R20-weka.filters.unsupervised.attribute.Remove-R19-weka.filters.unsupervised.attribute.Remove-R5-weka.filters.unsupervised.attribute.Remove-R16
+Instances:    250
+Attributes:   19
+              country_or_territory
+              zone
+              region
+              subregion
+              fertility_rate
+              num_colors
+              primary_color
+              secondary_color
+              most_ranked_color
+              currency_primary
+              currency_secondary
+              languages_primary
+              languages_secondary
+              religion_primary
+              religion_secondary
+              density
+              growthRate
+              densityMi
+              country_or_territory_status
+Test mode:    split 30.0% train, remainder test
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+density <= 0: Unknown (17.0)
+density > 0
+|   fertility_rate <= 1
+|   |   fertility_rate <= 0: Developing (28.0/2.0)
+|   |   fertility_rate > 0: Developed (93.0/35.0)
+|   fertility_rate > 1: Developing (112.0/6.0)
+
+Number of Leaves  : 	4
+
+Size of the tree : 	7
+
+
+Time taken to build model: 0 seconds
+
+=== Evaluation on test split ===
+
+Time taken to test model on test split: 0 seconds
+
+=== Summary ===
+
+Correctly Classified Instances         139               79.4286 %
+Incorrectly Classified Instances        36               20.5714 %
+Kappa statistic                          0.6288
+Mean absolute error                      0.173 
+Root mean squared error                  0.3163
+Relative absolute error                 54.9019 %
+Root relative squared error             76.763  %
+Total Number of Instances              175     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,743    0,113    0,923      0,743    0,824      0,604    0,824     0,857     Developing
+                 0,933    0,025    0,778      0,933    0,848      0,837    0,954     0,732     Unknown
+                 0,872    0,195    0,621      0,872    0,726      0,619    0,837     0,580     Developed
+Weighted Avg.    0,794    0,128    0,830      0,794    0,799      0,628    0,838     0,772     
+
+=== Confusion Matrix ===
+
+  a  b  c   <-- classified as
+ 84  4 25 |  a = Developing
+  1 14  0 |  b = Unknown
+  6  0 41 |  c = Developed
+
